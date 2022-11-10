@@ -1,6 +1,9 @@
 payload:
-  - '+.g.doubleclick.net'
   - '+.applovin.com'
   - '+.applvn.com'
   - 'galaxy.bjcathay.com'
   - 'dsa-mfp.fengshows.cn'
+  - 'ad.doubleclick.net'
+  - 'pubads.g.doubleclick.net'
+  - 'googleads.g.doubleclick.net'
+  - 'securepubads.g.doubleclick.net'
