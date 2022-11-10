@@ -5,3 +5,4 @@ payload:
   - 'dsa-mfp.fengshows.cn'
   - 'pubads.g.doubleclick.net'
   - 'googleads.g.doubleclick.net'
+  - 'securepubads.g.doubleclick.net'
