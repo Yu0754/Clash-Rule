@@ -1,0 +1,455 @@
+---
+profile:
+  store-selected: true
+  store-fake-ip: true
+mode: rule
+log-level: silent
+allow-lan: true
+ipv6: false
+dns:
+  enable: true
+  ipv6: false
+  use-hosts: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+  - "+.*"
+  nameserver:
+    - 202.96.134.33
+    - 202.96.128.86
+    - 114.114.114.114
+    - 119.29.29.29
+    - 223.5.5.5
+    - tls://dot.pub
+    - tls://dns.alidns.com
+  fallback:
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  fallback-filter:
+    geoip: false
+    geoip-code: CN
+    ipcidr:
+      - 0.0.0.0/8
+      - 10.0.0.0/8
+      - 100.64.0.0/10
+      - 127.0.0.0/8
+      - 169.254.0.0/16
+      - 172.16.0.0/12
+      - 192.0.0.0/24
+      - 192.0.2.0/24
+      - 192.88.99.0/24
+      - 192.168.0.0/16
+      - 198.18.0.0/15
+      - 198.51.100.0/24
+      - 203.0.113.0/24
+      - 224.0.0.0/4
+      - 240.0.0.0/4
+      - 255.255.255.255/32
+  default-nameserver:
+    - 114.114.114.114
+    - 119.29.29.29
+    - 223.5.5.5
+tun:
+  enable: true
+  stack: system
+  auto-route: false
+  auto-detect-interface: false
+  dns-hijack:
+  - tcp://any:53
+proxy-providers:
+  001 Auto-HK:
+    type: http
+    path: ./profiles/proxies/auto-hk
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=hk&match=ac|premium|->&nomatch=hkt
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 120
+      lazy: false
+  002 Auto-TW:
+    type: http
+    path: ./profiles/proxies/auto-tw
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=tw&match=ac.*01|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 120
+      lazy: false
+  01 HK:
+    type: http
+    path: ./profiles/proxies/hk
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=hk&match=ac|iepl|aliyun|lite&nomatch=ac|premium|hkt
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  02 TW:
+    type: http
+    path: ./profiles/proxies/tw
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=tw&match=ac|iepl|aliyun|lite&nomatch=ac.*01|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  03 SG:
+    type: http
+    path: ./profiles/proxies/sg
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=sg&match=ac|iepl|aliyun|lite|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  04 JP:
+    type: http
+    path: ./profiles/proxies/jp
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=jp&match=ac|iepl|aliyun|lite|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  05 KR:
+    type: http
+    path: ./profiles/proxies/kr
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=kr&match=ac|iepl|aliyun|lite|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  06 DE:
+    type: http
+    path: ./profiles/proxies/de
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=de&match=ac|iepl|aliyun|lite|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  07 UK:
+    type: http
+    path: ./profiles/proxies/uk
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=uk&match=ac|iepl|aliyun|lite|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  08 US:
+    type: http
+    path: ./profiles/proxies/us
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=us&match=ac|iepl|aliyun|lite|->
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  09 HK-End:
+    type: http
+    path: ./profiles/proxies/hk-relay
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=hk&match=hkt.*[[0-9]]
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  10 OC-End:
+    type: http
+    path: ./profiles/proxies/oc-end
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&noarea=hk+tw+sg+jp+kr+de+uk+us
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+  11 OC-End:
+    type: http
+    path: ./profiles/proxies/oc-end
+    url: https://dler.cloud/subscribe/AIQwm7C7jpmMvWLl?protocols=trojan&provider=clash&area=hk+tw+sg+jp+kr+de+uk+us&nomatch=ac|iepl|aliyun|lite|->|hkt.*[[0-9]]
+    interval: 1800
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - Auto-HK
+      - Auto-TW
+      - HK
+      - TW
+      - SG
+      - JP
+      - KR
+      - DE
+      - UK
+      - US
+      - HK-Relay
+      - OC-Relay
+      - OC-End
+      - DIRECT
+  - name: Auto-HK
+    type: fallback
+    use:
+      - 001 Auto-HK
+      - 002 Auto-TW
+  - name: Auto-TW
+    type: fallback
+    use:
+      - 002 Auto-TW
+      - 001 Auto-HK
+  - name: HK
+    type: select
+    use:
+      - 01 HK
+  - name: TW
+    type: select
+    use:
+      - 02 TW
+  - name: SG
+    type: select
+    use:
+      - 03 SG
+  - name: JP
+    type: select
+    use:
+      - 04 JP
+  - name: KR
+    type: select
+    use:
+      - 05 KR
+  - name: DE
+    type: select
+    use:
+      - 06 DE
+  - name: UK
+    type: select
+    use:
+      - 07 UK
+  - name: US
+    type: select
+    use:
+      - 08 US
+  - name: HK-Relay
+    type: relay
+    proxies:
+      - Auto-HK
+      - HK-End
+  - name: HK-End
+    type: select
+    use:
+      - 09 HK-End
+  - name: OC-Relay
+    type: relay
+    proxies:
+      - Auto-HK
+      - OC-End
+  - name: OC-End
+    type: select
+    use:
+      - 10 OC-End
+      - 11 OC-End
+  - name: AdKill
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - Proxy
+  - name: Google
+    type: select
+    proxies:
+      - Auto-TW
+      - Auto-HK
+      - HK
+      - TW
+      - SG
+      - JP
+      - KR
+      - DE
+      - UK
+      - US
+      - HK-Relay
+      - OC-Relay
+      - OC-End
+      - DIRECT
+  - name: YouTube
+    type: select
+    proxies:
+      - Auto-TW
+      - Auto-HK
+      - HK
+      - TW
+      - SG
+      - JP
+      - KR
+      - DE
+      - UK
+      - US
+      - HK-Relay
+      - OC-Relay
+      - OC-End
+      - DIRECT
+  - name: Disney
+    type: select
+    proxies:
+      - Auto-TW
+      - Auto-HK
+      - HK
+      - TW
+      - SG
+      - JP
+      - KR
+      - DE
+      - UK
+      - US
+      - HK-Relay
+      - OC-Relay
+      - OC-End
+      - DIRECT
+  - name: HBO Go
+    type: select
+    proxies:
+      - Auto-HK
+      - Auto-TW
+      - HK
+      - TW
+      - SG
+      - JP
+      - KR
+      - DE
+      - UK
+      - US
+      - HK-Relay
+      - OC-Relay
+      - OC-End
+      - DIRECT
+  - name: Netflix
+    type: select
+    proxies:
+      - Auto-HK
+      - Auto-TW
+      - HK
+      - TW
+      - SG
+      - JP
+      - KR
+      - DE
+      - UK
+      - US
+      - HK-Relay
+      - OC-Relay
+      - OC-End
+      - DIRECT
+  - name: SpeedTest
+    type: select
+    proxies:
+      - Auto-HK
+      - Auto-TW
+      - HK
+      - TW
+      - SG
+      - JP
+      - KR
+      - DE
+      - UK
+      - US
+      - HK-Relay
+      - OC-Relay
+      - OC-End
+      - DIRECT
+script:
+  shortcuts:
+    Quic: network == "udp" and (dst_port == 80 or dst_port == 443) and (not match_provider("Direct")) and (not match_provider("Private")) and (not match_provider("LanIP")) and (not match_provider("ChinaIP"))
+rules:
+  - SCRIPT,Quic,REJECT
+  #
+  - RULE-SET,AdKill,AdKill
+  - RULE-SET,HK-Relay,HK-Relay
+  - RULE-SET,Google,Google
+  - RULE-SET,YouTube,YouTube
+  - RULE-SET,Disney,Disney
+  - RULE-SET,HBO Go,HBO Go
+  - RULE-SET,Netflix,Netflix
+  - RULE-SET,Speedtest,SpeedTest
+  #
+  - RULE-SET,Proxy,Proxy
+  - RULE-SET,Direct,DIRECT
+  - RULE-SET,Private,DIRECT
+  - RULE-SET,LanIP,DIRECT
+  - RULE-SET,ChinaIP,DIRECT
+  - MATCH,Proxy
+rule-providers:
+  AdKill:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Yu0754/Clash@main/AdKill
+    path: ./Rules/AdKill
+    interval: 43200
+  HK-Relay:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/Yu0754/Clash@main/HK-Relay
+    path: ./Rules/HK-Relay
+    interval: 43200
+  Google:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/snapei/clash-pro-rules@release/google.txt
+    path: ./Rules/Google
+    interval: 43200
+  YouTube:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Clash/Provider/Media/YouTube.yaml
+    path: ./Rules/Media/YouTube
+    interval: 43200
+  Disney:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Clash/Provider/Media/Disney%20Plus.yaml
+    path: ./Rules/Media/Disney
+    interval: 43200
+  HBO Go:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Clash/Provider/Media/HBO%20Go.yaml
+    path: ./Rules/Media/HBO_Go
+    interval: 43200
+  Netflix:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Clash/Provider/Media/Netflix.yaml
+    path: ./Rules/Media/Netflix
+    interval: 43200
+  Speedtest:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Clash/Provider/Speedtest.yaml
+    path: ./Rules/Speedtest
+    interval: 43200
+  Proxy:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
+    path: ./Rules/Proxy
+    interval: 43200
+  Direct:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
+    path: ./Rules/Direct
+    interval: 43200
+  Private:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
+    path: ./rules/Private
+    interval: 43200
+  LanIP:
+    type: http
+    behavior: ipcidr
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
+    path: ./Rules/LanIP
+    interval: 43200
+  ChinaIP:
+    type: http
+    behavior: ipcidr
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt
+    path: ./Rules/ChinaIP
+    interval: 43200
+...
