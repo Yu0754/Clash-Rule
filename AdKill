@@ -1,6 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,securepubads.g.doubleclick.net
