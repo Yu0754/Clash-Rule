@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,abcdefg.com,DIRECT
+  - DOMAIN-SUFFIX,abcdefg.net,Proxy
+  - IP-CIDR,72.10.01.01/32,DIRECT,no-resolve
