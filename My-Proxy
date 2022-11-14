@@ -1,5 +1,5 @@
 payload:
   # > My-Proxy
-  #- DOMAIN,www.my-proxy.com,DIRECT
-  #- DOMAIN-SUFFIX,my-proxy.net,Proxy
-  #- IP-CIDR,72.10.01.02/32,DIRECT,no-resolve
+  - DOMAIN,www.my-proxy.com
+  - DOMAIN-SUFFIX,my-proxy.net
+  - IP-CIDR,72.10.01.02/32,no-resolve
