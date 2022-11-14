@@ -1,0 +1,5 @@
+payload:
+  # > My-Rule
+  #- DOMAIN,www.my-rule.com,DIRECT
+  #- DOMAIN-SUFFIX,my-rule.net,Proxy
+  #- IP-CIDR,72.10.01.01/32,DIRECT,no-resolve
