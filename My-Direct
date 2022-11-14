@@ -1,5 +1,0 @@
-payload:
-  # > My-Direct
-  - DOMAIN,www.my-direct.com
-  - DOMAIN-SUFFIX,my-direct.net
-  - IP-CIDR,72.10.01.03/32,no-resolve
