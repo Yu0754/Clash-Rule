@@ -1,4 +1,0 @@
-payload:
-  - DOMAIN,my-rule.com
-  - DOMAIN-SUFFIX,my-rule.net
-  - IP-CIDR,72.10.01.01/32,no-resolve
