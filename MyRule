@@ -1,6 +1,6 @@
 payload:
   # > My-Rule
-  #- DOMAIN,www.myrule.com
-  #- DOMAIN-SUFFIX,myrule.net
+  - DOMAIN,www.myrule.com
+  - DOMAIN-SUFFIX,myrule.net
 
   - IP-CIDR,202.96.72.10/32,no-resolve
