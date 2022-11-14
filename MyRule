@@ -1,5 +1,11 @@
 payload:
   # > My-Rule
-  - DOMAIN,www.my-rule.com
-  - DOMAIN-SUFFIX,my-rule.net
-  - IP-CIDR,72.10.01.01/32,no-resolve
+  - DOMAIN-SUFFIX,e13252.dscg.akamaiedge.net
+  - DOMAIN-SUFFIX,h-netflix.online-metrix.net
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,cookielaw.org
+
+  - IP-CIDR,23.246.0.0/18,no-resolve
+  - IP-CIDR,37.77.184.0/21,no-resolve
+  - IP-CIDR,38.72.126.0/24,no-resolve
+  - IP-CIDR,45.57.0.0/17,no-resolve
