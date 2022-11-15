@@ -6,6 +6,6 @@ payload:
   #- DOMAIN-SUFFIX,jwpcdn.com
   #- DOMAIN-SUFFIX,jwpltx.com
   #- DOMAIN-SUFFIX,jwplayer.com
-  #- DOMAIN-KEYWORD,pccw-live
+  - DOMAIN-KEYWORD,pccw-live
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,tvb.com
