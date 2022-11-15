@@ -3,5 +3,5 @@ payload:
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.now.com
   - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-SUFFIX,mytvsuper.com
