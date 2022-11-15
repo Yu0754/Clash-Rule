@@ -5,6 +5,4 @@ payload:
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
   - DOMAIN-SUFFIX,youboranqs01.com
-  - DOMAIN,pubads.g.doubleclick.net
-  - DOMAIN,googleads.g.doubleclick.net
-  - DOMAIN,securepubads.g.doubleclick.net
+  - DOMAIN-SUFFIX,doubleclick.net
