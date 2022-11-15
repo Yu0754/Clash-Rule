@@ -5,3 +5,11 @@ payload:
   #- DOMAIN-KEYWORD,test18007540754.com
   #- DOMAIN-SUFFIX,test18007540754.com
   - DOMAIN,test18007540754.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN,galaxy.bjcathay.com
+  - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,securepubads.g.doubleclick.net
