@@ -1,5 +1,6 @@
 payload:
   # > AD Kill
+  - DOMAIN-SUFFIX,jwpltx.com
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,applovin.com
