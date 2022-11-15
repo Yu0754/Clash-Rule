@@ -1,8 +1,10 @@
 payload:
   # > HK End
   - DOMAIN-SUFFIX,viu.tv
-  - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,viu.now.com
   - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-KEYWORD,pccw-live
+  - DOMAIN-SUFFIX,jwpcdn.com
+  - DOMAIN-SUFFIX,jwplayer.com
+  #- DOMAIN-KEYWORD,pccw-live
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,tvb.com
