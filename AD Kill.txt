@@ -2,7 +2,7 @@ payload:
   # > AD Kill
   #- DOMAIN-SUFFIX,googleadservices.com
   #- DOMAIN-SUFFIX,doubleclick.net
-  - DOMAIN-SUFFIX,youboranqs01.com
+  #- DOMAIN-SUFFIX,youboranqs01.com
   #- DOMAIN-SUFFIX,ads.cdn.tvb.com
   #- DOMAIN-SUFFIX,ads.vip.hk4.tvb.com
   #- DOMAIN-SUFFIX,eservice.emarsys.net
