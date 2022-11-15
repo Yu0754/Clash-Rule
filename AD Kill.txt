@@ -1,7 +1,7 @@
 payload:
   # > AD Kill
-  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN,galaxy.bjcathay.com
