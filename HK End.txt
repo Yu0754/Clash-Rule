@@ -1,5 +1,8 @@
 payload:
   # > HK End
+  - DOMAIN-SUFFIX,jwpcdn.com
+  - DOMAIN-SUFFIX,jwpltx.com
+  - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.now.com
   - DOMAIN-SUFFIX,nowe.com
