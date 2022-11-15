@@ -1,8 +1,12 @@
 payload:
   # > AD Kill
+  - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,youboranqs01.com
-  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,ads.cdn.tvb.com
+  - DOMAIN-SUFFIX,ads.vip.hk4.tvb.com
+  - DOMAIN-SUFFIX,eservice.emarsys.net
+  - DOMAIN-SUFFIX,sc.omtrdc.net
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN,galaxy.bjcathay.com
