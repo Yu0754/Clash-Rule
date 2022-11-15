@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN,pubads.g.doubleclick.net,AdBlock
   - DOMAIN,googleads.g.doubleclick.net,AdBlock
   - DOMAIN,securepubads.g.doubleclick.net,AdBlock
