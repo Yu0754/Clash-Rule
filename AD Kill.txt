@@ -1,6 +1,8 @@
 payload:
   # > AD Kill
   - DOMAIN-SUFFIX,jwpltx.com
+  - DOMAIN-SUFFIX,rayjump.com
+  - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN,galaxy.bjcathay.com
