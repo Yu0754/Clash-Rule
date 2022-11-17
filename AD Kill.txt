@@ -1,10 +1,11 @@
 payload:
   # > AD Kill
-  - DOMAIN-SUFFIX,jwpltx.com
-  - DOMAIN-SUFFIX,rayjump.com
-  - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
-  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,rayjump.com
+  - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,securepubads.g.doubleclick.net
