@@ -1,6 +1,6 @@
 payload:
   # > AD Kill
-  - DOMAIN-SUFFIX,g.doubleclick.net
+  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,applovin.com
