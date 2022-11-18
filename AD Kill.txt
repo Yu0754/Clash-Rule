@@ -4,8 +4,8 @@ payload:
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,mintegral.net
+  - DOMAIN-KEYWORD,pubads
+  - DOMAIN-KEYWORD,googleads
+  - DOMAIN,ad.doubleclick.net
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
-  - DOMAIN,pubads.g.doubleclick.net
-  - DOMAIN,googleads.g.doubleclick.net
-  - DOMAIN,securepubads.g.doubleclick.net
