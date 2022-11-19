@@ -4,4 +4,4 @@ payload:
   #- IP-CIDR,192.168.1.1/32,no-resolve
   #- DOMAIN-KEYWORD,test18007540754.com
   #- DOMAIN-SUFFIX,test18007540754.com
-  - DOMAIN-KEYWORD,qobuz
+  - DOMAIN-KEYWORD,streaming-qobuz
