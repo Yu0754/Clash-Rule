@@ -1,5 +1,5 @@
 payload:
-  # > My Reject
+  # > Reject
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,applvn.com
