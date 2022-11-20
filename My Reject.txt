@@ -2,5 +2,10 @@ payload:
   # > My Reject
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,mintegral.net
+  - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,g.doubleclick.net
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN,static.doubleclick.net
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
