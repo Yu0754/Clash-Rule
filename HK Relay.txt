@@ -1,5 +1,5 @@
 payload:
-  # > HK Media
+  # > HK Relay
   - DOMAIN-KEYWORD,pccw-live
 #  - DOMAIN-SUFFIX,jwpcdn.com
 #  - DOMAIN-SUFFIX,jwpltx.com
