@@ -1,8 +1,0 @@
-payload:
-  - '+.doubleclick.net'
-  - '+.mintegral.net'
-  - '+.rayjump.com'
-  - '+.applovin.com'
-  - '+.applvn.com'
-  - 'galaxy.bjcathay.com'
-  - 'dsa-mfp.fengshows.cn'
