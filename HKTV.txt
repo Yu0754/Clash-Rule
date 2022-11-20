@@ -1,5 +1,6 @@
 payload:
   # > HK End
+  - DOMAIN-KEYWORD,pccw-live
   - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,jwpltx.com
   - DOMAIN-SUFFIX,jwplayer.com
