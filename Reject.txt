@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,g.doubleclick.net
+  - DOMAIN-SUFFIX,l.doubleclick.net
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,ads-server
   - DOMAIN,ad.doubleclick.net
