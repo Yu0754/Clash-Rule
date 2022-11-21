@@ -2,6 +2,8 @@ payload:
   # > Reject
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,ads-server
+  - DOMAIN-KEYWORD,googleads
+  - DOMAIN-KEYWORD,google-analytics
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,mintegral.net
@@ -9,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,doubleclick.net
-  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN,galaxy.bjcathay.com
