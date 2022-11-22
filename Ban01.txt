@@ -5,6 +5,8 @@ payload:
   - DOMAIN-KEYWORD,googleads
   - DOMAIN-KEYWORD,google-analytics
   - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,flurry.com
+  - DOMAIN-SUFFIX,pv.sohu.com
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,vungle.com
