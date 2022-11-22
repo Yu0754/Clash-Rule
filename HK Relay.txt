@@ -1,11 +1,8 @@
 payload:
   # > HK Relay
-  - DOMAIN-KEYWORD,pccw-live
-#  - DOMAIN-SUFFIX,jwpcdn.com
-#  - DOMAIN-SUFFIX,jwpltx.com
-#  - DOMAIN-SUFFIX,jwplayer.com
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-KEYWORD,mytvsuper
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-KEYWORD,pccw-live
