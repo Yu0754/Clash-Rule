@@ -1,7 +1,0 @@
-payload:
-  # > BanMan
-  - DOMAIN-KEYWORD,youbora
-  - DOMAIN-SUFFIX,mintegral.net
-  - DOMAIN-SUFFIX,applvn.com
-  - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN,dsa-mfp.fengshows.cn
