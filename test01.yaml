@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,g.doubleclick.net
   - DOMAIN-SUFFIX,l.doubleclick.net
+  - DOMAIN,adservice.google.com
 #  - DOMAIN-SUFFIX,googlesyndication.com
 #  - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN,galaxy.bjcathay.com
