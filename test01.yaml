@@ -1,0 +1,23 @@
+payload:
+  # > Reject
+#  - DOMAIN-KEYWORD,ads-server
+#  - DOMAIN-KEYWORD,loada.leadstec
+#  - DOMAIN,ads.tremorhub.com
+#  - DOMAIN,ads.aralego.com
+#  - DOMAIN-KEYWORD,adservice
+#  - DOMAIN-KEYWORD,googleads
+#  - DOMAIN-KEYWORD,google-analytics
+#  - DOMAIN-SUFFIX,appsflyer.com
+#  - DOMAIN-SUFFIX,flurry.com
+  - DOMAIN-SUFFIX,pv.sohu.com
+  - DOMAIN-SUFFIX,rayjump.com
+  - DOMAIN-SUFFIX,mintegral.net
+  - DOMAIN-SUFFIX,vungle.com
+  - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,g.doubleclick.net
+  - DOMAIN-SUFFIX,l.doubleclick.net
+#  - DOMAIN-SUFFIX,googlesyndication.com
+#  - DOMAIN-SUFFIX,scorecardresearch.com
+  - DOMAIN,galaxy.bjcathay.com
+  - DOMAIN,dsa-mfp.fengshows.cn
