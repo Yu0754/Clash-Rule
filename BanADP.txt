@@ -1024,7 +1024,7 @@ payload:
 
   # Others ads in Video apps
   - DOMAIN-SUFFIX,acsystem.wasu.tv
-  - DOMAIN-SUFFIX,ads.cdn.tvb.com
+#  - DOMAIN-SUFFIX,ads.cdn.tvb.com
   - DOMAIN-SUFFIX,ads.wasu.tv
   - DOMAIN-SUFFIX,afp.wasu.tv
   - DOMAIN-SUFFIX,c.algovid.com
