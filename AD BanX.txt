@@ -11,5 +11,6 @@ payload:
   - DOMAIN-SUFFIX,vungle.com
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,mintegral.net
+  - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
