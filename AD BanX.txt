@@ -1,5 +1,5 @@
 payload:
-  # > AD BanM
+  # > AD BanX
   - DOMAIN,adservice.google.com
   - DOMAIN,ad.doubleclick.net
   - DOMAIN-SUFFIX,g.doubleclick.net
