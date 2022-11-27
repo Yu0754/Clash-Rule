@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,pv.sohu.com
-  - DOMAIN-SUFFIX,appnext.com
   - DOMAIN-SUFFIX,vungle.com
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,mintegral.net
