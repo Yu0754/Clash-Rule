@@ -14,4 +14,4 @@ payload:
   - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN,galaxy.bjcathay.com
-#  - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN,dsa-mfp.fengshows.cn
