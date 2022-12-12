@@ -1,0 +1,3 @@
+payload:
+  # > MyProxy
+  - DOMAIN-KEYWORD,dler
