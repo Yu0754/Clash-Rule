@@ -1,6 +1,6 @@
 payload:
   # > AD BanX
-  - DOMAIN-KEYWORD,youbora
+#  - DOMAIN-KEYWORD,youbora
 #  - DOMAIN,adservice.google.com
   - DOMAIN,ad.doubleclick.net
   - DOMAIN-SUFFIX,g.doubleclick.net
