@@ -3,8 +3,12 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
   - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
+  - DOMAIN,sns.ap-southeast-1.amazonaws.com
+  - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
+  - DOMAIN,49jpbyt3h3.execute-api.us-east-1.amazonaws.com
