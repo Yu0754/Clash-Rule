@@ -1,0 +1,3 @@
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
