@@ -1,7 +1,8 @@
 payload:
   # > AD Ban
-#  - DOMAIN,hk4-edge41-2.edgeware.tvb.com
-#  - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN-KEYWORD,hk4-edge41
+  - DOMAIN-KEYWORD,hk4-edge42
+  - DOMAIN,dsa-mfp.fengshows.cn
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,ad.doubleclick.net
   - DOMAIN-SUFFIX,g.doubleclick.net
