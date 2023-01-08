@@ -1,17 +1,10 @@
 payload:
-  # > AD BanX
-#  - DOMAIN-KEYWORD,youbora
-#  - DOMAIN,adservice.google.com
+  # > AD Ban
+  - DOMAIN,hk4-edge41-2.edgeware.tvb.com
+  - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,ad.doubleclick.net
   - DOMAIN-SUFFIX,g.doubleclick.net
   - DOMAIN-SUFFIX,l.doubleclick.net
-#  - DOMAIN-SUFFIX,x.adanxing.com
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
-#  - DOMAIN-SUFFIX,pv.sohu.com
-#  - DOMAIN-SUFFIX,vungle.com
-#  - DOMAIN-SUFFIX,rayjump.com
-#  - DOMAIN-SUFFIX,mintegral.net
-#  - DOMAIN-SUFFIX,anythinktech.com
-  - DOMAIN,galaxy.bjcathay.com
-#  - DOMAIN,dsa-mfp.fengshows.cn
