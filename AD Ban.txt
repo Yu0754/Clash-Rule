@@ -2,8 +2,6 @@ payload:
   # > AD Ban
 #  - DOMAIN,dsa-mfp.fengshows.cn
   - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN,ad.doubleclick.net
-  - DOMAIN-SUFFIX,g.doubleclick.net
-  - DOMAIN-SUFFIX,l.doubleclick.net
+  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
