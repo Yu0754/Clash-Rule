@@ -3,7 +3,7 @@ payload:
   - DOMAIN,pubads.g.doubleclick.net
   - DOMAIN,googleads.g.doubleclick.net
   - DOMAIN,securepubads.g.doubleclick.net
-  - DOMAIN,dsa-mfp.fengshows.cn
-  - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN-SUFFIX,applvn.com
-  - DOMAIN-SUFFIX,applovin.com
+  #- DOMAIN,dsa-mfp.fengshows.cn
+  #- DOMAIN,galaxy.bjcathay.com
+  #- DOMAIN-SUFFIX,applvn.com
+  #- DOMAIN-SUFFIX,applovin.com
