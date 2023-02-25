@@ -1,8 +1,9 @@
 payload:
   # > AD Ban
-  - DOMAIN,pubads.g.doubleclick.net
-  - DOMAIN,googleads.g.doubleclick.net
-  - DOMAIN,securepubads.g.doubleclick.net
+  - DOMAIN-SUFFIX,doubleclick.net
+  #- DOMAIN,pubads.g.doubleclick.net
+  #- DOMAIN,googleads.g.doubleclick.net
+  #- DOMAIN,securepubads.g.doubleclick.net
   #- DOMAIN,dsa-mfp.fengshows.cn
   #- DOMAIN,galaxy.bjcathay.com
   #- DOMAIN-SUFFIX,applvn.com
