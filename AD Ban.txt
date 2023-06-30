@@ -7,5 +7,6 @@ payload:
   #- DOMAIN,dsa-mfp.fengshows.cn
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,mai.tvb.com
+  - DOMAIN,t-mai.tvb.com
   #- DOMAIN-SUFFIX,applvn.com
   #- DOMAIN-SUFFIX,applovin.com
