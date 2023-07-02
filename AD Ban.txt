@@ -1,8 +1,34 @@
 payload:
   # > AD Ban
+  - DOMAIN-KEYWORD,doubleclick
+#
+  - DOMAIN-KEYWORD,mai.tvb.com
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,dsa-mfp.fengshows.cn
   #- DOMAIN-SUFFIX,applvn.com
   #- DOMAIN-SUFFIX,applovin.com
-  - DOMAIN-KEYWORD,mai.tvb.com
-  - DOMAIN-KEYWORD,doubleclick
+# 喜马拉雅     
+  - DOMAIN-SUFFIX,adse.ximalaya.com
+  - DOMAIN-SUFFIX,linkeye.ximalaya.com
+  - DOMAIN-SUFFIX,location.ximalaya.com
+  - DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
+# 芒果TV
+  - DOMAIN-SUFFIX,click.hunantv.com
+  - DOMAIN-SUFFIX,da.hunantv.com
+  - DOMAIN-SUFFIX,da.mgtv.com
+  - DOMAIN-SUFFIX,log.hunantv.com
+  - DOMAIN-SUFFIX,log.v2.hunantv.com
+  - DOMAIN-SUFFIX,p2.hunantv.com
+  - DOMAIN-SUFFIX,res.hunantv.com
+# ByteDance 头条抖音
+  - DOMAIN-SUFFIX,ad.toutiao.com
+  - DOMAIN-SUFFIX,dsp.toutiao.com
+  - DOMAIN-SUFFIX,ic.snssdk.com
+  - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,nativeapp.toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,partner.toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,sm.toutiao.com
