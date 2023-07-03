@@ -1,13 +1,14 @@
 payload:
   # > AD Ban
 #
-  - DOMAIN,pubads.g.doubleclick.net
-  - DOMAIN,googleads.g.doubleclick.net
-  - DOMAIN,pubads.g.doubleclick-cn.net
-  - DOMAIN,googleads.g.doubleclick-cn.net
-  - DOMAIN,securepubads.g.doubleclick.net
-  - DOMAIN,mai.tvb.com
   - DOMAIN,galaxy.bjcathay.com
+  - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN-KEYWORD,doubleclick
+  #- DOMAIN,pubads.g.doubleclick.net
+  #- DOMAIN,googleads.g.doubleclick.net
+  #- DOMAIN,pubads.g.doubleclick-cn.net
+  #- DOMAIN,googleads.g.doubleclick-cn.net
+  #- DOMAIN,securepubads.g.doubleclick.net
   #- DOMAIN,dsa-mfp.fengshows.cn
   #- DOMAIN-SUFFIX,applvn.com
   #- DOMAIN-SUFFIX,applovin.com
