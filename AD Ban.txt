@@ -1,6 +1,5 @@
 payload:
   # > AD Ban
-#
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-KEYWORD,mai.tvb.com
   - DOMAIN-KEYWORD,doubleclick
@@ -12,7 +11,6 @@ payload:
   #- DOMAIN,dsa-mfp.fengshows.cn
   #- DOMAIN-SUFFIX,applvn.com
   #- DOMAIN-SUFFIX,applovin.com
-#
 # 喜马拉雅     
   - DOMAIN-SUFFIX,adse.ximalaya.com
   - DOMAIN-SUFFIX,linkeye.ximalaya.com
