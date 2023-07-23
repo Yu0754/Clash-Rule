@@ -1,7 +1,11 @@
 payload:
   # > AD Ban
-  - DOMAIN-KEYWORD,mai.tvb.com
+# 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
+# 无线电视
+  - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN-KEYWORD,youbora
+#
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
   #- DOMAIN,pubads.g.doubleclick-cn.net
