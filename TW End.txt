@@ -1,3 +1,5 @@
-vidol.tv
-setn.com
-brightcove.com
+payload:
+  # > TW End
+  - DOMAIN-SUFFIX,vidol.tv
+  - DOMAIN-SUFFIX,setn.com
+  - DOMAIN-SUFFIX,brightcove.com
