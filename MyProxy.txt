@@ -1,3 +1,0 @@
-payload:
-  # > MyProxy
-  - DOMAIN-SUFFIX,dlercloud.com
