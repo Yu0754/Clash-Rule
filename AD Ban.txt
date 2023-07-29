@@ -20,6 +20,7 @@ payload:
   - DOMAIN,adservice.google.com
   - DOMAIN,app-measurement.com
   - DOMAIN,ssl.google-analytics.com
+  - DOMAIN,www.google-analytics.com
   - DOMAIN,pagead2.googlesyndication.com
 # 凤凰秀
   #- DOMAIN,dsa-mfp.fengshows.cn
