@@ -7,8 +7,8 @@ payload:
   #- DOMAIN-KEYWORD,app-measurement
   #- DOMAIN-KEYWORD,appsflyer
 # 无线电视
-  - DOMAIN,mai.tvb.com
-  #- DOMAIN-KEYWORD,youbora
+  - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN-KEYWORD,youbora
 # 谷歌广告
   #- DOMAIN-KEYWORD,doubleclick
   - DOMAIN,pubads.g.doubleclick.net
@@ -18,6 +18,9 @@ payload:
   - DOMAIN,securepubads.g.doubleclick.net
   - DOMAIN,static.doubleclick.net
   - DOMAIN,adservice.google.com
+  - DOMAIN,app-measurement.com
+  - DOMAIN,ssl.google-analytics.com
+  - DOMAIN,pagead2.googlesyndication.com
 # 凤凰秀
   #- DOMAIN,dsa-mfp.fengshows.cn
 # 电视直播
