@@ -5,4 +5,4 @@ payload:
   - DOMAIN-SUFFIX,setn.com
   - DOMAIN-SUFFIX,brightcove.com
 # HBO GO
-  - DOMAIN-KEYWORD,hbogo
+  #- DOMAIN-KEYWORD,hbogo
