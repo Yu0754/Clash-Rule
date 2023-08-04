@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,vidol.tv
   - DOMAIN-SUFFIX,setn.com
   - DOMAIN-SUFFIX,brightcove.com
+#
+  - DOMAIN-KEYWORD,hbogo
