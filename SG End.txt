@@ -1,0 +1,4 @@
+payload:
+  # > SG End
+# Sample
+  - DOMAIN,sg.Sample.com
