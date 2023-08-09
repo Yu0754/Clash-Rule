@@ -8,7 +8,7 @@ payload:
   #- DOMAIN-KEYWORD,appsflyer
 # 无线电视
   - DOMAIN-KEYWORD,mai.tvb.com
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
 # 谷歌广告
   #- DOMAIN-KEYWORD,doubleclick
   - DOMAIN,pubads.g.doubleclick.net
