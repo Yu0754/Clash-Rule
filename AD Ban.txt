@@ -4,6 +4,14 @@ payload:
   - DOMAIN-KEYWORD,mai.tvb.com
   - DOMAIN-KEYWORD,youbora
 # 谷歌广告
+  #- DOMAIN-KEYWORD,doubleclick
+  #
+  #- DOMAIN,pubads.g.doubleclick.net
+  #- DOMAIN,googleads.g.doubleclick.net
+  #- DOMAIN,pubads.g.doubleclick-cn.net
+  #- DOMAIN,googleads.g.doubleclick-cn.net
+  #- DOMAIN,securepubads.g.doubleclick.net
+  #
   - DOMAIN-SUFFIX,admob.com
   - DOMAIN-SUFFIX,ads.gmodules.com
   - DOMAIN-SUFFIX,ads.google.com
@@ -24,16 +32,10 @@ payload:
   - DOMAIN-SUFFIX,pagead.google.com
   - DOMAIN-SUFFIX,pagead.l.google.com
   - DOMAIN-SUFFIX,service.urchin.com
-  #- DOMAIN-KEYWORD,doubleclick
-  #- DOMAIN,pubads.g.doubleclick.net
-  #- DOMAIN,googleads.g.doubleclick.net
-  #- DOMAIN,pubads.g.doubleclick-cn.net
-  #- DOMAIN,googleads.g.doubleclick-cn.net
-  #- DOMAIN,securepubads.g.doubleclick.net
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 凤凰秀
-  #- DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN,dsa-mfp.fengshows.cn
 # 电视直播
   #- DOMAIN-SUFFIX,applvn.com
   #- DOMAIN-SUFFIX,applovin.com
