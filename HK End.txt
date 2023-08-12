@@ -4,15 +4,15 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   #- DOMAIN-KEYWORD,hkt
   - DOMAIN-KEYWORD,mytvsuper
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
 # ViuTV
   - DOMAIN-SUFFIX,viu.tv
   #- DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
+  #- DOMAIN,prd.jwpltx.com
+  #- DOMAIN,entitlements.jwplayer.com
   #- DOMAIN,d1k2us671qcoau.cloudfront.net
   #- DOMAIN,d2anahhhmp1ffz.cloudfront.net
   #- DOMAIN,sns.ap-southeast-1.amazonaws.com
