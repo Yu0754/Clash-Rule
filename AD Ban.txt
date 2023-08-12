@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,youbora
 # 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
+  #
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
   #- DOMAIN,pubads.g.doubleclick-cn.net
