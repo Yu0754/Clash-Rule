@@ -2,7 +2,7 @@ payload:
   # > AD Ban
 # 无线电视
   - DOMAIN-KEYWORD,mai.tvb.com
-  #- DOMAIN-KEYWORD,youbora
+  - DOMAIN-KEYWORD,youbora
 # 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
   #
@@ -14,7 +14,7 @@ payload:
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 凤凰秀
-  - DOMAIN,dsa-mfp.fengshows.cn
+  #- DOMAIN,dsa-mfp.fengshows.cn
 # 电视直播
   #- DOMAIN-SUFFIX,applvn.com
   #- DOMAIN-SUFFIX,applovin.com
