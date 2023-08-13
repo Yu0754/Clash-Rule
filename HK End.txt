@@ -1,15 +1,15 @@
 payload:
   # > HK End
 # TVB
-  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-KEYWORD,api.tvb
   #- DOMAIN-KEYWORD,mytvsuper
   #- DOMAIN-KEYWORD,youbora
 # ViuTV
   #- DOMAIN-KEYWORD,pccw-live
-  - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-KEYWORD,api.viu
   #- DOMAIN-SUFFIX,viu.com
   #- DOMAIN-SUFFIX,now.com
-  - DOMAIN-SUFFIX,nowe.com
+  #- DOMAIN-SUFFIX,nowe.com
   #- DOMAIN,prd.jwpltx.com
   #- DOMAIN,entitlements.jwplayer.com
   #- DOMAIN,d1k2us671qcoau.cloudfront.net
