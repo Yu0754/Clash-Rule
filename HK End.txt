@@ -1,13 +1,13 @@
 payload:
   # > HK End
 # TVB
-  - DOMAIN,inews-api.tvb.com
-  - DOMAIN-SUFFIX,edgeware.tvb.com
+  - DOMAIN-KEYWORD,api.tvb
+  #- DOMAIN-SUFFIX,edgeware.tvb.com
   #- DOMAIN-SUFFIX,tvb.com
   #- DOMAIN-KEYWORD,mytvsuper
   #- DOMAIN-KEYWORD,youbora
 # ViuTV
-  - DOMAIN,api.viu.tv
+  - DOMAIN-KEYWORD,api.viu
   #- DOMAIN-SUFFIX,viu.tv
   #- DOMAIN-SUFFIX,viu.com
   #- DOMAIN-SUFFIX,now.com
