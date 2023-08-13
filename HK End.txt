@@ -6,11 +6,12 @@ payload:
   #- DOMAIN-KEYWORD,mytvsuper
   #- DOMAIN-KEYWORD,youbora
 # ViuTV
-  - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN,api.viu.tv
+  #- DOMAIN-SUFFIX,viu.tv
   #- DOMAIN-SUFFIX,viu.com
   #- DOMAIN-SUFFIX,now.com
   #- DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-KEYWORD,pccw-live
+  #- DOMAIN-KEYWORD,pccw-live
   #- DOMAIN,prd.jwpltx.com
   #- DOMAIN,entitlements.jwplayer.com
   #- DOMAIN,d1k2us671qcoau.cloudfront.net
