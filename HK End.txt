@@ -1,6 +1,7 @@
 payload:
   # > HK End
 # TVB
+  - DOMAIN,inews-api.tvb.com
   - DOMAIN-SUFFIX,edgeware.tvb.com
   #- DOMAIN-SUFFIX,tvb.com
   #- DOMAIN-KEYWORD,mytvsuper
