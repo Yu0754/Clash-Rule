@@ -3,6 +3,7 @@ payload:
 # 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
   - DOMAIN-KEYWORD,adservice
+  - DOMAIN,pagead2.googlesyndication.com
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
   #- DOMAIN,pubads.g.doubleclick-cn.net
