@@ -1,18 +1,19 @@
 payload:
   # > AD Ban
+# 其他
+  - DOMAIN-KEYWORD,ads.cup
+  - DOMAIN-KEYWORD,adcolony
 # 谷歌广告
+  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,googlesyndication
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
   #- DOMAIN,pubads.g.doubleclick-cn.net
   #- DOMAIN,googleads.g.doubleclick-cn.net
   #- DOMAIN,securepubads.g.doubleclick.net
-  #
-  - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-KEYWORD,googlesyndication
-  - DOMAIN-KEYWORD,adcolony
 # 无线电视
-  - DOMAIN-KEYWORD,mai.tvb.com
   - DOMAIN-KEYWORD,youbora
+  - DOMAIN-KEYWORD,mai.tvb.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 小米
