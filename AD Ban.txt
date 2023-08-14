@@ -16,9 +16,9 @@ payload:
 # 小米
   - DOMAIN-SUFFIX,adx.tv.mi.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
-# 电视直播
-  #- DOMAIN-SUFFIX,applvn.com
-  #- DOMAIN-SUFFIX,applovin.com
 # 喜马拉雅
   - DOMAIN-KEYWORD,adse.ximalaya
   - DOMAIN-KEYWORD,adse.wsa.ximalaya
+# 电视直播
+  #- DOMAIN-SUFFIX,applvn.com
+  #- DOMAIN-SUFFIX,applovin.com
