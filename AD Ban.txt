@@ -6,10 +6,10 @@ payload:
   - DOMAIN,pubads.g.doubleclick-cn.net
   - DOMAIN,googleads.g.doubleclick-cn.net
   - DOMAIN,securepubads.g.doubleclick.net
-  #- DOMAIN,ad.doubleclick.net
-  #- DOMAIN,adservice.google.com
-  #- DOMAIN,google.adservices.com
-  #- DOMAIN,pagead2.googlesyndication.com
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN,adservice.google.com
+  - DOMAIN,pagead2.googlesyndication.com
+  #- DOMAIN,www.googleadservices.com
 # 无线电视
   - DOMAIN-KEYWORD,mai.tvb.com
   - DOMAIN-KEYWORD,youbora
