@@ -1,14 +1,15 @@
 payload:
   # > AD Ban
 # 谷歌广告
-  - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-KEYWORD,adservice
-  - DOMAIN,pagead2.googlesyndication.com
-  #- DOMAIN,pubads.g.doubleclick.net
-  #- DOMAIN,googleads.g.doubleclick.net
-  #- DOMAIN,pubads.g.doubleclick-cn.net
-  #- DOMAIN,googleads.g.doubleclick-cn.net
-  #- DOMAIN,securepubads.g.doubleclick.net
+  - DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,pubads.g.doubleclick-cn.net
+  - DOMAIN,googleads.g.doubleclick-cn.net
+  - DOMAIN,securepubads.g.doubleclick.net
+  #- DOMAIN,ad.doubleclick.net
+  #- DOMAIN,adservice.google.com
+  #- DOMAIN,google.adservices.com
+  #- DOMAIN,pagead2.googlesyndication.com
 # 无线电视
   - DOMAIN-KEYWORD,mai.tvb.com
   - DOMAIN-KEYWORD,youbora
