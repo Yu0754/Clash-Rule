@@ -2,6 +2,7 @@ payload:
   # > AD Ban
 # 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,adservice
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
   #- DOMAIN,pubads.g.doubleclick-cn.net
