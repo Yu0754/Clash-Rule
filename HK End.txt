@@ -2,7 +2,7 @@ payload:
   # > HK End
 # TVB
   - DOMAIN-KEYWORD,api.tvb
-  - DOMAIN-KEYWORD,api.mytvsuper
+  - DOMAIN-KEYWORD,mytvsuper
   - DOMAIN-SUFFIX,edgeware.tvb.com
 # ViuTV
   - DOMAIN-KEYWORD,api.viu
