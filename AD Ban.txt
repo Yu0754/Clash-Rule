@@ -12,7 +12,7 @@ payload:
   #- DOMAIN,googleads.g.doubleclick-cn.net
   #- DOMAIN,securepubads.g.doubleclick.net
 # 无线电视
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,mai.tvb.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
