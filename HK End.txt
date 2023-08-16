@@ -2,7 +2,7 @@ payload:
   # > HK End
 # TVB
   - DOMAIN-KEYWORD,mytvsuper
-  - DOMAIN-SUFFIC,tvb.com
+  - DOMAIN-SUFFIX,tvb.com
 # ViuTV
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,now.com
