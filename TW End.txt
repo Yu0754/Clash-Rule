@@ -5,4 +5,6 @@ payload:
   - DOMAIN-SUFFIX,setn.com
   - DOMAIN-SUFFIX,brightcove.com
 # HBO GO
-  #- DOMAIN-KEYWORD,hbogo
+  - DOMAIN-KEYWORD,hbogo
+# 其它
+  - DOMAIN-SUFFIX,app-measurement.com
