@@ -6,4 +6,5 @@ payload:
   - DOMAIN-SUFFIX,edgeware.tvb.com
 # ViuTV
   - DOMAIN-KEYWORD,api.viu
+  - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
