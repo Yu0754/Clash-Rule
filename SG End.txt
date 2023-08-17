@@ -1,4 +1,5 @@
 payload:
   # > SG End
 # Sample
-  - DOMAIN,sg.Sample.com
+  - DOMAIN-SUFFIX,dler.cloud
+  - DOMAIN-SUFFIX,githubusercontent.com
