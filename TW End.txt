@@ -7,4 +7,4 @@ payload:
 # HBO GO
   - DOMAIN-KEYWORD,hbogo
 # 其它
-  - DOMAIN-SUFFIX,app-measurement.com
+  #- DOMAIN-SUFFIX,app-measurement.com
