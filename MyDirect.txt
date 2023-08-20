@@ -1,3 +1,3 @@
 payload:
   # > MyDirect
-  - DOMAIN-SUFFIX,MyDirect.com
+  - DOMAIN-SUFFIX,samaple.mydirect.com
