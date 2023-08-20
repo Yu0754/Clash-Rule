@@ -30,6 +30,10 @@ payload:
 # 喜马拉雅
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
+  - DOMAIN,adbehavior.ximalaya.com
+  - DOMAIN,adbehavior.wsa.ximalaya.com
+  - DOMAIN,xdcs-collector.ximalaya.com
+  - DOMAIN,xdcs-collector.wsa.ximalaya.com
 # 电视直播
   #- DOMAIN-SUFFIX,applvn.com
   #- DOMAIN-SUFFIX,applovin.com
