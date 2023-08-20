@@ -3,7 +3,7 @@ payload:
 # 其他
   - DOMAIN-KEYWORD,ads.cup
   #
-  - DOMAIN-SUFFIX,shifen.com
+  #- DOMAIN-SUFFIX,shifen.com
   - DOMAIN-SUFFIX,jwpltx.com
   - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,adcolony.com
