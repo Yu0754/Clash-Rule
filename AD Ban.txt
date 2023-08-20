@@ -1,5 +1,6 @@
 payload:
   # > AD Ban
+  - DOMAIN-KEYWORD,jwpl
 # 其他
   - DOMAIN-KEYWORD,ads.cup
   - DOMAIN-KEYWORD,adservice
