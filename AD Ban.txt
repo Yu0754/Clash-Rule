@@ -6,6 +6,8 @@ payload:
 # 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
   - DOMAIN-SUFFIX,app-measurement.com 
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,googlesyndication.com
 # 无线电视
   - DOMAIN-KEYWORD,mai.tvb.com
