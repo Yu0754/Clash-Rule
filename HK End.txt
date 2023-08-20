@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
 # ViuTV
-  - DOMAIN-SUFFIX,shifen.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
