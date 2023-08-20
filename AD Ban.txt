@@ -2,9 +2,12 @@ payload:
   # > AD Ban
 # 其他
   - DOMAIN-KEYWORD,ads.cup
+  - DOMAIN-KEYWORD,adservice
   - DOMAIN-SUFFIX,shifen.com
   - DOMAIN-SUFFIX,adcolony.com
   - DOMAIN-SUFFIX,ads.ysepay.com
+  - DOMAIN-SUFFIX,ads.weilitoutiao.net
+  #- DOMAIN-SUFFIX,adservice.sigmob.cn
 # 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
   - DOMAIN-SUFFIX,appsflyer.com
