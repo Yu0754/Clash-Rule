@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,adcolony.com
 # 谷歌广告
   - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,app-measurement.com 
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,scorecardresearch.com
