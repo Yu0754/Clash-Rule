@@ -28,13 +28,6 @@ payload:
   - DOMAIN-SUFFIX,adx.tv.mi.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 喜马拉雅
-  #- DOMAIN,adse.ximalaya.com
-  #- DOMAIN,adse.wsa.ximalaya.com
-  #- DOMAIN,adbehavior.ximalaya.com
-  #- DOMAIN,adbehavior.wsa.ximalaya.com
-  #- DOMAIN,xdcs-collector.ximalaya.com
-  #- DOMAIN,xdcs-collector.wsa.ximalaya.com
-
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
   - DOMAIN,adsebs.ximalaya.com
