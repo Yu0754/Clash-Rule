@@ -1,4 +1,4 @@
 payload:
   # > SG End
 # Sample
-  - DOMAIN,sample.sample.sample
+  - DOMAIN,sample.sample
