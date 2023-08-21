@@ -4,5 +4,3 @@ payload:
   - DOMAIN-SUFFIX,vidol.tv
   - DOMAIN-SUFFIX,setn.com
   - DOMAIN-SUFFIX,brightcove.com
-# Apple TV
-  - DOMAIN-SUFFIX,itunes.apple.com
