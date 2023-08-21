@@ -1,4 +1,3 @@
 payload:
   # > MyProxy
   - DOMAIN-SUFFIX,samaple.myproxy.com
-  - DOMAIN-SUFFIX,time.android.com
