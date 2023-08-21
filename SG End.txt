@@ -1,6 +1,4 @@
 payload:
   # > SG End
 # Sample
-  - DOMAIN,sample.com.cn
-  #- DOMAIN-SUFFIX,dler.cloud
-  #- DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN,sample.sample.sample
