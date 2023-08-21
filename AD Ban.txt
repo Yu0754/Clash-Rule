@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # 谷歌广告
+  - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,doubleclick
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,crashlytics.com
