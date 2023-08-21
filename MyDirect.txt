@@ -1,3 +1,4 @@
 payload:
   # > MyDirect
   - DOMAIN-SUFFIX,samaple.mydirect.com
+  - DOMAIN-SUFFIX,gitv.tv
