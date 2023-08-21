@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,jwpltx.com
   - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,time.android.com
   # 
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
