@@ -5,6 +5,8 @@ payload:
   #
   #- DOMAIN-SUFFIX,jwpltx.com
   #- DOMAIN-SUFFIX,jwplayer.com
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
   - DOMAIN-SUFFIX,adcolony.com
   # 
   - DOMAIN-SUFFIX,ads.ysepay.com
