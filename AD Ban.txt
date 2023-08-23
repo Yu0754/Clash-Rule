@@ -10,8 +10,8 @@ payload:
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # 谷歌广告
-  - DOMAIN-KEYWORD,adservice
-  - DOMAIN-KEYWORD,doubleclick
+  #- DOMAIN-KEYWORD,adservice
+  #- DOMAIN-KEYWORD,doubleclick
   #- DOMAIN-SUFFIX,appsflyer.com
   #- DOMAIN-SUFFIX,crashlytics.com
   #- DOMAIN-SUFFIX,app-measurement.com 
@@ -19,7 +19,7 @@ payload:
   #- DOMAIN-SUFFIX,scorecardresearch.com
   #- DOMAIN-SUFFIX,googlesyndication.com
 # 无线电视
-  - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN,mai.tvb.com
   #- DOMAIN-KEYWORD,youbora
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
