@@ -3,21 +3,21 @@ payload:
 # 其他
   - DOMAIN-KEYWORD,ads.cup
   #
-  #- DOMAIN-SUFFIX,jwpltx.com
-  #- DOMAIN-SUFFIX,jwplayer.com
+  - DOMAIN-SUFFIX,jwpltx.com
+  - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,adcolony.com
   # 
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # 谷歌广告
-  #- DOMAIN-KEYWORD,adservice
-  #- DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,doubleclick
   #- DOMAIN-SUFFIX,appsflyer.com
   #- DOMAIN-SUFFIX,crashlytics.com
   #- DOMAIN-SUFFIX,app-measurement.com 
   #- DOMAIN-SUFFIX,google-analytics.com
   #- DOMAIN-SUFFIX,scorecardresearch.com
-  #- DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googlesyndication.com
 # 无线电视
   - DOMAIN,mai.tvb.com
   #- DOMAIN-KEYWORD,youbora
