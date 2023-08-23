@@ -10,14 +10,19 @@ payload:
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # 谷歌广告
-  - DOMAIN-KEYWORD,adservice
-  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick-cn.net
+  - DOMAIN,securepubads.g.doubleclick.net
+  - DOMAIN,pagead2.googlesyndication.com
+  #- DOMAIN-KEYWORD,adservice
+  #- DOMAIN-KEYWORD,doubleclick
   #- DOMAIN-SUFFIX,appsflyer.com
   #- DOMAIN-SUFFIX,crashlytics.com
   #- DOMAIN-SUFFIX,app-measurement.com 
   #- DOMAIN-SUFFIX,google-analytics.com
   #- DOMAIN-SUFFIX,scorecardresearch.com
-  - DOMAIN-SUFFIX,googlesyndication.com
+  #- DOMAIN-SUFFIX,googlesyndication.com
 # 无线电视
   - DOMAIN,mai.tvb.com
   #- DOMAIN-KEYWORD,youbora
