@@ -3,8 +3,8 @@ payload:
 # 其他
   - DOMAIN-KEYWORD,ads.cup
   #
-  - DOMAIN-SUFFIX,jwpltx.com
-  - DOMAIN-SUFFIX,jwplayer.com
+  #- DOMAIN-SUFFIX,jwpltx.com
+  #- DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,adcolony.com
   # 
   - DOMAIN-SUFFIX,ads.ysepay.com
