@@ -3,8 +3,8 @@ payload:
 # 其他
   - DOMAIN-KEYWORD,ads.cup
   #
-  - DOMAIN-SUFFIX,jwpltx.com
-  - DOMAIN-SUFFIX,jwplayer.com
+  #- DOMAIN-SUFFIX,jwpltx.com
+  #- DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,adcolony.com
   # 
   - DOMAIN-SUFFIX,ads.ysepay.com
@@ -12,15 +12,15 @@ payload:
 # 谷歌广告
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-SUFFIX,appsflyer.com
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,app-measurement.com 
-  - DOMAIN-SUFFIX,google-analytics.com
-  - DOMAIN-SUFFIX,scorecardresearch.com
-  - DOMAIN-SUFFIX,googlesyndication.com
+  #- DOMAIN-SUFFIX,appsflyer.com
+  #- DOMAIN-SUFFIX,crashlytics.com
+  #- DOMAIN-SUFFIX,app-measurement.com 
+  #- DOMAIN-SUFFIX,google-analytics.com
+  #- DOMAIN-SUFFIX,scorecardresearch.com
+  #- DOMAIN-SUFFIX,googlesyndication.com
 # 无线电视
   - DOMAIN-KEYWORD,mai.tvb.com
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
@@ -37,5 +37,5 @@ payload:
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
 # 电视直播
-  - DOMAIN-SUFFIX,applvn.com
-  - DOMAIN-SUFFIX,applovin.com
+  #- DOMAIN-SUFFIX,applvn.com
+  #- DOMAIN-SUFFIX,applovin.com
