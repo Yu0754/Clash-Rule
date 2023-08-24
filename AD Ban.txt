@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # 谷歌广告
   - DOMAIN-KEYWORD,adserver
+  - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,g.doubleclick
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
