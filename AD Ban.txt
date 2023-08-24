@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,adserver
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN-KEYWORD,ad.doubleclick
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick-cn.net
