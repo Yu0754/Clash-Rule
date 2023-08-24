@@ -14,11 +14,11 @@ payload:
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
+  - DOMAIN,pagead2.googlesyndication.com
   #- DOMAIN,pubads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick.net
   #- DOMAIN,googleads.g.doubleclick-cn.net
   #- DOMAIN,securepubads.g.doubleclick.net
-  #- DOMAIN,pagead2.googlesyndication.com
 # 无线电视
   - DOMAIN,mai.tvb.com
 # 央视影音
