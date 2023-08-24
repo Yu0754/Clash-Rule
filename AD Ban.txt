@@ -10,8 +10,8 @@ payload:
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # 谷歌广告
-  - DOMAIN-KEYWORD,adserver
-  - DOMAIN-KEYWORD,adservice
+  #- DOMAIN-KEYWORD,adserver
+  #- DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN,pagead2.googlesyndication.com
