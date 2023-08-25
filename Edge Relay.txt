@@ -1,0 +1,3 @@
+payload:
+  # > Edge Relay
+  - DOMAIN,sample.sample
