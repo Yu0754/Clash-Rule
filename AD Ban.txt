@@ -39,8 +39,6 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,location.ximalaya.com
-# 微博
-  - DOMAIN,adstrategy.biz.weibo.com
 # 电视直播
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com
