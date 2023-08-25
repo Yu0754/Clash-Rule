@@ -3,8 +3,8 @@ payload:
 # 其他
   - DOMAIN-KEYWORD,ads.cup
   #
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
+  #- DOMAIN,prd.jwpltx.com
+  #- DOMAIN,entitlements.jwplayer.com
   - DOMAIN-SUFFIX,adcolony.com
   # 
   - DOMAIN-SUFFIX,ads.ysepay.com
@@ -26,9 +26,9 @@ payload:
   - DOMAIN-SUFFIX,ads.cctv.com
   - DOMAIN-SUFFIX，mgadx.com
 # 小米
-  - DOMAIN-SUFFIX,adx.tv.mi.com
-  - DOMAIN-SUFFIX,ad.xiaomi.com
-  - DOMAIN,milink.pandora.xiaomi.com
+  #- DOMAIN-SUFFIX,adx.tv.mi.com
+  #- DOMAIN-SUFFIX,ad.xiaomi.com
+  #- DOMAIN,milink.pandora.xiaomi.com
 
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
