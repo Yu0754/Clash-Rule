@@ -2,7 +2,7 @@ payload:
   # > AD Ban
 # 其他
   - DOMAIN-KEYWORD,ads.cup
-  - DOMAIN-KEYWORD,umeng
+  #- DOMAIN-KEYWORD,umeng
   - DOMAIN-SUFFIX,jpush.cn
   - DOMAIN-SUFFIX,jpush-ipv6.cn
   - DOMAIN-SUFFIX,jiguang.cn
