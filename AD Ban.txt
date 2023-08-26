@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,doubleclick
   - DOMAIN-KEYWORD,adservice.google.com
   - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,app-measurement.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
