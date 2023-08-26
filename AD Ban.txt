@@ -1,7 +1,6 @@
 payload:
   # > AD Ban
 # 其他
-  - DOMAIN-KEYWORD,umeng
   - DOMAIN-KEYWORD,ads.cup
   # 
   - DOMAIN-SUFFIX,ads.ysepay.com
