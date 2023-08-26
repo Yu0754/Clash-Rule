@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,app-measurement.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN-KEYWORD,youbora
 # VIU
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
