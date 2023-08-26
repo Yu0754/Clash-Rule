@@ -1,10 +1,11 @@
 payload:
   # > AD Ban
 # 其他
+  - DOMAIN-KEYWORD,ads.cup
   - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,jpush.cn
   - DOMAIN-SUFFIX,jiguang.cn
-  - DOMAIN-KEYWORD,ads.cup
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # Google
