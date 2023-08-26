@@ -2,6 +2,7 @@ payload:
   # > AD Ban
 # 其他
   - DOMAIN-KEYWORD,ads.cup
+  - DOMAIN-KEYWORD,umeng
   #
   #- DOMAIN,prd.jwpltx.com
   #- DOMAIN,entitlements.jwplayer.com
