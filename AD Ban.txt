@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,ads.cup
   - DOMAIN-KEYWORD,umeng
   - DOMAIN-SUFFIX,jpush.cn
+  - DOMAIN-SUFFIX,jpush-ipv6.cn
   - DOMAIN-SUFFIX,jiguang.cn
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
