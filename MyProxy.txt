@@ -1,3 +1,4 @@
 payload:
   # > MyProxy
   - DOMAIN,sample.sample
+  - DOMAIN,alcdn.hls.xiaoka.tv
