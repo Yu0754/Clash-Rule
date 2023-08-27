@@ -1,3 +1,4 @@
 payload:
   # > MyDirect
-  - DOMAIN-SUFFIX,sample.sample.sample
+  - DOMAIN,sample.sample
+  - IP-CIDR,17.0.0.0/8
