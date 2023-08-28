@@ -1,12 +1,5 @@
 payload:
   # > Edge Relay
   - DOMAIN,sample.sample
-# OpenAI
-  # > New Bing
-  #- DOMAIN-SUFFIX,bing.com
-  #- DOMAIN-SUFFIX,bingapis.com
-  # > Claude
-  #- DOMAIN-SUFFIX,anthropic.com
-  #- DOMAIN-SUFFIX,claude.ai
-  # > Bard
-  #- DOMAIN,bard.google.com
+# Google Bard
+  - DOMAIN,bard.google.com
