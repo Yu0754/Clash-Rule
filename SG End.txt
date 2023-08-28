@@ -2,12 +2,6 @@ payload:
   # > SG End
 # Sample
   - DOMAIN,sample.sample
-# OpenAI
-  # > New Bing
+# New Bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bingapis.com
-  # > Claude
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
-  # > Bard
-  - DOMAIN,bard.google.com
