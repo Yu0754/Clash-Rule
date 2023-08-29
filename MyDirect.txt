@@ -1,3 +1,5 @@
 payload:
   # > MyDirect
   - DOMAIN,sample.sample
+# Apple IP
+  - IP-CIDR,17.0.0.0/8
