@@ -1,3 +1,4 @@
 payload:
   # > MyProxy
+# Sample
   - DOMAIN,sample.sample
