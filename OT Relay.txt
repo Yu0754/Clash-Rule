@@ -1,3 +1,5 @@
 payload:
-  # > Edge Relay
+  # > OT Relay
   - DOMAIN,sample.sample
+  # Google Bard
+  - DOMAIN,bard.google.com
