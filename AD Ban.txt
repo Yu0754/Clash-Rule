@@ -28,7 +28,6 @@ payload:
 # 小米
   - DOMAIN-SUFFIX,adx.tv.mi.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
-  #- DOMAIN,milink.pandora.xiaomi.com 
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
