@@ -1,31 +1,32 @@
 payload:
   # > AD Ban
 # 其他
-  - DOMAIN-KEYWORD,ads.cup
-  - DOMAIN-KEYWORD,umeng
-  - DOMAIN-SUFFIX,jpush.cn
-  - DOMAIN-SUFFIX,jpush-ipv6.cn
-  - DOMAIN-SUFFIX,jiguang.cn
-  - DOMAIN-SUFFIX,ads.ysepay.com
-  - DOMAIN-SUFFIX,ads.weilitoutiao.net
+  #- DOMAIN-KEYWORD,ads.cup
+  #- DOMAIN-KEYWORD,umeng
+  #- DOMAIN-SUFFIX,jpush.cn
+  #- DOMAIN-SUFFIX,jpush-ipv6.cn
+  #- DOMAIN-SUFFIX,jiguang.cn
+  #- DOMAIN-SUFFIX,ads.ysepay.com
+  #- DOMAIN-SUFFIX,ads.weilitoutiao.net
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN-KEYWORD,adservice.google.com
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-KEYWORD,ad.doubleclick
+  #- DOMAIN-KEYWORD,adservice.google.com
+  #- DOMAIN-SUFFIX,googlesyndication.com
+  #- DOMAIN-SUFFIX,app-measurement.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
 # VIU
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
-  - DOMAIN-SUFFIX,adcolony.com
-  - DOMAIN-SUFFIX,appsflyer.com
+  #- DOMAIN,prd.jwpltx.com
+  #- DOMAIN,entitlements.jwplayer.com
+  #- DOMAIN-SUFFIX,adcolony.com
+  #- DOMAIN-SUFFIX,appsflyer.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
 # 南方 Plus
-  - DOMAIN,advapi.nfapp.southcn.com
+  #- DOMAIN,advapi.nfapp.southcn.com
 # 小米
   - DOMAIN-SUFFIX,adx.tv.mi.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
@@ -42,5 +43,5 @@ payload:
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,location.ximalaya.com
 # 电视直播
-  - DOMAIN-SUFFIX,applvn.com
-  - DOMAIN-SUFFIX,applovin.com
+  #- DOMAIN-SUFFIX,applvn.com
+  #- DOMAIN-SUFFIX,applovin.com
