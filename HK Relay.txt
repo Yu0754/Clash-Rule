@@ -1,5 +1,8 @@
 payload:
   # > HKT Relay
+# 其他
+  - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,youborafds01.com
 # TVB
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
@@ -8,3 +11,5 @@ payload:
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
