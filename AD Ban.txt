@@ -9,10 +9,11 @@ payload:
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # Google
-  - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,ad.doubleclick.net
-  - DOMAIN,adservice.google.com
-  - DOMAIN,pagead2.googlesyndication.com
+  - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,mobileanalytics
+  - DOMAIN-KEYWORD,google-analytics
+  - DOMAIN-KEYWORD,googlesyndication
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
   #- DOMAIN-KEYWORD,youbora
