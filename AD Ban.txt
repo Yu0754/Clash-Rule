@@ -9,26 +9,25 @@ payload:
   - DOMAIN-SUFFIX,ads.ysepay.com
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
 # Google
-  - DOMAIN-KEYWORD,adservice
-  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN,adservice.google.com
   - DOMAIN,pagead2.googlesyndication.com
-  #- DOMAIN-SUFFIX,app-measurement.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
   #- DOMAIN-KEYWORD,youbora
 # VIU
+  - DOMAIN-SUFFIX,adcolony.com
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
-  - DOMAIN-SUFFIX,adcolony.com
-  #- DOMAIN-SUFFIX,appsflyer.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
 # 南方 Plus
   - DOMAIN,advapi.nfapp.southcn.com
 # 小米
-  #- DOMAIN-SUFFIX,adx.tv.mi.com
-  #- DOMAIN-SUFFIX,ad.xiaomi.com
+  - DOMAIN-SUFFIX,adx.tv.mi.com
+  - DOMAIN-SUFFIX,ad.xiaomi.com
   #- DOMAIN,milink.pandora.xiaomi.com 
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
