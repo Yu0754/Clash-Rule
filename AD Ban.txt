@@ -16,11 +16,8 @@ payload:
   - DOMAIN-KEYWORD,googlesyndication
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
-  #- DOMAIN-KEYWORD,youbora
 # VIU
   - DOMAIN-SUFFIX,adcolony.com
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
