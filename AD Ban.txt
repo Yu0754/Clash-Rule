@@ -11,9 +11,9 @@ payload:
 # Google
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-KEYWORD,mobileanalytics
   - DOMAIN-KEYWORD,google-analytics
   - DOMAIN-KEYWORD,googlesyndication
+  - DOMAIN-KEYWORD,mobileanalytics
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
