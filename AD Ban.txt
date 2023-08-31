@@ -19,9 +19,6 @@ payload:
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
-# 人民日报
-  - DOMAIN,stat.peopleapp.com
-  - DOMAIN,status-ipv6.jpush.cn
 # 南方 Plus
   - DOMAIN,advapi.nfapp.southcn.com
 # 联合早报
@@ -40,6 +37,3 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,location.ximalaya.com
-# 电视直播
-  - DOMAIN-SUFFIX,applvn.com
-  - DOMAIN-SUFFIX,applovin.com
