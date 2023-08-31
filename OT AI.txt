@@ -1,7 +1,0 @@
-payload:
-  # > OT AI
-# Claude
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
-# Bard
-  - DOMAIN,bard.google.com
