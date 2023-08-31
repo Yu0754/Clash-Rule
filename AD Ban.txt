@@ -20,7 +20,7 @@ payload:
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
 # 人民日报
-  - DOMAIN,stat.peopleapp.com
+  #- DOMAIN,stat.peopleapp.com
 # 南方 Plus
   - DOMAIN,advapi.nfapp.southcn.com
 # 联合早报
