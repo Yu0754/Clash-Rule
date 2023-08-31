@@ -1,21 +1,19 @@
 payload:
   # > AD Ban
 # 其他
-  - DOMAIN-KEYWORD,ads.cup
-  #- DOMAIN-KEYWORD,umeng
-  #- DOMAIN-SUFFIX,jpush.cn
-  #- DOMAIN-SUFFIX,jpush-ipv6.cn
-  #- DOMAIN-SUFFIX,jiguang.cn
-  - DOMAIN-SUFFIX,ads.ysepay.com
-  - DOMAIN-SUFFIX,ads.weilitoutiao.net
+  - DOMAIN,ads.cup.com.cn
+  - DOMAIN,ads.ysepay.com
+  - DOMAIN,adservice.sigmob.cn
+  - DOMAIN,ads.weilitoutiao.net
 # Google
-  - DOMAIN-KEYWORD,adservice
-  - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-KEYWORD,google-analytics
-  - DOMAIN-KEYWORD,googlesyndication
-  - DOMAIN-KEYWORD,mobileanalytics
+  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN,adservice.google.com
+  - DOMAIN,ssl.google-analytics.com
+  - DOMAIN,pagead2.googlesyndication.com
+  #- DOMAIN-KEYWORD,mobileanalytics
 # TVB
-  - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN,mai.tvb.com
 # VIU
   - DOMAIN-SUFFIX,adcolony.com
 # 央视影音
