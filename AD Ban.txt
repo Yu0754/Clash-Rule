@@ -3,19 +3,19 @@ payload:
 # 其他
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,ads.ysepay.com
-  - DOMAIN,adservice.sigmob.cn
   - DOMAIN,ads.weilitoutiao.net
+  - DOMAIN,adservice.sigmob.cn
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
   - DOMAIN,adservice.google.com
   - DOMAIN,ssl.google-analytics.com
   - DOMAIN,pagead2.googlesyndication.com
-  #- DOMAIN-KEYWORD,mobileanalytics
 # TVB
   - DOMAIN,mai.tvb.com
 # VIU
-  - DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN,wd.adcolony.com
+  - DOMAIN,events3.adcolony.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
