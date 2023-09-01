@@ -25,8 +25,8 @@ payload:
   - DOMAIN,ads.zaobao.com
 # 小米
   - DOMAIN,adx.tv.mi.com
-  - DOMAIN,ad.xiaomi.com
-  - DOMAIN,mlink.pandora.xiaomi.com
+  #- DOMAIN,ad.xiaomi.com
+  #- DOMAIN,mlink.pandora.xiaomi.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
