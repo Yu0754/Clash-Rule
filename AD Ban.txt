@@ -1,7 +1,7 @@
 payload:
   # > AD Ban
 # 其他
-  - DOMAIN,ads.cup.com.cn
+  #- DOMAIN,ads.cup.com.cn
   - DOMAIN,ads.ysepay.com
   - DOMAIN,ads.weilitoutiao.net
   - DOMAIN,adservice.sigmob.cn
@@ -24,9 +24,9 @@ payload:
 # 联合早报
   - DOMAIN,ads.zaobao.com
 # 小米
-  - DOMAIN-SUFFIX,adx.tv.mi.com
-  - DOMAIN-SUFFIX,ad.xiaomi.com
-  - DOMAIN-SUFFIX,pandora.xiaomi.com
+  #- DOMAIN-SUFFIX,adx.tv.mi.com
+  #- DOMAIN-SUFFIX,ad.xiaomi.com
+  #- DOMAIN-SUFFIX,pandora.xiaomi.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
