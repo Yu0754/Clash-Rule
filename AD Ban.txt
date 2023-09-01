@@ -25,8 +25,8 @@ payload:
   - DOMAIN,ads.zaobao.com
 # 小米
   #- DOMAIN-SUFFIX,adx.tv.mi.com
-  #- DOMAIN-SUFFIX,ad.xiaomi.com
-  #- DOMAIN-SUFFIX,pandora.xiaomi.com
+  - DOMAIN-SUFFIX,ad.xiaomi.com
+  - DOMAIN,mlink.pandora.xiaomi.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
@@ -38,56 +38,3 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,location.ximalaya.com
-# 小米 TV
-  - DOMAIN,ad.mi.com
-  - DOMAIN,ad.xiaomi.com
-  - DOMAIN,ad1.xiaomi.com
-  - DOMAIN,appstore.cdn.pandora.xiaomi.com
-  - DOMAIN,appstore.pandora.xiaomi.com
-  - DOMAIN,api.ad.xiaomi.com
-  - DOMAIN,ad.doubleclick.net
-  - DOMAIN,bss.pandora.xiaomi.com
-  - DOMAIN,b.netcheck.gallery.pandora.xiaomi.com
-  - DOMAIN,broker.mqtt.pandora.xiaomi.com
-  - DOMAIN,config.kuyun.com
-  - DOMAIN,dvb.pandora.xiaomi.com
-  - DOMAIN,de.pandora.xiaomi.com
-  - DOMAIN,data.mistat.xiaomi.com
-  - DOMAIN,f1.market.xiaomi.com
-  - DOMAIN,f2.market.xiaomi.com
-  - DOMAIN,f3.market.xiaomi.com
-  - DOMAIN,f4.market.xiaomi.com
-  - DOMAIN,f5.market.xiaomi.com
-  - DOMAIN,f1.market.mi-img.com
-  - DOMAIN,f2.market.mi-img.com
-  - DOMAIN,f3.market.mi-img.com
-  - DOMAIN,f4.market.mi-img.com
-  - DOMAIN,f5.market.mi-img.com
-  - DOMAIN,file.xmpush.xiaomi.com
-  - DOMAIN,gvod.aiseejapp.atianqi.com
-  - DOMAIN,g.dtv.cn.miaozhan.com
-  - DOMAIN,gallery.pandora.xiaomi.com
-  - DOMAIN,jellyfish.pandora.xiaomi.com
-  - DOMAIN,logonext.tv.kuyun.com
-  - DOMAIN,mishop.pandora.xiaomi.com
-  - DOMAIN,milink.pandora.xiaomi.com
-  - DOMAIN,misc.pandora.xiaomi.com
-  - DOMAIN,mitv.tracking.miui.com
-  - DOMAIN,metok.sys.miui.com
-  - DOMAIN,new.api.ad.xiaomi.com
-  - DOMAIN,pandora.mi.com
-  - DOMAIN,redirect.pandora.xiaomi.com
-  - DOMAIN,register.xmpush.xiaomi.com
-  - DOMAIN,resolver.msg.xiaomi.net
-  - DOMAIN,r.browser.miui.com
-  - DOMAIN,stat.pandora.xiaomi.com
-  - DOMAIN,sdkconfig.ad.xiaomi.com
-  - DOMAIN,staging.ai.api.xiaomi.com
-  - DOMAIN,tracking.miui.com
-  - DOMAIN,tv.weixin.pandora.xiaomi.com
-  - DOMAIN,tvmanager.pandora.xiaomi.com
-  - DOMAIN,tvmgr.pandora.xiaomi.com
-  - DOMAIN,tat.pandora.xiaomi.com
-  - DOMAIN,t7z.cupid.ptqy.gitv.tv
-  - DOMAIN,upgrade.mishop.pandora.xiaomi.com
-  - DOMAIN,v.admaster.com.cn
