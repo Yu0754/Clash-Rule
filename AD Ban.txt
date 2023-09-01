@@ -24,8 +24,8 @@ payload:
 # 联合早报
   - DOMAIN,ads.zaobao.com
 # 小米
-  - DOMAIN,adx.tv.mi.com
-  - DOMAIN-SUFFIX,ad.xiaomi.com
+  #- DOMAIN,adx.tv.mi.com
+  #- DOMAIN-SUFFIX,ad.xiaomi.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
