@@ -1,10 +1,12 @@
 payload:
   # > AD Ban
 # 其他
-  - DOMAIN,ads.cup.com.cn
-  - DOMAIN,ads.ysepay.com
-  - DOMAIN,ads.weilitoutiao.net
-  - DOMAIN,adservice.sigmob.cn
+  - DOMAIN-SUFFIX,ads.cup.com.cn
+  - DOMAIN-SUFFIX,ads.ysepay.com
+  - DOMAIN-SUFFIX,adx.hubcloud.com.cn
+  - DOMAIN-SUFFIX,ad.track.66mobi.com
+  - DOMAIN-SUFFIX,ads.weilitoutiao.net
+  - DOMAIN-SUFFIX,adservice.sigmob.cn
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
