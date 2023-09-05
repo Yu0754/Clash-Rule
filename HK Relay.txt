@@ -8,3 +8,6 @@ payload:
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
+# New Bing
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.com
