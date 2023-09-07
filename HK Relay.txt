@@ -2,6 +2,7 @@ payload:
   # > HKT Relay
 # TVB
   - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-KEYWORD,tvb-inews
   - DOMAIN-KEYWORD,mytvsuper
 # ViuTV
   - DOMAIN-SUFFIX,viu.tv
