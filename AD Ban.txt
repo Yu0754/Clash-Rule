@@ -15,7 +15,6 @@ payload:
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
-  - DOMAIN-KEYWORD,youbora
 # VIU
   - DOMAIN-SUFFIX,adcolony.com
   - DOMAIN,ad.crwdcntrl.net
