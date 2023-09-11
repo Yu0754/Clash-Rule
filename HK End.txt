@@ -2,4 +2,4 @@ payload:
   # > HK End
 # Sample
   - DOMAIN,sample.sample
-  - DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
+  #- DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
