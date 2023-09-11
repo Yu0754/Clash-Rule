@@ -2,5 +2,3 @@ payload:
   # > HK End
 # Sample
   - DOMAIN,sample.sample
-  - DOMAIN-SUFFIX,fengshows.cn
-  - DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
