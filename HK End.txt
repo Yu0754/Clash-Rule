@@ -2,4 +2,4 @@ payload:
   # > HK End
 # Sample
   - DOMAIN,sample.sample
-  - DOMAIN,oss-static-zaobao.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
