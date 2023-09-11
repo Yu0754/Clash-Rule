@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
   - DOMAIN,static.doubleclick.net
+  - DOMAIN,app-measurement.com
   - DOMAIN,adservice.google.com
   - DOMAIN,ssl.google-analytics.com
   - DOMAIN,pagead2.googlesyndication.com
