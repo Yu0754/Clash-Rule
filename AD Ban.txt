@@ -8,9 +8,9 @@ payload:
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
   - DOMAIN-SUFFIX,adservice.sigmob.cn
 # Google
-  - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,ad.doubleclick.net
-  - DOMAIN,static.doubleclick.net
+  - DOMAIN-KEYWORD,doubleclick
+  #- DOMAIN,ad.doubleclick.net
+  #- DOMAIN,static.doubleclick.net
   - DOMAIN,adservice.google.com
   - DOMAIN,ssl.google-analytics.com
   - DOMAIN,pagead2.googlesyndication.com
@@ -19,7 +19,7 @@ payload:
   - DOMAIN-KEYWORD,youbora
 # VIU
   - DOMAIN-SUFFIX,adcolony.com
-  - DOMAIN,ad.crwdcntrl.net
+  - DOMAIN-SUFFIX,crwdcntrl.net
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
 # 央视影音
