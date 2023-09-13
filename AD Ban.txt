@@ -8,9 +8,9 @@ payload:
   - DOMAIN-SUFFIX,ads.weilitoutiao.net
   - DOMAIN-SUFFIX,adservice.sigmob.cn
 # Google
-  - DOMAIN-KEYWORD,doubleclick
-  #- DOMAIN,ad.doubleclick.net
-  #- DOMAIN,static.doubleclick.net
+  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN,static.doubleclick.net
   - DOMAIN,adservice.google.com
   - DOMAIN,ssl.google-analytics.com
   - DOMAIN,pagead2.googlesyndication.com
