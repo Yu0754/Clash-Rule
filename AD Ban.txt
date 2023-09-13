@@ -26,7 +26,7 @@ payload:
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
 # 联合早报
-  #- DOMAIN,ads.zaobao.com
+  - DOMAIN,ads.zaobao.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
