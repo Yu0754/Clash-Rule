@@ -22,7 +22,6 @@ payload:
   - DOMAIN-SUFFIX,crwdcntrl.net
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
-  - DOMAIN,time.android.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
