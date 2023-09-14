@@ -2,3 +2,4 @@ payload:
   # > HK End
 # Sample
   - DOMAIN,sample.sample
+  - DOMAIN-SUFFIX,aliyuncs.com
