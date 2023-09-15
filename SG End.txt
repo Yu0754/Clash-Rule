@@ -3,6 +3,10 @@ payload:
 # Sample
   - DOMAIN,sample.sample
 # > New Bing
-  - DOMAIN-KEYWORD,bing
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.com
+# > Claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
 # > Bard
-  - DOMAIN-KEYWORD,bard
+  - DOMAIN,bard.google.com
