@@ -6,3 +6,11 @@ payload:
   - DOMAIN-SUFFIX,vidol.tv
   - DOMAIN-SUFFIX,setn.com
   - DOMAIN-SUFFIX,brightcove.com
+# > New Bing
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.com
+# > Claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+# > Bard
+  - DOMAIN,bard.google.com
