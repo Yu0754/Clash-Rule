@@ -9,17 +9,17 @@ payload:
   #- DOMAIN-SUFFIX,adservice.sigmob.cn
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,ad.doubleclick.net
-  - DOMAIN,static.doubleclick.net
-  - DOMAIN,adservice.google.com
-  - DOMAIN,ssl.google-analytics.com
-  - DOMAIN,pagead2.googlesyndication.com
+  #- DOMAIN,ad.doubleclick.net
+  #- DOMAIN,static.doubleclick.net
+  #- DOMAIN,adservice.google.com
+  #- DOMAIN,ssl.google-analytics.com
+  #- DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
   #- DOMAIN-KEYWORD,youbora
 # VIU
-  - DOMAIN-SUFFIX,adcolony.com
-  - DOMAIN-SUFFIX,crwdcntrl.net
+  #- DOMAIN-SUFFIX,adcolony.com
+  #- DOMAIN-SUFFIX,crwdcntrl.net
   #- DOMAIN,prd.jwpltx.com
   #- DOMAIN,entitlements.jwplayer.com
 # 南方+
