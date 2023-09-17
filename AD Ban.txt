@@ -12,7 +12,7 @@ payload:
   - DOMAIN,ad.doubleclick.net
   - DOMAIN,static.doubleclick.net
   - DOMAIN,adservice.google.com
-  #- DOMAIN,ssl.google-analytics.com
+  - DOMAIN,ssl.google-analytics.com
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
