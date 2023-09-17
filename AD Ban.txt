@@ -29,6 +29,9 @@ payload:
   - DOMAIN,ads.zaobao.com
 # 凤凰秀
   - DOMAIN,dsa-mfp.fengshows.cn
+# 小米
+  - DOMAIN,adx.tv.mi.com
+  - DOMAIN-SUFFIX,ad.xiaomi.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
