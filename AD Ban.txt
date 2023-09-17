@@ -25,6 +25,8 @@ payload:
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
+# 联合早报
+  - DOMAIN,ads.zaobao.com
 # 凤凰秀
   - DOMAIN,dsa-mfp.fengshows.cn
 # 喜马拉雅
