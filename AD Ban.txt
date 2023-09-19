@@ -1,5 +1,7 @@
 payload:
   # > AD Ban
+# Sample
+  - DOMAIN,sample.sample
 # 其他
   - DOMAIN-SUFFIX,ads.cup.com.cn
   - DOMAIN-SUFFIX,ads.ysepay.com
