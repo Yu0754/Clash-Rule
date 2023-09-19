@@ -1,5 +1,7 @@
 payload:
   # > HKT Relay
+# Sample
+  - DOMAIN,sample.sample
 # TVB
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,tvb-inews
