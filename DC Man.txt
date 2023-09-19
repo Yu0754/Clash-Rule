@@ -2,3 +2,5 @@ payload:
   # > MyDirect
 # Sample
   - DOMAIN,sample.sample
+# Dler
+  - DOMAIN,dler.cloud
