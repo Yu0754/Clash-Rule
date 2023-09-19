@@ -1,0 +1,4 @@
+payload:
+  # > OT Relay
+# Sample
+  - DOMAIN,sample.sample
