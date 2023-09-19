@@ -1,5 +1,5 @@
 payload:
-  # > AutoJP
+  # > JP End
 # Sample
   - DOMAIN,sample.sample
 # > New Bing
