@@ -1,0 +1,4 @@
+payload:
+  # > OtherAC
+# Sample
+  - DOMAIN,sample.sample
