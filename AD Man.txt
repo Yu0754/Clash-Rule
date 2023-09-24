@@ -1,5 +1,5 @@
 payload:
-  # > AD Ban
+  # > AD Man
 # Sample
   - DOMAIN,sample.sample
 # 其他
