@@ -1,4 +1,0 @@
-payload:
-  # > SG End
-# Sample
-  - DOMAIN,sample.sample
