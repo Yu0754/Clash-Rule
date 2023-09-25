@@ -2,4 +2,4 @@ payload:
   # > HK End
 # Sample
   - DOMAIN,sample.sample
-  - DIMAIN,dns.google
+  - DOMAIN,dns.google
