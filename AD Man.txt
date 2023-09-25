@@ -1,11 +1,9 @@
 payload:
   # > AD Man
-# Sample
-  - DOMAIN,sample.sample
 # 其他
-  #- DOMAIN-KEYWORD,umeng
-  #- DOMAIN-KEYWORD,jpush
-  #- DOMAIN-KEYWORD,getui
+  - DOMAIN-KEYWORD,umeng
+  - DOMAIN-KEYWORD,jpush
+  - DOMAIN-KEYWORD,getui
   #- DOMAIN-SUFFIX,ads.cup.com.cn
   #- DOMAIN-SUFFIX,ads.ysepay.com
   #- DOMAIN-SUFFIX,adx.hubcloud.com.cn
@@ -13,7 +11,10 @@ payload:
   #- DOMAIN-SUFFIX,ads.weilitoutiao.net
   #- DOMAIN-SUFFIX,adservice.sigmob.cn
 # Google
-  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,google-analytics
+  - DOMAIN-KEYWORD,googlesyndication
   #- DOMAIN,ad.doubleclick.net
   #- DOMAIN,static.doubleclick.net
   #- DOMAIN,adservice.google.com
@@ -21,22 +22,22 @@ payload:
   #- DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
-  #- DOMAIN-KEYWORD,youbora
+  - DOMAIN-KEYWORD,youbora
 # VIU
-  #- DOMAIN-SUFFIX,adcolony.com
-  #- DOMAIN-SUFFIX,crwdcntrl.net
-  #- DOMAIN,prd.jwpltx.com
-  #- DOMAIN,entitlements.jwplayer.com
+  - DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,crwdcntrl.net
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
 # 联合早报
-  #- DOMAIN,ads.zaobao.com
+  - DOMAIN,ads.zaobao.com
 # 凤凰秀
   - DOMAIN,dsa-mfp.fengshows.cn
 # 小米
-  #- DOMAIN,adx.tv.mi.com
-  #- DOMAIN-SUFFIX,ad.xiaomi.com
+  - DOMAIN,adx.tv.mi.com
+  - DOMAIN-SUFFIX,ad.xiaomi.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
