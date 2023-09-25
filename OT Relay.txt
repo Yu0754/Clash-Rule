@@ -1,11 +1,8 @@
 payload:
   # > OT Relay
-# Sample
-  - DOMAIN,sample.sample
 # > New Bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bingapis.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
 # > Claude
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
