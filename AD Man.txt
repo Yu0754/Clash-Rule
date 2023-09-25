@@ -4,6 +4,8 @@ payload:
   - DOMAIN-KEYWORD,umeng
   - DOMAIN-KEYWORD,jpush
   - DOMAIN-KEYWORD,getui
+  - DOMAIN-KEYWORD,gepush
+  - DOMAIN-KEYWORD,igexin
   #- DOMAIN-SUFFIX,ads.cup.com.cn
   #- DOMAIN-SUFFIX,ads.ysepay.com
   #- DOMAIN-SUFFIX,adx.hubcloud.com.cn
