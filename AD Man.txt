@@ -4,11 +4,11 @@ payload:
   - DOMAIN,sample.sample
 # 其他
   - DOMAIN-SUFFIX,ads.cup.com.cn
-  - DOMAIN-SUFFIX,ads.ysepay.com
-  - DOMAIN-SUFFIX,adx.hubcloud.com.cn
-  - DOMAIN-SUFFIX,ad.track.66mobi.com
-  - DOMAIN-SUFFIX,ads.weilitoutiao.net
-  - DOMAIN-SUFFIX,adservice.sigmob.cn
+  #- DOMAIN-SUFFIX,ads.ysepay.com
+  #- DOMAIN-SUFFIX,adx.hubcloud.com.cn
+  #- DOMAIN-SUFFIX,ad.track.66mobi.com
+  #- DOMAIN-SUFFIX,ads.weilitoutiao.net
+  #- DOMAIN-SUFFIX,adservice.sigmob.cn
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
