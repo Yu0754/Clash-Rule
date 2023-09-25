@@ -6,7 +6,6 @@ payload:
   - DOMAIN-KEYWORD,getui
   - DOMAIN-KEYWORD,gepush
   - DOMAIN-KEYWORD,igexin
-  #- DOMAIN-SUFFIX,ads.cup.com.cn
   #- DOMAIN-SUFFIX,ads.ysepay.com
   #- DOMAIN-SUFFIX,adx.hubcloud.com.cn
   #- DOMAIN-SUFFIX,ad.track.66mobi.com
@@ -30,6 +29,8 @@ payload:
   - DOMAIN-SUFFIX,crwdcntrl.net
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
+# 银联
+  - DOMAIN-SUFFIX,ads.cup.com.cn
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,ads.cctv.com
