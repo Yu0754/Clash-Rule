@@ -1,5 +1,4 @@
 payload:
   # > HK End
-# Sample
-  - DOMAIN,sample.sample
+# Google DNS
   - DOMAIN,dns.google
