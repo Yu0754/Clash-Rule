@@ -1,5 +1,0 @@
-payload:
-  # > US End
-# > New Bing
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bingapis.com
