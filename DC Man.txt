@@ -1,5 +1,3 @@
 payload:
   # > MyDirect
   - DOMAIN,sample.sample
-# Dler 代理集
-  - DOMAIN,dler.cloud
