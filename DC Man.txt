@@ -2,3 +2,5 @@ payload:
   # > MyDirect
   - DOMAIN,sample.sample
   - DOMAIN,dler.cloud
+  - IP-CIDR,17.0.0.0/8
+  - DST-PORT,123
