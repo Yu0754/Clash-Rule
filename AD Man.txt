@@ -1,6 +1,6 @@
 payload:
   # > AD Man
-  - DOMAIN,sample.sample
+  #- DOMAIN,sample.sample
 # 其他
   #- DOMAIN-KEYWORD,umeng
   #- DOMAIN-KEYWORD,jpush
