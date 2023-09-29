@@ -7,6 +7,8 @@ payload:
   - DOMAIN-KEYWORD,getui
   - DOMAIN-KEYWORD,gepush
   - DOMAIN-KEYWORD,igexin
+  - DOMAIN-KEYWORD,newrelic.com
+  - DOMAIN-KEYWORD,onesignal.com
   - DOMAIN-KEYWORD,zbstatic
   #- DOMAIN-SUFFIX,ads.ysepay.com
   #- DOMAIN-SUFFIX,adx.hubcloud.com.cn
