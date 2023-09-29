@@ -2,11 +2,11 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 # 其他
-  - DOMAIN-KEYWORD,umeng
-  - DOMAIN-KEYWORD,jpush
-  - DOMAIN-KEYWORD,getui
-  - DOMAIN-KEYWORD,gepush
-  - DOMAIN-KEYWORD,igexin
+  #- DOMAIN-KEYWORD,umeng
+  #- DOMAIN-KEYWORD,jpush
+  #- DOMAIN-KEYWORD,getui
+  #- DOMAIN-KEYWORD,gepush
+  #- DOMAIN-KEYWORD,igexin
   #- DOMAIN-SUFFIX,ads.ysepay.com
   #- DOMAIN-SUFFIX,adx.hubcloud.com.cn
   #- DOMAIN-SUFFIX,ad.track.66mobi.com
