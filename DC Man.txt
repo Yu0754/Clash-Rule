@@ -1,5 +1,7 @@
 payload:
   # > MyDirect
   - DOMAIN,sample.sample
+# Dler 托管服务
   - DOMAIN,dler.cloud
+# Apple 推送服务
   - IP-CIDR,17.0.0.0/8
