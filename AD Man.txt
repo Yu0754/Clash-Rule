@@ -11,7 +11,6 @@ payload:
   - DOMAIN,adx.tv.mi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN,ads.cctv.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
