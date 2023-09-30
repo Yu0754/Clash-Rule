@@ -5,6 +5,8 @@ payload:
   - DOMAIN-KEYWORD,g.doubleclick
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
+# VIU
+  - DOMAIN-SUFFIX,adcolony.com
 # 小米
   - DOMAIN,adx.tv.mi.com
 # 央视影音
