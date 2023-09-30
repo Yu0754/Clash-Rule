@@ -5,8 +5,12 @@ payload:
   - DOMAIN-KEYWORD,g.doubleclick
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
+# 小米
+  - DOMAIN,adx.tv.mi.com
+  - DOMAIN,ad.xiaomi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
+  - DOMAIN,ads.cctv.com
 # 喜马拉雅
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,adbs.ximalaya.com
