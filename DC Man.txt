@@ -1,6 +1,8 @@
 payload:
   # > MyDirect
   #- DOMAIN,sample.sample
+# Dler
+  - DOMAIN,dler.cloud
 # DNS
   - DOMAIN,dns.alidns.com
   - DOMAIN,dot.pub
