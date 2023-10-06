@@ -1,0 +1,3 @@
+payload:
+  # > DE End
+  - DOMAIN,sample.sample
