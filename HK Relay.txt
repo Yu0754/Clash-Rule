@@ -5,8 +5,11 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,tvb-inews
   - DOMAIN-KEYWORD,mytvsuper
+  - DOMAIN-KEYWORD,youbora
 # ViuTV
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
