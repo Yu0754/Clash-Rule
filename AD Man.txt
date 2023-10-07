@@ -1,12 +1,15 @@
 payload:
   # > AD Man
   #- DOMAIN,sample.sample
+###
+  - DOMAIN-KEYWORD,adservice
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
   - DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,crwdcntrl.net
 # 小米
   - DOMAIN,adx.tv.mi.com
 # 央视影音
