@@ -1,3 +1,0 @@
-payload:
-  # > UK End
-  - DOMAIN,sample.sample
