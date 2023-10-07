@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,youbora
 # ViuTV
   - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
