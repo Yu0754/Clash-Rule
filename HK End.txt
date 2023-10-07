@@ -1,5 +1,3 @@
 payload:
   # > HK End
-  #- DOMAIN,sample.sample
-# OCSP
-  - DOMAIN,ocsp.digicert.com
+  - DOMAIN,sample.sample
