@@ -3,7 +3,3 @@ payload:
   #- DOMAIN,sample.sample
 # Dler
   - DOMAIN,dler.cloud
-# Roon
-  - DOMAIN-SUFFIX,roonlabs.net
-# Time
-  - DST-PORT,123,DIRECT
