@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,adservice
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,ad.doubleclick.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
