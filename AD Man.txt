@@ -3,7 +3,6 @@ payload:
   #- DOMAIN,sample.sample
 ###
   - DOMAIN-KEYWORD,adservice
-  - DOMAIN-SUFFIX,appsflyer.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
 # TVB
