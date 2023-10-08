@@ -1,6 +1,6 @@
 payload:
   # > AD Man
-  #- DOMAIN,sample.sample
+  - DOMAIN,sample.sample
 ###
   - DOMAIN-KEYWORD,adservice
 # Google
