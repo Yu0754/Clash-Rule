@@ -1,5 +1,3 @@
 payload:
   # > HK End
-  #- DOMAIN,sample.sample
-# Feng Shows
-  - DOMAIN-KEYWORD,fengshows
+  - DOMAIN,sample.sample
