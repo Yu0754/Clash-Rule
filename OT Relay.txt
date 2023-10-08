@@ -4,3 +4,8 @@ payload:
 # > New Bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bingapis.com
+# > Bard
+  - DOMAIN,bard.google.com
+# > Claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
