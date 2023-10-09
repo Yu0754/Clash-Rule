@@ -1,5 +1,3 @@
 payload:
   # > MyDirect
   - DOMAIN,sample.sample
-# Gitv
-  - DOMAIN-SUFFIX,gitv.tv
