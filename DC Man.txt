@@ -3,3 +3,7 @@ payload:
   - DOMAIN,sample.sample
 # Dler
   - DOMAIN,dler.cloud
+# Gitv
+  - DOMAIN-SUFFIX,gitv.tv
+# Apple
+  - IP-CIDR,17.0.0.0/8
