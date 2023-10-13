@@ -1,3 +1,0 @@
-payload:
-  # > KR End
-  - DOMAIN,sample.sample
