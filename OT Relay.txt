@@ -1,5 +1,5 @@
 payload:
-  # > US End
+  # > OT Relay
   - DOMAIN,sample.sample
 # > New Bing
   - DOMAIN-SUFFIX,bing.com
