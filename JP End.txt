@@ -1,5 +1,3 @@
 payload:
   # > JP End
   - DOMAIN,sample.sample
-# > Bard
-  - DOMAIN,bard.google.com
