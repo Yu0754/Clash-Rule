@@ -12,8 +12,8 @@ payload:
   - DOMAIN-SUFFIX,adcolony.com
   - DOMAIN-SUFFIX,crwdcntrl.net
 # 小米
-  - DOMAIN-SUFFIX,adx.tv.mi.com
-  - DOMAIN-SUFFIX,ad.xiaomi.com
+  #- DOMAIN-SUFFIX,adx.tv.mi.com
+  #- DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 喜马拉雅
