@@ -16,13 +16,13 @@ payload:
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 喜马拉雅
-  - DOMAIN,ad.ximalaya.com
-  - DOMAIN,adbs.ximalaya.com
-  - DOMAIN,adsebs.ximalaya.com
-  - DOMAIN,adse.ximalaya.com
-  - DOMAIN,adse.wsa.ximalaya.com
-  - DOMAIN,adbehavior.ximalaya.com
-  - DOMAIN,adbehavior.wsa.ximalaya.com
-  - DOMAIN,adbehaviorhera.ximalaya.com
-  - DOMAIN,xdcs-collector.ximalaya.com
-  - DOMAIN,location.ximalaya.com
+  #- DOMAIN,ad.ximalaya.com
+  #- DOMAIN,adbs.ximalaya.com
+  #- DOMAIN,adsebs.ximalaya.com
+  #- DOMAIN,adse.ximalaya.com
+  #- DOMAIN,adse.wsa.ximalaya.com
+  #- DOMAIN,adbehavior.ximalaya.com
+  #- DOMAIN,adbehavior.wsa.ximalaya.com
+  #- DOMAIN,adbehaviorhera.ximalaya.com
+  #- DOMAIN,xdcs-collector.ximalaya.com
+  #- DOMAIN,location.ximalaya.com
