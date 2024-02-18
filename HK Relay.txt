@@ -12,5 +12,5 @@ payload:
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
+  #- DOMAIN,prd.jwpltx.com
+  #- DOMAIN,entitlements.jwplayer.com
