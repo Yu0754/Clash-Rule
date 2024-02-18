@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,tvb-inews
   - DOMAIN-KEYWORD,mytvsuper
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
 # ViuTV
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.com
