@@ -9,7 +9,6 @@ payload:
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
-  - DOMAIN,api-gateway-global.viu.com
   - DOMAIN-SUFFIX,adcolony.com
   - DOMAIN-SUFFIX,crwdcntrl.net
 # 小米
