@@ -1,8 +1,0 @@
-payload:
-  # > JP End
-  - DOMAIN,sample.sample
-# > Bard
-  - DOMAIN,bard.google.com
-# > New Bing
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bingapis.com
