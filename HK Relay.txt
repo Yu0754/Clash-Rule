@@ -14,6 +14,3 @@ payload:
   - DOMAIN-KEYWORD,pccw-live
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
-  - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
-  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
