@@ -1,21 +1,6 @@
 payload:
   # > UDP Ban
   - DOMAIN,sample.sample
-# YouTube
-  - DOMAIN-KEYWORD,youtube
-  - DOMAIN,youtubei.googleapis.com
-  - DOMAIN,yt3.ggpht.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,gvt2.com
-  - DOMAIN-SUFFIX,withyoutube.com
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,youtubeeducation.com
-  - DOMAIN-SUFFIX,youtubegaming.com
-  - DOMAIN-SUFFIX,youtubekids.com
-  - DOMAIN-SUFFIX,yt.be
-  - DOMAIN-SUFFIX,ytimg.com
 # VIU
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
