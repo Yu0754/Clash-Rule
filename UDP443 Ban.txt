@@ -1,3 +1,0 @@
-payload:
-  # > UDP Ban
-  - DOMAIN,sample.sample
