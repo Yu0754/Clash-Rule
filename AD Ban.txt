@@ -9,8 +9,8 @@ payload:
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
-  - DOMAIN-SUFFIX,adcolony.com
-  - DOMAIN-SUFFIX,crwdcntrl.net
+  #- DOMAIN-SUFFIX,adcolony.com
+  #- DOMAIN-SUFFIX,crwdcntrl.net
 # 小米
   - DOMAIN,adx.tv.mi.com
 # 央视影音
