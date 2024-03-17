@@ -1,0 +1,4 @@
+payload:
+  # > IPV4All
+  - DOMAIN,sample.sample
+  - IP-CIDR,0.0.0.0/0

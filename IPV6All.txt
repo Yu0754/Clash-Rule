@@ -1,4 +1,0 @@
-payload:
-  # > IPV6All
-  - DOMAIN,sample.sample
-  - IP-CIDR6,::/0
