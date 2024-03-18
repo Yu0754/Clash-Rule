@@ -1,3 +1,0 @@
-payload:
-  # > IPV4
-  - IP-CIDR,0.0.0.0/0
