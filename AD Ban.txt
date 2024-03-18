@@ -5,7 +5,7 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
 # TVB
-  - DOMAIN-KEYWORD,ads.ads
+  - DOMAIN-KEYWORD,ads
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
   - DOMAIN-SUFFIX,adcolony.com
