@@ -5,6 +5,7 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
 # TVB
+  - DOMAIN-KEYWORD,ads.adserver
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
