@@ -3,10 +3,10 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Google
-  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN-KEYWORD,doubleclick
 # TVB
   - DOMAIN-KEYWORD,youbora
-  - DOMAIN-KEYWORD,ads.adserver
+  - DOMAIN-KEYWORD,ads.ads
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
