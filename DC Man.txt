@@ -3,3 +3,4 @@ payload:
   - DOMAIN,sample.sample
 ###
   - IP-CIDR,17.0.0.0/8
+  - DOMAIN,api.roonlabs.net
