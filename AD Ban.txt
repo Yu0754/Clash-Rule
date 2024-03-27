@@ -8,8 +8,8 @@ payload:
   - DOMAIN-KEYWORD,doubleclick
 # VIU
   #- DOMAIN,ads.pubmatic.com
-  #- DOMAIN-SUFFIX,crwdcntrl.net
-  #- DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,crwdcntrl.net
+  - DOMAIN-SUFFIX,adcolony.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
