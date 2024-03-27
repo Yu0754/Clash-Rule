@@ -3,8 +3,10 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Google
-  - DOMAIN,ad.doubleclick.net
-  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN-KEYWORD,doubleclick
+# VIU
+  - DOMAIN,ad.crwdcntrl.net
+  - DOMAIN-SUFFIX,adcolony.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
