@@ -2,5 +2,8 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN,time.android.com
+  - DOMAIN,ntp.ubuntu.com
+  - DOMAIN,pool.ntp.org
   - DOMAIN-SUFFIX,prd.roonlabs.net
   - DOMAIN-SUFFIX,api.roonlabs.net
