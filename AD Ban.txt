@@ -2,10 +2,13 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN-KEYWORD,adserv
+  - DOMAIN,ad-api.nanguadianying.com
 # Google
   - DOMAIN-KEYWORD,doubleclick
 # VIU
-  - DOMAIN,ad.crwdcntrl.net
+  - DOMAIN,ads.pubmatic.com
+  - DOMAIN-SUFFIX,crwdcntrl.net
   - DOMAIN-SUFFIX,adcolony.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
