@@ -3,4 +3,4 @@ payload:
   - DOMAIN,sample.sample
 ###
   - DOMAIN-SUFFIX,prd.roonlabs.net
-
+  - DOMAIN-SUFFIX,api.roonlabs.net
