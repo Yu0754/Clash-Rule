@@ -13,6 +13,6 @@ payload:
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
-  #- DOMAIN,adx.tv.mi.com
+  - DOMAIN,adx.tv.mi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
