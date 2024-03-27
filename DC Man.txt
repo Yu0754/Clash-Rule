@@ -2,3 +2,4 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN,push-connector-v2-0.prd-roonlabs-1.prd.roonlabs.net
