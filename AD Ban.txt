@@ -3,6 +3,7 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Google
+  - DOMAIN,ad.doubleclick.net
   - DOMAIN-KEYWORD,g.doubleclick
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
