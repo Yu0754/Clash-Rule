@@ -2,7 +2,7 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN-KEYWORD,roonlabs
   - DOMAIN,time.android.com
   - DOMAIN,ntp.ubuntu.com
   - DOMAIN,pool.ntp.org
-  - DOMAIN-KEYWORD,roonlabs
