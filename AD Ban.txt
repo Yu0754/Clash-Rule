@@ -3,13 +3,13 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Google
-  - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-KEYWORD,adserv
+  - DOMAIN-KEYWORD,g.doubleclick
+  #- DOMAIN-KEYWORD,adserv
 # VIU
   - DOMAIN-SUFFIX,crwdcntrl.net
   - DOMAIN-SUFFIX,adcolony.com
 # TVB
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
