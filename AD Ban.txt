@@ -2,6 +2,7 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN-KEYWORD,ads.pubmatic
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
