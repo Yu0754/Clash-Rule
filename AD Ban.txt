@@ -11,6 +11,7 @@ payload:
   #- DOMAIN-SUFFIX,adcolony.com
 # TVB
   - DOMAIN-SUFFIX,adsrvr.org
+  - DOMAIN-SUFFIX,adservrs.com
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
