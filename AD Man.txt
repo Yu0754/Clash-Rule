@@ -14,9 +14,9 @@ payload:
   #- DOMAIN-SUFFIX,crwdcntrl.net
 # TVB
   #- DOMAIN-SUFFIX,adsrvr.org
-  #- DOMAIN-SUFFIX,adservrs.com
+  - DOMAIN-SUFFIX,adservrs.com
   #- DOMAIN-SUFFIX,aralego.com
-  #- DOMAIN-SUFFIX,omtrdc.net
+  - DOMAIN-SUFFIX,omtrdc.net
   #- DOMAIN-KEYWORD,ads-server
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
