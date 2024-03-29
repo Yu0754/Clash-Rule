@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,aralego.com
   - DOMAIN-SUFFIX,omtrdc.net
   - DOMAIN-KEYWORD,ads-server
-  - DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
