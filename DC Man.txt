@@ -3,9 +3,12 @@ payload:
   - DOMAIN,sample.sample
 ###
   - DOMAIN-KEYWORD,roonlabs
-  - DOMAIN-SUFFIX,alidns.com
-  - DOMAIN-SUFFIX,pub
-  - IP-CIDR,223.5.5.5/32
-  - IP-CIDR,223.6.6.6/32
-  - IP_CIDR,1.12.12.12/32
-  - IP-CIDR,120.53.53.53/32
+  - DOMAIN,dns.alidns.com
+  - DOMAIN,dot.alidns.com
+  - DOMAIN,doh.alidns.com
+  - DOMAIN,dot.pub
+  - DOMAIN,doh.pub
+  - IP-CIDR,223.5.5.5/32,no-resolve
+  - IP-CIDR,223.6.6.6/32,no-resolve
+  - IP-CIDR,1.12.12.12/32,no-resolve
+  - IP-CIDR,120.53.53.53/32,no-resolve
