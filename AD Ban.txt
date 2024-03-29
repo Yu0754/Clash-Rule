@@ -10,6 +10,7 @@ payload:
   #- DOMAIN-SUFFIX,crwdcntrl.net
   #- DOMAIN-SUFFIX,adcolony.com
 # TVB
+  - DOMAIN-SUFFIX,adsrvr.org
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
