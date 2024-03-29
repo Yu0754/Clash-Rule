@@ -8,8 +8,8 @@ payload:
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
 # VIU
-  #- DOMAIN-SUFFIX,crwdcntrl.net
-  #- DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,crwdcntrl.net
+  - DOMAIN-SUFFIX,adcolony.com
 # TVB
   - DOMAIN-SUFFIX,adsrvr.org
   - DOMAIN-SUFFIX,adservrs.com
