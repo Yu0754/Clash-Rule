@@ -9,11 +9,11 @@ payload:
   - DOMAIN-KEYWORD,pagead2.googlesyndication
 # HK01/VIU
   - DOMAIN-KEYWORD,ads.ads
-  - DOMAIN-SUFFIX,pubmatic.com
-  - DOMAIN-SUFFIX,adcolony.com
+  #- DOMAIN-SUFFIX,pubmatic.com
+  #- DOMAIN-SUFFIX,adcolony.com
   - DOMAIN-SUFFIX,crwdcntrl.net
 # TVB
-  - DOMAIN-SUFFIX,adsrvr.org
+  #- DOMAIN-SUFFIX,adsrvr.org
   - DOMAIN-SUFFIX,adservrs.com
   - DOMAIN-SUFFIX,aralego.com
   - DOMAIN-SUFFIX,omtrdc.net
