@@ -12,6 +12,7 @@ payload:
 # TVB
   - DOMAIN-SUFFIX,adsrvr.org
   - DOMAIN-SUFFIX,adservrs.com
+  - DOMAIN-KEYWORD,ads.adserv
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
