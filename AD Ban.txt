@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,adsrvr.org
   - DOMAIN-SUFFIX,adservrs.com
   - DOMAIN-SUFFIX,aralego.com
+  - DOMAIN-KEYWORD,ads.cdn
   - DOMAIN-KEYWORD,ads-server
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
