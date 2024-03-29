@@ -20,6 +20,7 @@ payload:
   - DOMAIN-KEYWORD,ads.cdn
   - DOMAIN-KEYWORD,ads-server
   - DOMAIN-KEYWORD,youbora
+  - DOMAIN-KEYWORD,rr.edgeware
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
