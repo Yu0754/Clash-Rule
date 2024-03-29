@@ -5,7 +5,7 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
-  - DOMAIN,pagead2.googlesyndication.com
+  - DOMAIN-KEYWORD,pagead2.googlesyndication
 # VIU
   #- DOMAIN-SUFFIX,crwdcntrl.net
   #- DOMAIN-SUFFIX,adcolony.com
