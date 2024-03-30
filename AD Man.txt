@@ -4,7 +4,7 @@ payload:
 ###
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  #- DOMAIN-KEYWORD,ad.doubleclick
+  - DOMAIN-KEYWORD,ad.doubleclick
   #- DOMAIN-KEYWORD,adservice.google
   #- DOMAIN-KEYWORD,pagead2.googlesyndication
 # HK01/VIU
