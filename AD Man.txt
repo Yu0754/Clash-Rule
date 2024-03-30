@@ -12,6 +12,7 @@ payload:
   #- DOMAIN-SUFFIX,pubmatic.com
   #- DOMAIN-SUFFIX,adcolony.com
   - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
   - DOMAIN,ad.crwdcntrl.net
 # TVB
   #- DOMAIN-SUFFIX,adsrvr.org
