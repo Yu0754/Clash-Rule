@@ -22,6 +22,6 @@ payload:
   - DOMAIN-KEYWORD,mytvsuperlimited
 # MiTV
   - DOMAIN,adx.tv.mi.com
-  - DOMAIN,api.ad.xiaomi.com
+  - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
