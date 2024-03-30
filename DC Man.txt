@@ -2,7 +2,7 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
-  - DOMAIN-KEYWORD,roonlabs
+  #- DOMAIN-KEYWORD,roonlabs
   - DOMAIN,dns.alidns.com
   - DOMAIN,dot.alidns.com
   - DOMAIN,doh.alidns.com
