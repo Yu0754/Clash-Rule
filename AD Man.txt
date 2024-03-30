@@ -11,7 +11,8 @@ payload:
   #- DOMAIN-KEYWORD,ads.ads
   #- DOMAIN-SUFFIX,pubmatic.com
   #- DOMAIN-SUFFIX,adcolony.com
-  #- DOMAIN-SUFFIX,crwdcntrl.net
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,ad.crwdcntrl.net
 # TVB
   #- DOMAIN-SUFFIX,adsrvr.org
   #- DOMAIN-SUFFIX,adservrs.com
