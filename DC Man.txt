@@ -3,7 +3,7 @@ payload:
   - DOMAIN,sample.sample
   - DOMAIN,sample.sample1
 ###
-  - DOMAIN-KEYWORD,roonlabs.net
+  - DOMAIN-KEYWORD,roonlabs
   - DOMAIN,dns.alidns.com
   - DOMAIN,dot.pub
   - DOMAIN,doh.pub
