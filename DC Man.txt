@@ -4,8 +4,6 @@ payload:
 ###
   #- DOMAIN-KEYWORD,roonlabs
   - DOMAIN,dns.alidns.com
-  - DOMAIN,dot.alidns.com
-  - DOMAIN,doh.alidns.com
   - DOMAIN,dot.pub
   - DOMAIN,doh.pub
   - IP-CIDR,223.5.5.5/32,no-resolve
