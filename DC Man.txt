@@ -6,4 +6,4 @@ payload:
   #- DOMAIN,bits.roonlabs.net
   #- DOMAIN-SUFFIX,prd.roonlabs.net
   #- DOMAIN-KEYWORD,api.roonlabs.net
-  - DOMAIN-KEYWORD,roonlabs
+  #- DOMAIN-KEYWORD,roonlabs
