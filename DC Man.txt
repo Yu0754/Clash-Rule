@@ -4,4 +4,6 @@ payload:
 ###
   - DOMAIN,discovery.roonlabs.net
   - DOMAIN,bits.roonlabs.net
+  - DOMAIN-SUFFIX,prd.roonlabs.net
   - DOMAIN-KEYWORD,api.roonlabs.net
+
