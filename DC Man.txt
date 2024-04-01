@@ -2,5 +2,4 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
-  - DOMAIN-SUFFIX,prd.roonlabs.net
-  - IP-CIDR,17.0.0.0/8
+  - DOMAIN-SUFFIX,api.roonlabs.net
