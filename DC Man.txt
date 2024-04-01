@@ -1,5 +1,6 @@
 payload:
   # > DC Man
-  #- DOMAIN,sample.sample
+  - DOMAIN,sample.sample
 ###
-  - DOMAIN-KEYWORD,roonlabs
+  - DOMAIN,discovery.roonlabs.net
+  - DOMAIN,bits.roonlabs.net
