@@ -2,5 +2,4 @@ payload:
   # > DC Man
   #- DOMAIN,sample.sample
 ###
-  - DOMAIN-SUFFIX,prd.roonlabs.net
-  - DOMAIN-KEYWORD,api.roonlabs.net
+  - DOMAIN-KEYWORD,roonlabs
