@@ -3,10 +3,10 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Google
-  - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,static.doubleclick
+  - DOMAIN-KEYWORD,adservice.google
   - DOMAIN-KEYWORD,pagead2.googlesyndication
 # HK01/VIU
   #- DOMAIN-KEYWORD,ads.ads
