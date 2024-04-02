@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,googlesyndication
   - DOMAIN-KEYWORD,imasdk.googleapis
   - DOMAIN-KEYWORD,firebaselogging.googleapis
+  - DOMAIN-KEYWORD,ssl.google-analytics
 # TVB
   - DOMAIN-SUFFIX,emarsys.net
   - DOMAIN-SUFFIX,omtrdc.net
