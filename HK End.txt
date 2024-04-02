@@ -2,4 +2,3 @@ payload:
   # > HK End
   - DOMAIN,sample.sample
 ###
-  - DOMAIN-KEYWORD,cn-hongkong
