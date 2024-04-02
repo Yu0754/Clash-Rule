@@ -9,7 +9,7 @@ payload:
   - DOMAIN-KEYWORD,adservice.google
   - DOMAIN-KEYWORD,pagead2.googlesyndication
 # HK01/VIU
-  - DOMAIN,ad.crwdcntrl.net
+  #- DOMAIN,ad.crwdcntrl.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
