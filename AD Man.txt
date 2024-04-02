@@ -5,14 +5,14 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
-  - DOMAIN-KEYWORD,adservice.google
-  - DOMAIN-KEYWORD,pagead2.googlesyndication
+  #- DOMAIN-KEYWORD,adservice.google
+  #- DOMAIN-KEYWORD,pagead2.googlesyndication
 # HK01/VIU
   #- DOMAIN-KEYWORD,ads.ads
   #- DOMAIN-SUFFIX,pubmatic.com
   #- DOMAIN-SUFFIX,adcolony.com
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
+  #- DOMAIN,prd.jwpltx.com
+  #- DOMAIN,entitlements.jwplayer.com
   - DOMAIN,ad.crwdcntrl.net
 # TVB
   #- DOMAIN-SUFFIX,adsrvr.org
@@ -22,7 +22,7 @@ payload:
   #- DOMAIN-KEYWORD,ads-server
   #- DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,mai.tvb.com
-  - DOMAIN-KEYWORD,mytvsuperlimited
+  #- DOMAIN-KEYWORD,mytvsuperlimited
 # MiTV
   - DOMAIN,adx.tv.mi.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
