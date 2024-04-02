@@ -5,13 +5,6 @@ payload:
 # Google
   - DOMAIN-KEYWORD,doubleclick
   - DOMAIN-KEYWORD,googlesyndication
-  #- DOMAIN-KEYWORD,g.doubleclick
-  #- DOMAIN-KEYWORD,ad.doubleclick
-  #- DOMAIN-KEYWORD,static.doubleclick
-  #- DOMAIN-KEYWORD,adservice.google
-  #- DOMAIN-KEYWORD,pagead2.googlesyndication
-# HK01/VIU
-  #- DOMAIN,ad.crwdcntrl.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
