@@ -16,11 +16,11 @@ payload:
   - DOMAIN,ad.crwdcntrl.net
 # TVB
   #- DOMAIN-SUFFIX,adsrvr.org
-  - DOMAIN-SUFFIX,adservrs.com
+  #- DOMAIN-SUFFIX,adservrs.com
   #- DOMAIN-SUFFIX,aralego.com
   #- DOMAIN-SUFFIX,omtrdc.net
   #- DOMAIN-KEYWORD,ads-server
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,mai.tvb.com
   - DOMAIN-KEYWORD,mytvsuperlimited
 # MiTV
