@@ -3,20 +3,12 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Google
-  - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-KEYWORD,googlesyndication
-  - DOMAIN-KEYWORD,googleapis
-  - DOMAIN-KEYWORD,google-analytics
-  - DOMAIN-KEYWORD,app-measurement
-  - DOMAIN-KEYWORD,adserv
+  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN-KEYWORD,ad.doubleclick
+  - DOMAIN-KEYWORD,pagead2.googlesyndication
 # VIU
-  - DOMAIN-SUFFIX,crwdcntrl.net
+  #- DOMAIN-SUFFIX,ad.crwdcntrl.net
 # TVB
-  - DOMAIN-SUFFIX,emarsys.net
-  - DOMAIN-SUFFIX,omtrdc.net
-  - DOMAIN-SUFFIX,leadstecgz.com
-  - DOMAIN-SUFFIX,demdex.net
-  - DIMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
@@ -24,5 +16,5 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN-SUFFIX,cunguzhibo.com
-  - DOMAIN-SUFFIX,advst.cp33.ott.cibntv.net
+  #- DOMAIN-SUFFIX,cunguzhibo.com
+  #- DOMAIN-SUFFIX,advst.cp33.ott.cibntv.net
