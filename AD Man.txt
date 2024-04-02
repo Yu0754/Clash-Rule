@@ -7,6 +7,10 @@ payload:
   - DOMAIN-KEYWORD,googlesyndication
   - DOMAIN-KEYWORD,googleapis
   - DOMAIN-KEYWORD,google-analytics
+  - DOMAIN-KEYWORD,app-measurement
+  - DOMAIN-KEYWORD,adserv
+# VIU
+  - DOMAIN-SUFFIX,crwdcntrl.net
 # TVB
   - DOMAIN-SUFFIX,emarsys.net
   - DOMAIN-SUFFIX,omtrdc.net
