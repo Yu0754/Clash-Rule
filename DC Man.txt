@@ -2,5 +2,3 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
-  - DOMAIN,time.android.com
-  #- DOMAIN-KEYWORD,api.roonlabs.net
