@@ -9,15 +9,16 @@ payload:
 # VIU
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
-  - DOMAIN-SUFFIX,youborafds01.com
-  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN,ad.crwdcntrl.net
   - DOMAIN,bcd.crwdcntrl.net
+  - DOMAIN-SUFFIX,youborafds01.com
+  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,adcolony.com
 # TVB
   - DOMAIN,youbora.tvb.com
-  - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN-SUFFIX,eservice.emarsys.net
+  - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
   - DOMAIN,adx.v.mitvos.com
