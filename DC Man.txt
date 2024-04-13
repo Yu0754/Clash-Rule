@@ -1,5 +1,4 @@
 payload:
   # > DC Man
-  - DOMAIN,sample.sample,DIRECT
+  - DOMAIN,sample.sample
 ###
-  - DIMAIN-KEYWORD,netflix,Auto TW
