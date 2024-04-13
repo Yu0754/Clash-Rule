@@ -2,8 +2,10 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN,ow.pubmatic.com
+  - DOMAIN,ads.pubmatic.com
 # Google
-  - DOMAIN-KEYWORD,adserv
+  #- DOMAIN-KEYWORD,adserv
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
