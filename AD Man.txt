@@ -3,6 +3,7 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Google
+  - DOMAIN-KEYWORD,adserv
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
