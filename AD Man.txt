@@ -8,9 +8,16 @@ payload:
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
 # VIU
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
+  - DOMAIN-SUFFIX,youborafds01.com
+  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,adcolony.com
   - DOMAIN-SUFFIX,crwdcntrl.net
 # TVB
+  - DOMAIN,youbora.tvb.com
+  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
+  - DOMAIN-SUFFIX,eservice.emarsys.net
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
