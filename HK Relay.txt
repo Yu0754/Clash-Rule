@@ -2,19 +2,26 @@ payload:
   # > HKT Relay
   - DOMAIN,sample.sample
 ###
-# TVB
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-KEYWORD,tvb-inews
-  - DOMAIN-KEYWORD,mytvsuper
 # Viu
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
+  - DOMAIN,d1k2us671qcoau.cloudfront.net
+  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
+  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
+  - DOMAIN-SUFFIX,youborafds01.com
+  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
-  - DOMAIN,d1k2us671qcoau.cloudfront.net
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
-  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
+# TVB
+  - DOMAIN,youbora.tvb.com
+  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
+  - DOMAIN-SUFFIX,eservice.emarsys.net
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-KEYWORD,tvb-inews
+  - DOMAIN-KEYWORD,mytvsuper
 # RTHK
   - DOMAIN-SUFFIX,rthk.hk
   - DOMAIN-KEYWORD,rthkaod
