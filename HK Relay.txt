@@ -3,22 +3,22 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Viu
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
+  #- DOMAIN,prd.jwpltx.com
+  #- DOMAIN,entitlements.jwplayer.com
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
-  - DOMAIN-SUFFIX,youborafds01.com
-  - DOMAIN-SUFFIX,youboranqs01.com
+  #- DOMAIN-SUFFIX,youborafds01.com
+  #- DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
 # TVB
-  - DOMAIN,youbora.tvb.com
-  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
-  - DOMAIN-SUFFIX,eservice.emarsys.net
+  #- DOMAIN,youbora.tvb.com
+  #- DOMAIN,mytvsuperlimited.sc.omtrdc.net
+  #- DOMAIN-SUFFIX,eservice.emarsys.net
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,tvb-inews
   - DOMAIN-KEYWORD,mytvsuper
