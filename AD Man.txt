@@ -6,8 +6,8 @@ payload:
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-SUFFIX,ad.10010.com
-  - DOMAIN-SUFFIX,pubmatic.com
-  - DOMAIN-KEYWORD,adserv
+  #- DOMAIN-SUFFIX,pubmatic.com
+  #- DOMAIN-KEYWORD,adserv
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
