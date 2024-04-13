@@ -5,7 +5,6 @@ payload:
   - DOMAIN,ads.ysepay.com
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,ad.mcloud.139.com
-  - DOMAIN,smartad.10010.com
   - DOMAIN-SUFFIX,ad.10010.com
   - DOMAIN-SUFFIX,pubmatic.com
 # Google
