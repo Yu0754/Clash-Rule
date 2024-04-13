@@ -2,6 +2,7 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN,ads.cup.com.cn
   - DOMAIN-SUFFIX,pubmatic.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
