@@ -2,15 +2,14 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
-  - DOMAIN,ads.pubmatic.com
+  - DOMAIN-SUFFIX,pubmatic.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
 # VIU
-  - DOMAIN,ad.crwdcntrl.net
-  - DOMAIN,bcd.crwdcntrl.net
   - DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,crwdcntrl.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
