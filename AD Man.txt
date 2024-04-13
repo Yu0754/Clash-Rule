@@ -2,6 +2,7 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN,ads.ysepay.com
   - DOMAIN,ads.cup.com.cn
   - DOMAIN-SUFFIX,pubmatic.com
 # Google
