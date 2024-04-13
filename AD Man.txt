@@ -3,6 +3,7 @@ payload:
   - DOMAIN,sample.sample
 ###
   - DOMAIN,ads.ysepay.com
+  - DOMAIN,ad.mcloud.139.com
   - DOMAIN,ads.cup.com.cn
   - DOMAIN-SUFFIX,pubmatic.com
 # Google
