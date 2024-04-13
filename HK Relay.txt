@@ -12,8 +12,6 @@ payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
 # TVB
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
   - DOMAIN-SUFFIX,youborafds01.com
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,tvb.com
