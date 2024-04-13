@@ -17,14 +17,10 @@ payload:
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
-  #- DOMAIN,prd.jwpltx.com
-  #- DOMAIN,entitlements.jwplayer.com
-  #- DOMAIN-SUFFIX,youborafds01.com
-  #- DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
 # TVB
-  #- DOMAIN,youbora.tvb.com
-  #- DOMAIN,mytvsuperlimited.sc.omtrdc.net
-  #- DOMAIN-SUFFIX,eservice.emarsys.net
+  - DOMAIN-SUFFIX,eservice.emarsys.net
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   - DOMAIN,adx.tv.mi.com
