@@ -17,6 +17,7 @@ payload:
 # TVB
   - DOMAIN,youbora.tvb.com
   - DOMAIN-KEYWORD,mai.tvb.com
+  - DOMAIN-SUFFIX,eservice.emarsys.net
 # MiTV
   - DOMAIN,adx.tv.mi.com
   - DOMAIN,adx.v.mitvos.com
