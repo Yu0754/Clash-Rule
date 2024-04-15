@@ -2,3 +2,5 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
+  - DOMAIN-KEYWORD,roonlabs.net
+  - IP-CIDR,17.0.0.0/8
