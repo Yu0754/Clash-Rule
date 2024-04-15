@@ -2,9 +2,3 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
-# Apple
-  - IP-CIDR,17.0.0.0/8
-# Roon
-  - DOMAIN-SUFFIX,roon.app
-  - DOMAIN-SUFFIX,roonlabs.com
-  - DOMAIN-KEYWORD,roonlabs.net
