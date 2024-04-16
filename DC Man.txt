@@ -2,3 +2,7 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
+# AppleIP
+  - IP-CIDR,17.0.0.0/8
+# RoonCore
+  - DOMAIN-KEYWORD,roonlabs.net
