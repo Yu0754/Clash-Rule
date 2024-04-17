@@ -6,8 +6,6 @@ payload:
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-SUFFIX,ad.10010.com
-  #- DOMAIN-SUFFIX,pubmatic.com
-  #- DOMAIN-KEYWORD,adserv
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
@@ -23,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,eservice.emarsys.net
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
+  - DOMAIN,pandora.mi.com
   - DOMAIN,adx.tv.mi.com
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
