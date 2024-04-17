@@ -3,6 +3,6 @@ payload:
   - DOMAIN,sample.sample
 ###
 # AppleIP
-  #- IP-CIDR,17.0.0.0/8
+  - IP-CIDR,17.0.0.0/8
 # RoonCoreAPI
-  #- DOMAIN,api.roonlabs.net
+  - DOMAIN,api.roonlabs.net
