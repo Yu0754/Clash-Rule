@@ -5,4 +5,4 @@ payload:
 # AppleIP
   - IP-CIDR,17.0.0.0/8
 # RoonCoreAPI
-  - DOMAIN,api.roonlabs.net
+  - DOMAIN-KEYWORD,roonlabs.net
