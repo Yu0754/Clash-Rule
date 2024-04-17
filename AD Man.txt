@@ -18,7 +18,7 @@ payload:
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
 # TVB
-  - DOMAIN-SUFFIX,eservice.emarsys.net
+  #- DOMAIN-SUFFIX,eservice.emarsys.net
   - DOMAIN-KEYWORD,mai.tvb.com
 # MiTV
   #- DOMAIN,pandora.mi.com
@@ -27,4 +27,4 @@ payload:
   #- DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN-SUFFIX,advst.cp33.ott.cibntv.net
+  #- DOMAIN-SUFFIX,advst.cp33.ott.cibntv.net
