@@ -3,11 +3,11 @@ payload:
   - DOMAIN,sample.sample
 ###
 # RoonCoreAPI
-  #- DOMAIN,api.roonlabs.net
-  #- DOMAIN,api.roonlabs.net.cdn.cloudflare.net
-  #- IP-CIDR,172.67.14.113/32
-  #- IP-CIDR,104.22.14.70/32
-  #- IP-CIDR,104.22.15.70/32
-  #- IP-CIDR,2606:4700:10::ac43:e71/128
-  #- IP-CIDR,2606:4700:10::6816:e46/128
-  #- IP-CIDR,2606:4700:10::6816:f46/128
+  - DOMAIN,api.roonlabs.net
+  - DOMAIN,api.roonlabs.net.cdn.cloudflare.net
+  - IP-CIDR,172.67.14.113/32
+  - IP-CIDR,104.22.14.70/32
+  - IP-CIDR,104.22.15.70/32
+  - IP-CIDR,2606:4700:10::ac43:e71/128
+  - IP-CIDR,2606:4700:10::6816:e46/128
+  - IP-CIDR,2606:4700:10::6816:f46/128
