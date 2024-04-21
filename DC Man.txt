@@ -2,3 +2,7 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
+# RoonCore
+  - IP-CIDR,104.22.14.70/32
+  - IP-CIDR,104.22.15.70/32
+  - IP-CIDR,2606:4700:10::ac43:e71/128
