@@ -1,6 +1,7 @@
 payload:
   # > RoonAPI
-  - DOMAIN,sample.sample
+  #- DOMAIN,sample.sample
 ###
   # RoonCore
-  - AND,((SRC-IP-CIDR,192.168.1.250/32),(DOMAIN,api.roonlabs.net))
+  #- AND,((SRC-IP-CIDR,192.168.1.250/32),(DOMAIN,api.roonlabs.net))
+  - AND,((SRC-IP-CIDR,192.168.1.250/32),(URL-REGEX: /porttest/1/myip$))
