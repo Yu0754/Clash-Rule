@@ -2,8 +2,3 @@ payload:
   # > SG End
   - DOMAIN,sample.sample
 ###
-  # > Copilot
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bingapis.com
-  #p-static.bing.trafficmanager.net
-  - DOMAIN-SUFFIX,bing.trafficmanager.net
