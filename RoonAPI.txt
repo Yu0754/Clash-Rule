@@ -3,4 +3,4 @@ payload:
   - DOMAIN,sample.sample
 ###
   # RoonCore
-  - AND,((DOMAIN,roonapi.yu0754.cn),(NOT,((SRC-IP-CIDR,192.168.1.250/32))))
+  - AND,((DOMAIN,api.roonlabs.net),(SRC-IP-CIDR,192.168.1.250/32))
