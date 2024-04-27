@@ -2,10 +2,10 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
-  - DOMAIN,ads.ysepay.com
-  - DOMAIN,ads.cup.com.cn
-  - DOMAIN,ad.mcloud.139.com
-  - DOMAIN-SUFFIX,ad.10010.com
+# CCTV
+  - DOMAIN,galaxy.bjcathay.com
+# TVB
+  - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
@@ -17,14 +17,3 @@ payload:
   - DOMAIN,adc3-launch.adcolony.com
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
-# TVB
-  #- DOMAIN-SUFFIX,eservice.emarsys.net
-  - DOMAIN-KEYWORD,mai.tvb.com
-# MiTV
-  #- DOMAIN,pandora.mi.com
-  #- DOMAIN,adx.tv.mi.com
-  #- DOMAIN,adx.v.mitvos.com
-  #- DOMAIN-SUFFIX,ad.xiaomi.com
-# CCTV
-  - DOMAIN,galaxy.bjcathay.com
-  #- DOMAIN-SUFFIX,advst.cp33.ott.cibntv.net
