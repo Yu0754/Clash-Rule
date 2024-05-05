@@ -2,6 +2,8 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+# XiaoMi
+  - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN-SUFFIX,advst.cp33.ott.cibntv.net
