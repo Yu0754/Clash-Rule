@@ -10,6 +10,7 @@ payload:
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
+  - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
