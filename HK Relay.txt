@@ -12,8 +12,6 @@ payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-KEYWORD,pccw-live
 # TVB
-  - DOMAIN-SUFFIX,youborafds01.com
-  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,tvb-inews
   - DOMAIN-KEYWORD,mytvsuper
