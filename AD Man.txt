@@ -3,6 +3,7 @@ payload:
   - DOMAIN,sample.sample
 ###
 # XiaoMi
+  - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
