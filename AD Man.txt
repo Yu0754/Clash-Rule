@@ -4,6 +4,7 @@ payload:
 ###
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
+  - DOMAIN-SUFFIX,advst.cp33.ott.cibntv.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
