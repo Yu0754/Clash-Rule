@@ -3,7 +3,7 @@ payload:
   - DOMAIN,sample.sample
 ###
   # RoonCore
-  #- AND,((DOMAIN,api.roonlabs.net),(SRC-IP-CIDR,192.168.1.250/32))
-  - AND,((IP-CIDR,104.22.14.70/32,no-resolve),(SRC-IP-CIDR,192.168.1.250/32))
-  - AND,((IP-CIDR,104.22.15.70/32,no-resolve),(SRC-IP-CIDR,192.168.1.250/32))
+  - AND,((DOMAIN,api.roonlabs.net),(SRC-IP-CIDR,192.168.1.250/32))
+  #- AND,((IP-CIDR,104.22.14.70/32,no-resolve),(SRC-IP-CIDR,192.168.1.250/32))
+  #- AND,((IP-CIDR,104.22.15.70/32,no-resolve),(SRC-IP-CIDR,192.168.1.250/32))
 
