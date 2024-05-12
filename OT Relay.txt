@@ -1,4 +1,4 @@
 payload:
-  # > OT End
+  # > OT Relay
   - DOMAIN,sample.sample
 ###
