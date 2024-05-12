@@ -5,6 +5,8 @@ payload:
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
 # VIU
+  - DOMAIN,adc3-launch.adcolony.com
+  - DOMAIN,ad.crwdcntrl.net
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
 # TVB
