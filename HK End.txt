@@ -1,0 +1,4 @@
+payload:
+  # > HK End
+  - DOMAIN,sample.sample
+###
