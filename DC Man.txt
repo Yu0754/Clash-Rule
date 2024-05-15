@@ -1,4 +1,4 @@
 payload:
   # > DC Man
-  - DOMAIN,sample.sample
+  - DOMAIN,time.android.com
 ###
