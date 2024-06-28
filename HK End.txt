@@ -2,6 +2,3 @@ payload:
   # > HK End
   - DOMAIN,sample.sample
 ###
-# Gemini
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
