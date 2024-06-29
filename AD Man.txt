@@ -18,3 +18,4 @@ payload:
   - DOMAIN-KEYWORD,pagead2.googlesyndication
 # Other
   - DOMAIN,ads.pubmatic.com
+  - DOMAIN,appcloud2.in.zhihu.com
