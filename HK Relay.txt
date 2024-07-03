@@ -22,8 +22,8 @@ payload:
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-KEYWORD,rthkvod
 # Gemini
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  #- DOMAIN-SUFFIX,gemini.google.com
+  #- DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 # Copilot
   #- DOMAIN-SUFFIX,bing.com
   #- DOMAIN-SUFFIX,copilot.microsoft.com
