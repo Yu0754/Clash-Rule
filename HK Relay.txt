@@ -21,3 +21,5 @@ payload:
   - DOMAIN-KEYWORD,rthkradio
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-KEYWORD,rthkvod
+# Gemini
+  - DOMAIN,gemini.google.com
