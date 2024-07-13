@@ -5,6 +5,7 @@ payload:
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
 # VIU
+  - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
   - DOMAIN,ad.crwdcntrl.net
   #- DOMAIN,prd.jwpltx.com
