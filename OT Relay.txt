@@ -3,5 +3,5 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Bing
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-KEYWORD,bing.com
+  - DOMAIN-KEYWORD,copilot.microsoft.com
