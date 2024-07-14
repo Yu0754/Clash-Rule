@@ -2,6 +2,3 @@ payload:
   # > OT Relay
   - DOMAIN,sample.sample
 ###
-# Bing
-  - DOMAIN-KEYWORD,bing.com
-  - DOMAIN-KEYWORD,copilot.microsoft.com
