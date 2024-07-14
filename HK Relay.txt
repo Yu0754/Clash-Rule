@@ -21,5 +21,3 @@ payload:
   - DOMAIN-KEYWORD,rthkradio
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-KEYWORD,rthkvod
-# Bing
-  - DOMAIN-KEYWORD,bing.com
