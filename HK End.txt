@@ -2,25 +2,3 @@ payload:
   # > HK End
   - DOMAIN,sample.sample
 ###
-# Viu
-  - DOMAIN,d1k2us671qcoau.cloudfront.net
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
-  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
-  - DOMAIN-SUFFIX,viu.tv
-  - DOMAIN-SUFFIX,viu.com
-  - DOMAIN-SUFFIX,now.com
-  - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-KEYWORD,pccw-live
-# TVB
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-KEYWORD,tvb-inews
-  - DOMAIN-KEYWORD,mytvsuper
-# RTHK
-  - DOMAIN-SUFFIX,rthk.hk
-  - DOMAIN-KEYWORD,rthkaod
-  - DOMAIN-KEYWORD,rthkradio
-  - DOMAIN-KEYWORD,rthktv
-  - DOMAIN-KEYWORD,rthkvod
-# Bing
-  - DOMAIN,www.bing.com
-  - DOMAIN,copilot.microsoft.com
