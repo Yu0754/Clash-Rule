@@ -4,4 +4,3 @@ payload:
 ###
 # Bing
   - DOMAIN,www.bing.com
-  - DOMAIN,copilot.microsoft.com
