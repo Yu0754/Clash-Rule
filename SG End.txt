@@ -2,3 +2,4 @@ payload:
   # > SG End
   - DOMAIN,sample.sample
 ###
+  - DOMAIN,www.bing.com
