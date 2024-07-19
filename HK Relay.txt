@@ -24,3 +24,5 @@ payload:
 # Bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
+# LianHe ZaoBao
+  - DOMAIN-KEYWORD,zbstatic
