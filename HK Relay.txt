@@ -22,4 +22,5 @@ payload:
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-KEYWORD,rthkvod
 # Bing
-  - DOMAIN,www.bing.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
