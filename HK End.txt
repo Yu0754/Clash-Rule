@@ -2,6 +2,3 @@ payload:
   # > HK End
   - DOMAIN,sample.sample
 ###
-# ZaoBao
-  - DOMAIN-KEYWORD,zbstatic
-  - DOMAIN-KEYWORD,zaobao
