@@ -25,5 +25,5 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
 # ZaoBao
-  - DOMAIN-KEYWORD,zbstatic
-  - DOMAIN-KEYWORD,zaobao
+  #- DOMAIN-KEYWORD,zbstatic
+  #- DOMAIN-KEYWORD,zaobao
