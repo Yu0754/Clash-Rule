@@ -21,6 +21,8 @@ payload:
   - DOMAIN-KEYWORD,rthkradio
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-KEYWORD,rthkvod
+# iFeng
+  - DOMAIN-KEYWORD,fengshows
 # Bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
