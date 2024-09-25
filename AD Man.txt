@@ -23,3 +23,4 @@ payload:
 # Other
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,dsa-mfp.fengshows.cn
