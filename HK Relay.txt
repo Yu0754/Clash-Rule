@@ -22,7 +22,7 @@ payload:
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-KEYWORD,rthkvod
 # iFeng
-  - DOMAIN-SUFFIX,fengshows.com
+  #- DOMAIN-SUFFIX,fengshows.com
 # Bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
