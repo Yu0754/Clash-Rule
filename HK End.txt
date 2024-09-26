@@ -3,10 +3,10 @@ payload:
   - DOMAIN,sample.sample
 ###
 # RTHK
-  #- DOMAIN-SUFFIX,rthk.hk
-  #- DOMAIN-KEYWORD,rthkaod
-  #- DOMAIN-KEYWORD,rthkradio
-  #- DOMAIN-KEYWORD,rthktv
-  #- DOMAIN-KEYWORD,rthkvod
+  - DOMAIN-SUFFIX,rthk.hk
+  - DOMAIN-KEYWORD,rthkaod
+  - DOMAIN-KEYWORD,rthkradio
+  - DOMAIN-KEYWORD,rthktv
+  - DOMAIN-KEYWORD,rthkvod
 # iFeng
-  #- DOMAIN-KEYWORD,fengshows
+  - DOMAIN-KEYWORD,fengshows
