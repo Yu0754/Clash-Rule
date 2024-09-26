@@ -2,6 +2,9 @@ payload:
   # > HK Relay
   - DOMAIN,sample.sample
 ###
+# Other
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
 # Viu
   #- DOMAIN,d1k2us671qcoau.cloudfront.net
   #- DOMAIN,d2anahhhmp1ffz.cloudfront.net
