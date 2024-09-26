@@ -2,3 +2,11 @@ payload:
   # > HK End
   - DOMAIN,sample.sample
 ###
+# RTHK
+  #- DOMAIN-SUFFIX,rthk.hk
+  #- DOMAIN-KEYWORD,rthkaod
+  #- DOMAIN-KEYWORD,rthkradio
+  #- DOMAIN-KEYWORD,rthktv
+  #- DOMAIN-KEYWORD,rthkvod
+# iFeng
+  #- DOMAIN-KEYWORD,fengshows
