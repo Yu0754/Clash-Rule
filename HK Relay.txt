@@ -3,9 +3,9 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Other
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
-  - DOMAIN-KEYWORD,youbora
+  #- DOMAIN,prd.jwpltx.com
+  #- DOMAIN,entitlements.jwplayer.com
+  #- DOMAIN-KEYWORD,youbora
 # Viu
   #- DOMAIN,d1k2us671qcoau.cloudfront.net
   #- DOMAIN,d2anahhhmp1ffz.cloudfront.net
@@ -13,10 +13,10 @@ payload:
   #- DOMAIN-SUFFIX,viu.tv
   #- DOMAIN-SUFFIX,viu.com
   #- DOMAIN-SUFFIX,now.com
-  - DOMAIN-SUFFIX,npaw.com
-  - DOMAIN-KEYWORD,viutv
-  - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-KEYWORD,pccw-live
+  #- DOMAIN-SUFFIX,npaw.com
+  #- DOMAIN-KEYWORD,viutv
+  #- DOMAIN-SUFFIX,nowe.com
+  #- DOMAIN-KEYWORD,pccw-live
 #
   - DOMAIN,api.viu.now.com
   - DOMAIN,d1k2us671qcoau.cloudfront.net
@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,viu.now.com
-  #- DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-SUFFIX,viu.tv
 # TVB
   #- DOMAIN-SUFFIX,tvb.com
   #- DOMAIN-KEYWORD,tvb-inews
