@@ -5,6 +5,7 @@ payload:
 # Other
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
+  - DOMAIN-KEYWORD,youbora
 # Viu
   #- DOMAIN,d1k2us671qcoau.cloudfront.net
   #- DOMAIN,d2anahhhmp1ffz.cloudfront.net
