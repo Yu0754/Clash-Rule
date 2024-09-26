@@ -15,7 +15,7 @@ payload:
   #- DOMAIN-SUFFIX,now.com
   #- DOMAIN-SUFFIX,npaw.com
   #- DOMAIN-SUFFIX,now.com
-  #- DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,nowe.com
   #- DOMAIN-KEYWORD,viutv
   #- DOMAIN-KEYWORD,viu.tv
   #- DOMAIN-KEYWORD,pccw-live
