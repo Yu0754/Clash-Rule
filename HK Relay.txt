@@ -2,6 +2,16 @@ payload:
   # > HK Relay
   - DOMAIN,sample.sample
 ###
+# iFeng
+  - DOMAIN-KEYWORD,fengshows
+# ViuTV
+  - DOMAIN-SUFFIX,nowe.com
+# RTHK
+  - DOMAIN-SUFFIX,rthk.hk
+  - DOMAIN-KEYWORD,rthkaod
+  - DOMAIN-KEYWORD,rthkradio
+  - DOMAIN-KEYWORD,rthktv
+  - DOMAIN-KEYWORD,rthkvod
 # Other
   #- DOMAIN,prd.jwpltx.com
   #- DOMAIN,entitlements.jwplayer.com
@@ -15,7 +25,7 @@ payload:
   #- DOMAIN-SUFFIX,now.com
   #- DOMAIN-SUFFIX,npaw.com
   #- DOMAIN-SUFFIX,now.com
-  - DOMAIN-SUFFIX,nowe.com
+  #- DOMAIN-SUFFIX,nowe.com
   #- DOMAIN-KEYWORD,viutv
   #- DOMAIN-KEYWORD,viu.tv
   #- DOMAIN-KEYWORD,pccw-live
