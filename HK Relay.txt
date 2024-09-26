@@ -7,6 +7,7 @@ payload:
 # ViuTV
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
 # RTHK
   - DOMAIN-SUFFIX,rthk.hk
