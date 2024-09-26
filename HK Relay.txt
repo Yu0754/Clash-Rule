@@ -16,13 +16,13 @@ payload:
   - DOMAIN-KEYWORD,tvb-inews
   - DOMAIN-KEYWORD,mytvsuper
 # RTHK
-  - DOMAIN-SUFFIX,rthk.hk
-  - DOMAIN-KEYWORD,rthkaod
-  - DOMAIN-KEYWORD,rthkradio
-  - DOMAIN-KEYWORD,rthktv
-  - DOMAIN-KEYWORD,rthkvod
+  #- DOMAIN-SUFFIX,rthk.hk
+  #- DOMAIN-KEYWORD,rthkaod
+  #- DOMAIN-KEYWORD,rthkradio
+  #- DOMAIN-KEYWORD,rthktv
+  #- DOMAIN-KEYWORD,rthkvod
 # iFeng
-  - DOMAIN-KEYWORD,fengshows
+  #- DOMAIN-KEYWORD,fengshows
 # Bing
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,copilot.microsoft.com
+  #- DOMAIN-SUFFIX,bing.com
+  #- DOMAIN-SUFFIX,copilot.microsoft.com
