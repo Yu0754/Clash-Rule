@@ -10,7 +10,7 @@ payload:
   #- DOMAIN-SUFFIX,viu.com
   #- DOMAIN-SUFFIX,now.com
   #- DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-KEYWORD,pccw-live
+  #- DOMAIN-KEYWORD,pccw-live
 # TVB
   #- DOMAIN-SUFFIX,tvb.com
   #- DOMAIN-KEYWORD,tvb-inews
