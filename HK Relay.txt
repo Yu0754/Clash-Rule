@@ -3,8 +3,8 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Other
-  #- DOMAIN,prd.jwpltx.com
-  #- DOMAIN,entitlements.jwplayer.com
+  - DOMAIN,prd.jwpltx.com
+  - DOMAIN,entitlements.jwplayer.com
   #- DOMAIN-KEYWORD,youbora
 # Viu
   #- DOMAIN,d1k2us671qcoau.cloudfront.net
