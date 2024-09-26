@@ -3,8 +3,9 @@ payload:
   - DOMAIN,sample.sample
 ###
 # iFeng
-  - DOMAIN-KEYWORD,fengshows
+  - DOMAIN,dsa-mfp.fengshows.cn
 # ViuTV
+  - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
 # RTHK
   - DOMAIN-SUFFIX,rthk.hk
@@ -12,48 +13,3 @@ payload:
   - DOMAIN-KEYWORD,rthkradio
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-KEYWORD,rthkvod
-# Other
-  #- DOMAIN,prd.jwpltx.com
-  #- DOMAIN,entitlements.jwplayer.com
-  #- DOMAIN-KEYWORD,youbora
-# Viu
-  #- DOMAIN,d1k2us671qcoau.cloudfront.net
-  #- DOMAIN,d2anahhhmp1ffz.cloudfront.net
-  #- DOMAIN,d3o7oi00quuwqu.cloudfront.net
-  #- DOMAIN-SUFFIX,viu.tv
-  #- DOMAIN-SUFFIX,viu.com
-  #- DOMAIN-SUFFIX,now.com
-  #- DOMAIN-SUFFIX,npaw.com
-  #- DOMAIN-SUFFIX,now.com
-  #- DOMAIN-SUFFIX,nowe.com
-  #- DOMAIN-KEYWORD,viutv
-  #- DOMAIN-KEYWORD,viu.tv
-  #- DOMAIN-KEYWORD,pccw-live
-#
-  #- DOMAIN,api.viu.now.com
-  #- DOMAIN,d1k2us671qcoau.cloudfront.net
-  #- DOMAIN,d2anahhhmp1ffz.cloudfront.net
-  #- DOMAIN,dfp6rglgjqszk.cloudfront.net
-  #- DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
-  #- DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
-  #- DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
-  #- DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
-  #- DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
-  #- DOMAIN-SUFFIX,viu.com
-  #- DOMAIN-SUFFIX,viu.now.com
-  #- DOMAIN-SUFFIX,viu.tv
-# TVB
-  #- DOMAIN-SUFFIX,tvb.com
-  #- DOMAIN-KEYWORD,tvb-inews
-  #- DOMAIN-KEYWORD,mytvsuper
-# RTHK
-  #- DOMAIN-SUFFIX,rthk.hk
-  #- DOMAIN-KEYWORD,rthkaod
-  #- DOMAIN-KEYWORD,rthkradio
-  #- DOMAIN-KEYWORD,rthktv
-  #- DOMAIN-KEYWORD,rthkvod
-# iFeng
-  #- DOMAIN-KEYWORD,fengshows
-# Bing
-  #- DOMAIN-SUFFIX,bing.com
-  #- DOMAIN-SUFFIX,copilot.microsoft.com
