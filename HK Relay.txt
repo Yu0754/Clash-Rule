@@ -2,17 +2,7 @@ payload:
   # > HK Relay
   - DOMAIN,sample.sample
 ###
-# iFeng
-  - DOMAIN,dsa-mfp.fengshows.cn
 # ViuTV
   - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
-# MyTV Super
-  #- DOMAIN-SUFFIX,tvb.com
-  #- DOMAIN-SUFFIX,mytvsuper.com
-# RTHK
-  #- DOMAIN-SUFFIX,rthk.hk
-  #- DOMAIN-KEYWORD,rthkaod
-  #- DOMAIN-KEYWORD,rthkradio
-  #- DOMAIN-KEYWORD,rthktv
-  #- DOMAIN-KEYWORD,rthkvod
+# iFeng
+  - DOMAIN,dsa-mfp.fengshows.cn
