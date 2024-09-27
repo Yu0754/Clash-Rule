@@ -5,13 +5,13 @@ payload:
 # iFeng
   - DOMAIN,dsa-mfp.fengshows.cn
 # ViuTV
-  - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
-  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
+# MyTV Super
+  - DOMAIN-SUFFIX,mytvsuper.com
 # RTHK
-  - DOMAIN-SUFFIX,rthk.hk
-  - DOMAIN-KEYWORD,rthkaod
-  - DOMAIN-KEYWORD,rthkradio
-  - DOMAIN-KEYWORD,rthktv
-  - DOMAIN-KEYWORD,rthkvod
+  #- DOMAIN-SUFFIX,rthk.hk
+  #- DOMAIN-KEYWORD,rthkaod
+  #- DOMAIN-KEYWORD,rthkradio
+  #- DOMAIN-KEYWORD,rthktv
+  #- DOMAIN-KEYWORD,rthkvod
