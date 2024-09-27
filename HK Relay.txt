@@ -4,5 +4,3 @@ payload:
 ###
 # ViuTV
   - DOMAIN-SUFFIX,nowe.com
-# iFeng
-  - DOMAIN,dsa-mfp.fengshows.cn
