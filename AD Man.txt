@@ -6,9 +6,10 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
+# NF Plus
+  - DOMAIN,advapi.nfnews.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
-# Other
