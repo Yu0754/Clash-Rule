@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
+# CCTV News
+  - DOMAIN-SUFFIX,cmgadx.com
 # NF Plus
   - DOMAIN,advapi.nfnews.com
 # TVB
@@ -14,5 +16,5 @@ payload:
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
-# Other
-  - DOMAIN-SUFFIX,cmgadx.com
+# FengShows
+  - DOMAIN,dsa-mfp.fengshows.cn
