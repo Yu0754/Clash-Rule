@@ -11,7 +11,7 @@ payload:
 # NF Plus
   - DOMAIN,advapi.nfnews.com
 # ZhiHu
-  - DOMAIN,aaid.uyunad.com
+  - DOMAIN,appcloud2.in.zhihu.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
