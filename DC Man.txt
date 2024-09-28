@@ -2,6 +2,3 @@ payload:
   # > DC Man
   - DOMAIN,sample.sample
 ###
-  - DOMAIN,dns.alidns.com
-  - DOMAIN.doh.pub
-  - DOMAIN.dot.pub
