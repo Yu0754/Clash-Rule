@@ -14,3 +14,5 @@ payload:
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN-KEYWORD,pagead2.googlesyndication
+# Other
+  - DOMAIN-SUFFIX,cmgadx.com
