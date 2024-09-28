@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,cmgadx.com
 # NF Plus
   - DOMAIN,advapi.nfnews.com
+# ZhiHu
+  - DOMAIN,aaid.uyunad.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
