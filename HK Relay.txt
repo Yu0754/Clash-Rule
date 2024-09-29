@@ -7,6 +7,6 @@ payload:
   - DOMAIN-KEYWORD,viu.tv
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
+  #- DOMAIN,mobileanalytics.us-east-1.amazonaws.com
 # Bing
   - DOMAIN-SUFFIX,www.bing.com
