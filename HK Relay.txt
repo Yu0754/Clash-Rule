@@ -4,6 +4,7 @@ payload:
 ###
 # ViuTV
   - DOMAIN-KEYWORD,viutv
+  - DOMAIN-KEYWORD,viu.tv
   - DOMAIN-SUFFIX,nowe.com
 # Bing
   - DOMAIN-SUFFIX,www.bing.com
