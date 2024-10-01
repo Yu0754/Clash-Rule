@@ -11,4 +11,6 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
 # Bing
-  - DOMAIN-SUFFIX,www.bing.com
+  #- DOMAIN-SUFFIX,www.bing.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
