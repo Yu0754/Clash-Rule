@@ -12,4 +12,3 @@ payload:
   - DOMAIN-KEYWORD,mytvsuper
 # Bing
   - DOMAIN,www.bing.com
-  - DOMAIN-KEYWORD,copilot
