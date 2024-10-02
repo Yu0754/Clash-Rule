@@ -3,4 +3,4 @@ payload:
   - DOMAIN,sample.sample
 ###
 # Copilot
-  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-KEYWORD,copilot
