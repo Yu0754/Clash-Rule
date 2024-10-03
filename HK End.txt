@@ -2,3 +2,9 @@ payload:
   # > HK End
   - DOMAIN,sample.sample
 ###
+# RTHK
+  - DOMAIN-KEYWORD,rthk
+# ZhiHu ZhiDa
+  - DOMAIN,zhida.zhihu.com
+# FengShows
+  - DOMAIN,dsa-mfp.fengshows.cn
