@@ -2,6 +2,8 @@ payload:
   # > HK Relay
   - DOMAIN,sample.sample
 ###
+# RTHK
+  - DOMAIN-KEYWORD,rthk
 # ViuTV
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-KEYWORD,viu.tv
@@ -12,3 +14,5 @@ payload:
   - DOMAIN-KEYWORD,mytvsuper
 # Bing
   - DOMAIN,www.bing.com
+# FengShows
+  - DOMAIN,dsa-mfp.fengshows.cn
