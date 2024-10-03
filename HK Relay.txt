@@ -12,5 +12,3 @@ payload:
   - DOMAIN-KEYWORD,mytvsuper
 # Bing
   - DOMAIN,www.bing.com
-# FengShows
-  - DOMAIN-KEYWORD,fengshows
