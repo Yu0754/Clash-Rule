@@ -2,7 +2,3 @@ payload:
   # > HK End
   - DOMAIN,sample.sample
 ###
-# RTHK
-  - DOMAIN-KEYWORD,rthk
-# FengShows
-  - DOMAIN-KEYWORD,fengshows
