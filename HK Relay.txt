@@ -16,3 +16,5 @@ payload:
   - DOMAIN,www.bing.com
 # FengShows
   - DOMAIN,dsa-mfp.fengshows.cn
+# ZhiHu ZhiDa
+  - DOMAIN,zhida.zhihu.com
