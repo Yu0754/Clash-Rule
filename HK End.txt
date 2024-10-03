@@ -3,8 +3,6 @@ payload:
   - DOMAIN,sample.sample
 ###
 # RTHK
-  - DOMAIN-KEYWORD,rthk
-# ZhiHu ZhiDa
-  - DOMAIN,zhida.zhihu.com
+  #- DOMAIN-KEYWORD,rthk
 # FengShows
-  - DOMAIN,dsa-mfp.fengshows.cn
+  #- DOMAIN,dsa-mfp.fengshows.cn
