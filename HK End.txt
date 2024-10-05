@@ -5,4 +5,4 @@ payload:
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # FengShows
-  #- DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN,dsa-mfp.fengshows.cn
