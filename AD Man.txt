@@ -11,8 +11,6 @@ payload:
   - DOMAIN-SUFFIX,cmgadx.com
 # NF Plus
   - DOMAIN,advapi.nfnews.com
-# ZhiHu
-  - DOMAIN,appcloud2.in.zhihu.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
