@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN,d1k2us671qcoau.cloudfront.net
+  - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
   - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
