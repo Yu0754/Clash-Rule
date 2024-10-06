@@ -3,4 +3,4 @@ payload:
   - DOMAIN,sample.sample
 ###
 # FengShows
-- DOMAIN,dsa-mfp.fengshows.cn
+- DOMAIN-KEYWORD,fengshows
