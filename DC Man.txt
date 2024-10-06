@@ -4,3 +4,5 @@ payload:
 ###
 # DlerCloud
   - DOMAIN,dler.cloud
+# FengShows
+  - DOMAIN-KEYWORD,fengshows
