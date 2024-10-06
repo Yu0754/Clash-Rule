@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
+  - DOMAIN,tracker.ads.cctv.com
 # VIU
   - DOMAIN,ad.crwdcntrl.net
   - DOMAIN,bcp.crwdcntrl.net
