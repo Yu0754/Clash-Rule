@@ -3,7 +3,7 @@ payload:
   - DOMAIN,sample.sample
 ###
 # CUP
-  - DOMAIN,ads.cup.com
+  - DOMAIN,ads.cup.com.cn
 # MiTV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
