@@ -2,6 +2,8 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+# Apple
+  - DOMAIN,api-adservices.apple.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # TaoBao
