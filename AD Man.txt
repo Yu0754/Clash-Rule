@@ -12,6 +12,7 @@ payload:
 # NF Plus
   - DOMAIN,advapi.nfnews.com
 # TVB
+  - DOMAIN,ads.tvb.com
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
