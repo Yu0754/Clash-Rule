@@ -22,6 +22,7 @@ payload:
   - DOMAIN,ads.pubmatic.com
 # Bing
   - DOMAIN-SUFFIX,adnxs.com
+  - DOMAIN-SUFFIX,adnxs.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
