@@ -5,9 +5,9 @@ payload:
 # ViuTV
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-KEYWORD,viu.tv
-  - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,viu.com
   - DOMAIN,sg1.clevertap-prod.com
   - DOMAIN,licensing.bitmovin.com
   - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
