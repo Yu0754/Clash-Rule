@@ -7,17 +7,7 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
-# CCTV News
-  #- DOMAIN-SUFFIX,cmgadx.com
-# NF Plus
-  #- DOMAIN,advapi.nfnews.com
 # TVB
-  #- DOMAIN,prg-apac.smartadserver.com
-  #- DOMAIN-SUFFIX,ads.tvb.com
-  #- DOMAIN-KEYWORD,ads.serve
-  #- DOMAIN-KEYWORD,ads.server
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  #- DOMAIN-KEYWORD,ad.doubleclick
-  #- DOMAIN-KEYWORD,pagead2.googlesyndication
