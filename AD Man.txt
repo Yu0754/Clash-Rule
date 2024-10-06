@@ -7,6 +7,9 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV
   - DOMAIN,galaxy.bjcathay.com
+# VIU
+  - DOMAIN,adc3-launch.adcolony.com
+  - DOMAIN-SUFFIX,clevertap-prod.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
