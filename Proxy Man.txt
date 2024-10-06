@@ -4,5 +4,3 @@ payload:
 ###
 # FengShows
 - DOMAIN-KEYWORD,fengshows
-# Bing
-  - DOMAIN,www.bing.com
