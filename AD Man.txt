@@ -2,6 +2,8 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+# CUP
+  - DOMAIN,ads.cup.com
 # MiTV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
