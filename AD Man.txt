@@ -4,6 +4,8 @@ payload:
 ###
 # CUP
   - DOMAIN,ads.cup.com.cn
+# TaoBao
+  - DOMAIN,adashx.m.taobao.com
 # MiTV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
