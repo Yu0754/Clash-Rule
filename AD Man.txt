@@ -16,3 +16,4 @@ payload:
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,pagead2.googlesyndication.com
