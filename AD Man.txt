@@ -18,6 +18,8 @@ payload:
   - DOMAIN,adc3-launch.adcolony.com
 # HK01
   - DOMAIN,ads.pubmatic.com
+# Bing
+  - DOMAIN-SUFFIX,adnxs.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
