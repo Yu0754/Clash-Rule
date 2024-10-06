@@ -12,5 +12,3 @@ payload:
   - DOMAIN-KEYWORD,mytvsuper
 # RTHK
   - DOMAIN-KEYWORD,rthk
-# Bing
-  - DOMAIN,www.bing.com
