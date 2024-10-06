@@ -12,6 +12,8 @@ payload:
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
+# HK01
+  - DOMAIN,ads.pubmatic.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
