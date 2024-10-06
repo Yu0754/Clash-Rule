@@ -13,4 +13,5 @@ payload:
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # Bing
-  - DOMAIN,www.bing.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
