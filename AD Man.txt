@@ -1,8 +1,6 @@
 payload:
   # > AD Man
 ####
-# Other
-  - DOMAIN-KEYWORD,adashx.
 # CUP
   - DOMAIN,ads.cup.com.cn
 # ZaoBao
@@ -32,4 +30,3 @@ payload:
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,pagead2.googlesyndication.com
