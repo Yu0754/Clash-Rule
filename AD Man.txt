@@ -10,6 +10,7 @@ payload:
 # TaoBao
   - DOMAIN,adashx.m.taobao.com
 # Ximalaya
+  - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
 # MiTV
   - DOMAIN,adx.v.mitvos.com
