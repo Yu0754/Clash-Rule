@@ -20,13 +20,7 @@ payload:
   - DOMAIN,adc3-launch.adcolony.com
 # HK01
   - DOMAIN,ads.pubmatic.com
-# Bing
-  - DOMAIN,shftr.adnxs.net
-  - DOMAIN,sin3-ib.adnxs.com
-  - DOMAIN,s.update.ib.adnxs.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,ogads-pa.clients6.google.com
-  - DOMAIN,pagead2.googlesyndication.com
