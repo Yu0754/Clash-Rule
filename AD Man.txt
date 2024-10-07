@@ -9,6 +9,8 @@ payload:
   - DOMAIN,ads.cup.com.cn
 # TaoBao
   - DOMAIN,adashx.m.taobao.com
+# Ximalaya
+  - DOMAIN,adse.wsa.ximalaya.com
 # MiTV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
