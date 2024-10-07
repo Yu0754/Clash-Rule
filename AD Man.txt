@@ -5,6 +5,7 @@ payload:
 # Other
   - DOMAIN-KEYWORD,adnxs
   - DOMAIN-KEYWORD,adjust
+  - DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,appsflyer
 # CUP
   - DOMAIN,ads.cup.com.cn
