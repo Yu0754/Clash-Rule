@@ -3,8 +3,8 @@ payload:
   - DOMAIN,sample.sample
 ###
 # QQ
-  - DOMAIN,sdk.e.qq.com
-  - DOMAIN,mi.gdt.qq.com
+  - DOMAIN-SUFFIX,e.qq.com
+  - DOMAIN-SUFFIX,gdt.qq.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # TaoBao
