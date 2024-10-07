@@ -2,12 +2,6 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
-# Other
-  - DOMAIN-KEYWORD,adnxs
-  - DOMAIN-KEYWORD,adjust
-  - DOMAIN-KEYWORD,youbora
-  - DOMAIN-KEYWORD,appsflyer
-  - DOMAIN-KEYWORD,analytics
 # CUP
   - DOMAIN,ads.cup.com.cn
 # TaoBao
@@ -27,9 +21,9 @@ payload:
 # HK01
   - DOMAIN,ads.pubmatic.com
 # Bing
-  #- DOMAIN,shftr.adnxs.net
-  #- DOMAIN,sin3-ib.adnxs.com
-  #- DOMAIN,s.update.ib.adnxs.net
+  - DOMAIN,shftr.adnxs.net
+  - DOMAIN,sin3-ib.adnxs.com
+  - DOMAIN,s.update.ib.adnxs.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
