@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,adjust
   - DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,appsflyer
+  - DOMAIN-KEYWORD,app-analytics-services
 # CUP
   - DOMAIN,ads.cup.com.cn
 # TaoBao
