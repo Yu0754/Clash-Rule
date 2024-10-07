@@ -1,6 +1,14 @@
 payload:
   # > HK Relay
 ####
+# RTHK
+  - DOMAIN-KEYWORD,rthk
+# TVB
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-KEYWORD,mytvsuper
+# Bing
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
 # ViuTV
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-KEYWORD,viu.tv
@@ -15,14 +23,6 @@ payload:
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
   - DOMAIN,sns.ap-southeast-1.amazonaws.com
   - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
-# TVB
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-KEYWORD,mytvsuper
-# RTHK
-  - DOMAIN-KEYWORD,rthk
-# Bing
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,copilot.microsoft.com
 # OpenAI
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,auth0.com
