@@ -21,6 +21,7 @@ payload:
 # HK01
   - DOMAIN,ads.pubmatic.com
 # Bing
+  - DOMAIN,app.adjust.com
   - DOMAIN,shftr.adnxs.net
   - DOMAIN,sin3-ib.adnxs.com
   - DOMAIN,s.update.ib.adnxs.net
