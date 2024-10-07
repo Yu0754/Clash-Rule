@@ -1,7 +1,6 @@
 payload:
   # > HK Relay
-  - DOMAIN,sample.sample
-###
+####
 # ViuTV
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-KEYWORD,viu.tv
