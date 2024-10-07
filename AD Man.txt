@@ -2,6 +2,8 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
+# QQ
+  - DOMAIN,sdk.e.qq.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # TaoBao
