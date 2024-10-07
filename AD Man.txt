@@ -23,6 +23,7 @@ payload:
 # Bing
   - DOMAIN,shftr.adnxs.net
   - DOMAIN,sin3-ib.adnxs.com
+  - DOMAIN,s.update.ib.adnxs.net
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
