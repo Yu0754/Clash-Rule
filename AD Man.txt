@@ -2,36 +2,32 @@ payload:
   # > AD Man
   - DOMAIN,sample.sample
 ###
-# QQ
-  - DOMAIN,sdk.e.qq.com
-  - DOMAIN,mi.gdt.qq.com
-  #- DOMAIN-SUFFIX,e.qq.com
-  #- DOMAIN-SUFFIX,gdt.qq.com
-# CUP
+# 云闪付
   - DOMAIN,ads.cup.com.cn
-# TaoBao
-  - DOMAIN,adashx.m.taobao.com
-# Ximalaya
+# 喜马拉雅
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
   - DOMAIN,adbehavior.ximalaya.com
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,adbehaviorhera.ximalaya.com
-# MiTV
+# 小米电视
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
-# CCTV
+# 央视频
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,tracker.ads.cctv.com
   - DOMAIN,adstore-index-1252524079.file.myqcloud.com
-# VIU
+# 联合早报
+  - DOMAIN,sdk.e.qq.com
+  - DOMAIN,mi.gdt.qq.com
+# 香港 01
+  - DOMAIN,ads.pubmatic.com
+# Viu TV
   - DOMAIN,ad.crwdcntrl.net
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
-# HK01
-  - DOMAIN,ads.pubmatic.com
-# TVB
+# 无线电视
   - DOMAIN-KEYWORD,mai.tvb.com
-# Google
+# 谷歌
   - DOMAIN-KEYWORD,g.doubleclick
