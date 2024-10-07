@@ -14,6 +14,7 @@ payload:
   - DOMAIN,adse.wsa.ximalaya.com
   - DOMAIN,adbehavior.ximalaya.com
   - DOMAIN,adbehavior.wsa.ximalaya.com
+  - DOMAIN,adbehaviorhera.ximalaya.com
 # MiTV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
