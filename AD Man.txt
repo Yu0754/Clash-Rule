@@ -3,6 +3,8 @@ payload:
 ####
 # JD
   - DOMAIN,jdread-api.jd.com
+# DB
+  - DOMAIN-SUFFIX,ads.8le8le.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # ZaoBao
