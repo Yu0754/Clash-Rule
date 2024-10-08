@@ -1,6 +1,8 @@
 payload:
   # > AD Man
 ####
+# Test
+  - DOMAIN-KEYWORD,fengshows.oss
 # CUP
   - DOMAIN,ads.cup.com.cn
 # JD Relay
