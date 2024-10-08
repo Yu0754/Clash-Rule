@@ -3,8 +3,6 @@ payload:
 ####
 # CUP
   - DOMAIN,ads.cup.com.cn
-# JD Relay
-  - DOMAIN,jdread-api.jd.com
 # ZaoBao
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
