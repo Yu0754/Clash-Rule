@@ -1,6 +1,8 @@
 payload:
   # > AD Man
 ####
+# JD
+  - DOMAIN,jdread-api.jd.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # ZaoBao
