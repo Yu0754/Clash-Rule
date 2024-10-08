@@ -1,13 +1,10 @@
 payload:
   # > AD Man
 ####
-# JD
-  - DOMAIN,jdread-api.jd.com
-# DB
-  - DOMAIN,adx-hw.ilianyue.com
-  - DOMAIN-SUFFIX,ads.8le8le.com
 # CUP
   - DOMAIN,ads.cup.com.cn
+# JD Relay
+  - DOMAIN,jdread-api.jd.com
 # ZaoBao
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
