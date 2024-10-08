@@ -1,6 +1,7 @@
 payload:
   # > AD Man
 ####
+  - DOMAIN,search5-search-lq.toutiaoapi.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # ZaoBao
