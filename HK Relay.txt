@@ -7,8 +7,8 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
 # Bing
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,copilot.microsoft.com
+  #- DOMAIN-SUFFIX,bing.com
+  #- DOMAIN-SUFFIX,copilot.microsoft.com
 # ViuTV
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-KEYWORD,viu.tv
