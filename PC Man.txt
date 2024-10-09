@@ -2,4 +2,4 @@ payload:
   # > Proxy Man
 ####
 # FengShows
-  - DOMAIN-KEYWORD,fengshows
+  - DOMAIN,dsa-mfp.fengshows.cn
