@@ -1,8 +1,7 @@
 payload:
   # > AD Man
 ####
-  - DOMAIN,gslbali.ximalaya.com
-  - DOMAIN,gslbtx.ximalaya.com
+  - DOMAIN,mobwsa.ximalaya.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # ZaoBao
