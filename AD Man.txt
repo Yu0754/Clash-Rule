@@ -1,17 +1,6 @@
 payload:
   # > AD Man
 ####
-  - DOMAIN,locationhera.ximalaya.com
-  - DOMAIN,xdcs-collector.ximalaya.com
-  - DOMAIN,mermaid.ximalaya.com
-  - DOMAIN,mres.ximalaya.com
-  - DOMAIN,mobwsa.ximalaya.com
-  - DOMAIN,gslbtx.ximalaya.com
-  - DOMAIN,passportws.ximalaya.com
-  - DOMAIN,mobile.ximalaya.com
-  - DOMAIN,xuid-server.ximalaya.com
-  - DOMAIN,gslbali.ximalaya.com
-  - DOMAIN,passport.ximalaya.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # ZaoBao
@@ -24,6 +13,8 @@ payload:
   - DOMAIN,adbehavior.ximalaya.com
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,adbehaviorhera.ximalaya.com
+  - DOMAIN,xdcs-collector.ximalaya.com
+  - DOMAIN,mobwsa.ximalaya.com
 # XiaoMi TV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
