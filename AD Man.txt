@@ -14,7 +14,6 @@ payload:
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
-  - DOMAIN,mobwsa.ximalaya.com
 # XiaoMi TV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
