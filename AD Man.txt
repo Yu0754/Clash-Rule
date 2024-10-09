@@ -2,6 +2,8 @@ payload:
   # > AD Man
 ####
   - DOMAIN,mobwsa.ximalaya.com
+  - DOMAIN,locationhera.ximalaya.com
+  - DOMAIN,xdcs-collector.ximalaya.com
 # CUP
   - DOMAIN,ads.cup.com.cn
 # ZaoBao
