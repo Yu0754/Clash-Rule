@@ -1,8 +1,6 @@
 payload:
   # > HK Relay
 ####
-# D100
-  - DOMAIN-SUFFIX,d100.net
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
@@ -14,8 +12,8 @@ payload:
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,viu.com
-  - DOMAIN,sg1.clevertap-prod.com
-  - DOMAIN,licensing.bitmovin.com
+  #- DOMAIN,sg1.clevertap-prod.com
+  #- DOMAIN,licensing.bitmovin.com
   - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
