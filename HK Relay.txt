@@ -1,6 +1,8 @@
 payload:
   # > HK Relay
 ####
+# D100
+  - DOMAIN-SUFFIX,d100.net
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
