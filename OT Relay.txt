@@ -1,5 +1,3 @@
 payload:
   # > OT Relay
 ####
-# Bing
-  - DOMAIN-SUFFIX,bing.com
