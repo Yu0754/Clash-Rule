@@ -3,5 +3,3 @@ payload:
 ####
 # DlerCloud
   - DOMAIN,dler.cloud
-# VIU
-  - DOMAIN,api-gateway-global.viu.com
