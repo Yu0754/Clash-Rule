@@ -1,5 +1,4 @@
 payload:
   # > Proxy Man
 ####
-# FengShows
-  - DOMAIN,dsa-mfp.fengshows.cn
+  - DOMAIN,sample,sample
