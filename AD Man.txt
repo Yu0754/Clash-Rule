@@ -18,6 +18,7 @@ payload:
 # XiaoMi TV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
+  - DOMAIN-SUFFIX,pandora.xiaomi.com
 # CCTV TV
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,tracker.ads.cctv.com
