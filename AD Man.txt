@@ -1,12 +1,16 @@
 payload:
   # > AD Man
 ####
-# CUP
-  - DOMAIN,ads.cup.com.cn
+# Google
+  - DOMAIN-KEYWORD,g.doubleclick
+# TVB
+  - DOMAIN-KEYWORD,mai.tvb.com
 # ZaoBao
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
+# CCTV TV
+  - DOMAIN,galaxy.bjcathay.com
 # Ximalaya
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
@@ -15,19 +19,8 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
+# CUP
+  - DOMAIN,ads.cup.com.cn
 # XiaoMi TV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
-# CCTV TV
-  - DOMAIN,galaxy.bjcathay.com
-# HK01
-  - DOMAIN,ads.pubmatic.com
-# Viu
-  - DOMAIN,ad.crwdcntrl.net
-  - DOMAIN,bcp.crwdcntrl.net
-  - DOMAIN,wd.adcolony.com
-  - DOMAIN,adc3-launch.adcolony.com
-# TVB
-  - DOMAIN-KEYWORD,mai.tvb.com
-# Google
-  - DOMAIN-KEYWORD,g.doubleclick
