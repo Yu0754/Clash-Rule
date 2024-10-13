@@ -20,8 +20,6 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # CCTV TV
   - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN,tracker.ads.cctv.com
-  - DOMAIN,adstore-index-1252524079.file.myqcloud.com
 # HK01
   - DOMAIN,ads.pubmatic.com
 # Viu
@@ -33,5 +31,3 @@ payload:
   - DOMAIN-KEYWORD,mai.tvb.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,ogads-pa.clients6.google.com
-  - DOMAIN,pagead2.googlesyndication.com
