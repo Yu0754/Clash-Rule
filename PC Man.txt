@@ -1,5 +1,4 @@
 payload:
   # > Proxy Man
 ####
-# Bing
-  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN,sample,sample
