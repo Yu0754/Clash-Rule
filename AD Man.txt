@@ -9,6 +9,8 @@ payload:
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
+# Nanfan Plus
+  - DOMAIN,advapi.nfnews.com
 # CCTV TV
   - DOMAIN,galaxy.bjcathay.com
 # Ximalaya
