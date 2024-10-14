@@ -3,7 +3,6 @@ payload:
 ####
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,ogads-pa.clients6.google.com
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
@@ -29,8 +28,6 @@ payload:
   - DOMAIN,mobiwsa.ximalaya.com
 # CUP
   - DOMAIN,ads.cup.com.cn
-# Taobao
-  - DOMAIN-KEYWORD,adashx
 # XiaoMi TV
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
