@@ -16,9 +16,11 @@ payload:
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
-# CCTV TV
+# 南方+
+  - DOMAIN,advapi.nfnews.com
+# 央视影音
   - DOMAIN,galaxy.bjcathay.com
-# Ximalaya
+# 喜马拉雅
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
   - DOMAIN,adbehavior.ximalaya.com
