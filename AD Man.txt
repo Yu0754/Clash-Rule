@@ -28,8 +28,8 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
-# CUP
+# 云闪付
   - DOMAIN,ads.cup.com.cn
-# XiaoMi TV
+# 小米电视
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
