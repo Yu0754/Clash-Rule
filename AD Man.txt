@@ -29,6 +29,9 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
+# 小红书
+  - DOMAIN,ads-vp5.xhscdn.com
+  - DOMAIN,ads-img-al.xhscdn.com
 # 云闪付
   - DOMAIN,ads.cup.com.cn
 # 小米电视
