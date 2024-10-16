@@ -1,6 +1,7 @@
 payload:
   # > AD Man
 ####
+  - DOMAIN-SUFFIX,umengcloud.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ogads-pa.clients6.google.com
