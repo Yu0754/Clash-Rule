@@ -23,6 +23,10 @@ payload:
   - DOMAIN,mobiwsa.ximalaya.com
 # 知乎
   - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,mqtt.zhihu.com
+  - DOMAIN,sugar.zhihu.com
+  - IP-CIDR,118.89.204.198
+  - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 # 云闪付
   - DOMAIN,ads.cup.com.cn
 # 银盛
