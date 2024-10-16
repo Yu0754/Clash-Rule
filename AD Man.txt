@@ -1,7 +1,6 @@
 payload:
   # > AD Man
 ####
-  - DOMAIN-SUFFIX,umengcloud.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ogads-pa.clients6.google.com
@@ -26,8 +25,6 @@ payload:
   - DOMAIN,ads.cup.com.cn
 # 银盛
   - DOMAIN,ads.ysepay.com
-# 建行
-  - DOMAIN-KEYWORD,adv.ccb.com
 # 小米电视
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
@@ -36,4 +33,5 @@ payload:
   - DOMAIN,ex.advst.cp33.ott.cibntv.net
 # 中国移动
   - DOMAIN,ad.mcloud.139.com
+# 中国联通
   - DOMAIN-KEYWORD,ad.10010.com
