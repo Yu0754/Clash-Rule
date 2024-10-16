@@ -35,3 +35,5 @@ payload:
   - DOMAIN,ad.mcloud.139.com
 # 中国联通
   - DOMAIN-KEYWORD,ad.10010.com
+# BanAD补充
+  - DOMAIN-SUFFIX,umengcloud.com
