@@ -27,4 +27,4 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 小徽直播
   - DOMAIN,ad.advst.cp33.ott.cibntv.net
-  #- DOMAIN,ex.advst.cp33.ott.cibntv.net
+  - DOMAIN,ex.advst.cp33.ott.cibntv.net
