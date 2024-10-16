@@ -23,6 +23,8 @@ payload:
   - DOMAIN,mobiwsa.ximalaya.com
 # 云闪付
   - DOMAIN,ads.cup.com.cn
+# 银盛
+  - DOMAIN,ads.ysepay.com
 # 建行
   - DOMAIN-KEYWORD,adv.ccb.com
 # 小米电视
