@@ -1,7 +1,6 @@
 payload:
   # > AD Man
 ####
-  - DOMAIN-KEYWORD,adash
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ogads-pa.clients6.google.com
