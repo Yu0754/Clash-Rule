@@ -33,3 +33,6 @@ payload:
 # 小薇直播
   - DOMAIN,ad.advst.cp33.ott.cibntv.net
   - DOMAIN,ex.advst.cp33.ott.cibntv.net
+# 中国移动
+  - DOMAIN,ad.mcloud.139.com
+  - DOMAIN-KEYWORD,ad.10010.com
