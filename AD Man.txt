@@ -21,10 +21,6 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
-# 知乎
-  - DOMAIN,mqtt.zhihu.com
-  - DOMAIN,sugar.zhihu.com
-  - DOMAIN,appcloud2.in.zhihu.com
 # 云闪付
   - DOMAIN,ads.cup.com.cn
 # 银盛
