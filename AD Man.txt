@@ -3,9 +3,6 @@ payload:
 ####
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN-KEYWORD,ad.doubleclick
-  - DOMAIN,ogads-pa.clients6.google.com
-  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # ZaoBao
@@ -22,19 +19,3 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
-# 云闪付
-  - DOMAIN,ads.cup.com.cn
-# 银盛
-  - DOMAIN,ads.ysepay.com
-# 小米电视
-  - DOMAIN,adx.v.mitvos.com
-  - DOMAIN-SUFFIX,ad.xiaomi.com
-# 小薇直播
-  - DOMAIN,ad.advst.cp33.ott.cibntv.net
-  - DOMAIN,ex.advst.cp33.ott.cibntv.net
-# 中国移动
-  - DOMAIN,ad.mcloud.139.com
-# 中国联通
-  - DOMAIN-KEYWORD,ad.10010.com
-# BanAD补充
-  - DOMAIN-SUFFIX,umengcloud.com
