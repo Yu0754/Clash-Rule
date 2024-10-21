@@ -31,6 +31,8 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
+# 云闪付
+  - DOMAIN,ads.cup.com.cn
 # 运营商
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-KEYWORD,ad.10010.com
