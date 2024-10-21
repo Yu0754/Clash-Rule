@@ -20,7 +20,7 @@ payload:
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
 # 小米电视
-  - DOMAIN,adx.v.mitvos.com
+  #- DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
