@@ -20,7 +20,7 @@ payload:
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
 # 知乎
-  #- DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,appcloud2.in.zhihu.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 喜马拉雅
