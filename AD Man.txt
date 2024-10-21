@@ -9,6 +9,7 @@ payload:
 # VIU
   - DOMAIN,ad.crwdcntrl.net
   - DOMAIN,bcp.crwdcntrl.net
+  - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
 # HK01
   - DOMAIN,ads.pubmatic.com
