@@ -31,5 +31,6 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
-# 中国移动
+# 运营商
   - DOMAIN,ad.mcloud.139.com
+  - DOMAIN-KEYWORD,ad.10010.com
