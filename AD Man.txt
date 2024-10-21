@@ -2,7 +2,6 @@ payload:
   # > AD Man
 ####
 # Google
-  - DOMAIN,ad.doubleclick.net
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
@@ -21,6 +20,7 @@ payload:
   - DOMAIN,ipv4.gdt.qq.com
 # 知乎
   - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,zhihu-web-analytics.zhihu.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 喜马拉雅
