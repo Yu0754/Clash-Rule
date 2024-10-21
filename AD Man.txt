@@ -3,8 +3,13 @@ payload:
 ####
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
+# VIU
+  - DOMAIN,ad.crwdcntrl.net
+  - DOMAIN,bcp.crwdcntrl.net
+  - DOMAIN,adc3-launch.adcolony.com
 # HK01
   - DOMAIN,ads.pubmatic.com
 # ZaoBao
