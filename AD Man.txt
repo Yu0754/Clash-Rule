@@ -2,6 +2,7 @@ payload:
   # > AD Man
 ####
 # Google
+  - DOMAIN,ad.doubleclick.net
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
