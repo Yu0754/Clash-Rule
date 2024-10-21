@@ -14,6 +14,7 @@ payload:
   - DOMAIN,adc3-launch.adcolony.com
 # HK01
   - DOMAIN,ads.pubmatic.com
+  - DOMAIN,oi-ow.pubmatic.com
 # ZaoBao
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
