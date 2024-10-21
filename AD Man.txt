@@ -2,8 +2,9 @@ payload:
   # > AD Man
 ####
 # Google
-  - DOMAIN,ad.doubleclick.net
   - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN-KEYWORD,ad.doubleclick
+  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # VIU
