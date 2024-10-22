@@ -19,6 +19,8 @@ payload:
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
   - DOMAIN,sns.ap-southeast-1.amazonaws.com
   - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
+# Google
+  - DOMAIN,www.google.com
 # Bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
