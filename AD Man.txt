@@ -20,6 +20,9 @@ payload:
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
 # 小米电视
+  - IP-CIDR,180.76.76.76
+  - IP-CIDR6,240c::6666
+  - DOMAIN,br.pandora.xiaomi.com
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
