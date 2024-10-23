@@ -3,7 +3,6 @@ payload:
 ####
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN-KEYWORD,ad.doubleclick
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
@@ -20,9 +19,6 @@ payload:
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
 # 小米电视
-  #- IP-CIDR,180.76.76.76/32
-  #- IP-CIDR6,240c::6666/128
-  #- DOMAIN,br.pandora.xiaomi.com
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
@@ -35,12 +31,6 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
-# 知乎
-  #- DOMAIN,appcloud2.in.zhihu.com
-# 美团
-  #- DOMAIN,mtvod-hw.meituan.net
-  #- DOMAIN,metrics-picture.d.meituan.net
-  #- DOMAIN,maplocatesdksnapshot.d.meituan.net
 # 运营商
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-KEYWORD,ad.10010.com
