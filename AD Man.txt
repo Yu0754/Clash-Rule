@@ -36,6 +36,7 @@ payload:
   - DOMAIN,appcloud2.in.zhihu.com
 # 美团
   - DOMAIN,mtvod-hw.meituan.net
+  - DOMAIN,metrics-picture.d.meituan.net
   - DOMAIN,maplocatesdksnapshot.d.meituan.net
 # 运营商
   - DOMAIN,ad.mcloud.139.com
