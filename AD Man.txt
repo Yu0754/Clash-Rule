@@ -32,7 +32,7 @@ payload:
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
 # 知乎
-  - IP-CIDR,118.89.204.198
+  - IP-CIDR,118.89.204.198/32
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
