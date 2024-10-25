@@ -1,5 +1,4 @@
 payload:
   # > OT Relay
 ####
-# Google
-  - DOMAIN,www.google.com
+  - DOMAIN,sample.sample
