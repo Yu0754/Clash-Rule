@@ -2,7 +2,9 @@ payload:
   # > AD Man
 ####
 # Google
-  - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,googleadservices
+  - DOMAIN-KEYWORD,googletagservices
   - DOMAIN,ogads-pa.clients6.google.com
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
