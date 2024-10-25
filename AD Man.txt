@@ -38,7 +38,7 @@ payload:
 # 百度地图
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
-  #- DOMAIN,mobads-pre-config.cdn.bcebos.com
+  - DOMAIN,mobads-pre-config.cdn.bcebos.com
 # 知乎
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,mqtt.zhihu.com
