@@ -45,6 +45,6 @@ payload:
 # 云闪付
   - DOMAIN,ads.cup.com.cn
 # 百度
-#p2-lm.adukwai.com
+# p2-lm.adukwai.com
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
