@@ -3,6 +3,7 @@ payload:
 ####
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,ogads-pa.clients6.google.com
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
@@ -11,6 +12,7 @@ payload:
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
+  - DOMAIN,ads.adserver.newsochub.com
 # HK01
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,oi-ow.pubmatic.com
