@@ -35,6 +35,8 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
+# 京东
+  - DOMAIN,policy.jd.com
 # 头条
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN,api-access.pangolin-sdk-toutiao.com
