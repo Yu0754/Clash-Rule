@@ -1,4 +1,5 @@
 payload:
   # > OT Relay
 ####
-  - DOMAIN,sample.sample
+# Bing
+  - DOMAIN,www.bing.com
