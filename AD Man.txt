@@ -46,4 +46,5 @@ payload:
   - DOMAIN,ads.cup.com.cn
 # 百度
   - DOMAIN,mobads.baidu.com
+  - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
