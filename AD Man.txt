@@ -35,6 +35,10 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
+# 百度地图
+  - DOMAIN,mobads.baidu.com
+  - DOMAIN,mobads-logs.baidu.com
+  - DOMAIN,mobads-pre-config.cdn.bcebos.com
 # 知乎
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,mqtt.zhihu.com
@@ -44,7 +48,3 @@ payload:
   - DOMAIN-KEYWORD,ad.10010.com
 # 云闪付
   - DOMAIN,ads.cup.com.cn
-# 百度
-  - DOMAIN,mobads.baidu.com
-  - DOMAIN,mobads-logs.baidu.com
-  - DOMAIN,mobads-pre-config.cdn.bcebos.com
