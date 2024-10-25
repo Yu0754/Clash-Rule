@@ -1,8 +1,6 @@
 payload:
   # > HK Relay
 ####
-# Bing
-  - DOMAIN,www.bing.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
