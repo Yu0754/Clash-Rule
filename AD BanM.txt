@@ -31,10 +31,16 @@ payload:
   - DOMAIN,afd.baidu.com
   - DOMAIN,nsclick.baidu.com
   - DOMAIN,api.tuisong.baidu.com
+  - DOMAIN,info.tuisong.baidu.com
   - DOMAIN,iosack.tuisong.baidu.com
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
+# 百度贴吧
+  - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,api-access.pangolin-sdk-toutiao.com
+  - DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+  - DOMAIN,log-api.pangolin-sdk-toutiao-b.com
 # 运营商
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-KEYWORD,ad.10010.com
