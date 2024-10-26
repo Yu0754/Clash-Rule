@@ -14,14 +14,11 @@ payload:
   - DOMAIN,adbehavior.ximalaya.com
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,adbehaviorhera.ximalaya.com
-  #- DOMAIN,xdcs-collector.ximalaya.com
-  #- DOMAIN,mobiwsa.ximalaya.com
 # 小米
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 腾讯
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
-  - DOMAIN,ipv4.gdt.qq.com
 # 百度
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
@@ -39,5 +36,4 @@ payload:
 # 云闪付
   - DOMAIN,ads.cup.com.cn
 # AD Ban 补充
-  #- DOMAIN,applog.uc.cn
-  #- DOMAIN,ulogs.umengcloud.com
+  - DOMAIN,ulogs.umengcloud.com
