@@ -33,6 +33,7 @@ payload:
   - DOMAIN,api.tuisong.baidu.com
   - DOMAIN,iosack.tuisong.baidu.com
   - DOMAIN,mobads.baidu.com
+  - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
 # 运营商
   - DOMAIN,ad.mcloud.139.com
