@@ -8,6 +8,8 @@ payload:
 # Zaobao
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
+# QQ
+  - DOMAIN,ipv4.gdt.qq.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 知乎
