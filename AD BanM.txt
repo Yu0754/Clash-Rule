@@ -53,4 +53,5 @@ payload:
 # 云闪付
   - DOMAIN,ads.cup.com.cn
 # AD Ban 补充
+  - DOMAIN,applog.uc.cn
   - DOMAIN,ulogs.umengcloud.com
