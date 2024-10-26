@@ -26,6 +26,13 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
+# 百度地图
+  - DOMAIN,als.baidu.com
+  - DOMAIN,afd.baidu.com
+  - DOMAIN,api.tuisong.baidu.com
+  - DOMAIN,iosack.tuisong.baidu.com
+  - DOMAIN,mobads.baidu.com
+  - DOMAIN,mobads-pre-config.cdn.bcebos.com
 # 运营商
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-KEYWORD,ad.10010.com
