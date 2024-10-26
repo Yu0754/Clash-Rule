@@ -14,7 +14,7 @@ payload:
   - DOMAIN,adbehavior.ximalaya.com
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,adbehaviorhera.ximalaya.com
-  - DOMAIN,xdcs-collector.ximalaya.com
+  #- DOMAIN,xdcs-collector.ximalaya.com
   #- DOMAIN,mobiwsa.ximalaya.com
 # 小米
   - DOMAIN-SUFFIX,ad.xiaomi.com
@@ -29,12 +29,12 @@ payload:
 # 百度
   #- DOMAIN,hm.baidu.com
   #- DOMAIN,hmma.baidu.com
-  - DOMAIN,als.baidu.com
-  - DOMAIN,afd.baidu.com
-  - DOMAIN,nsclick.baidu.com
-  - DOMAIN,api.tuisong.baidu.com
-  - DOMAIN,info.tuisong.baidu.com
-  - DOMAIN,iosack.tuisong.baidu.com
+  #- DOMAIN,als.baidu.com
+  #- DOMAIN,afd.baidu.com
+  #- DOMAIN,nsclick.baidu.com
+  #- DOMAIN,api.tuisong.baidu.com
+  #- DOMAIN,info.tuisong.baidu.com
+  #- DOMAIN,iosack.tuisong.baidu.com
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
 # 头条
