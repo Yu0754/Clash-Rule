@@ -30,10 +30,12 @@ payload:
   - DOMAIN,wbapp.uve.weibo.com
   - DOMAIN,sdkapp.uve.weibo.com
 # 腾讯
+  - DOMAIN,a.gdt.qq.com
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,v2.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
+  - DOMAIN,ios.bugly.qq.com
 # 头条
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN,api-access.pangolin-sdk-toutiao.com
