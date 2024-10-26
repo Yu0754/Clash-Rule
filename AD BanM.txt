@@ -1,6 +1,8 @@
 payload:
   # > AD Man
 ####
+#m.exactag.com
+#ptf.flyertrip.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
