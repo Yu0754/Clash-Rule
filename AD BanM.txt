@@ -21,6 +21,7 @@ payload:
 # 腾讯
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
+  - DOMAIN,ipv4.gdt.qq.com
 # 淘宝
   - DOMAIN,adashxgc.ut.taobao.com
 # 百度
