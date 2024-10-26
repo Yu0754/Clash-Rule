@@ -16,6 +16,8 @@ payload:
   - DOMAIN,adbehaviorhera.ximalaya.com
   - DOMAIN,xdcs-collector.ximalaya.com
   - DOMAIN,mobiwsa.ximalaya.com
+# 小米
+  - DOMAIN-SUFFIX,ad.xiaomi.com
 # 百度
   - DOMAIN,hm.baidu.com
   - DOMAIN,als.baidu.com
@@ -30,6 +32,20 @@ payload:
 # 微博
   - DOMAIN,wbapp.uve.weibo.com
   - DOMAIN,sdkapp.uve.weibo.com
+# 头条
+  - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,api-access.pangolin-sdk-toutiao.com
+  - DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+  - DOMAIN,log-api.pangolin-sdk-toutiao-b.com
+# 淘宝
+  - DOMAIN,adashxgc.ut.taobao.com
+# 京东
+  - DOMAIN,policy.jd.com
+# 知乎
+  - DOMAIN,pv.sohu.com
+  - DOMAIN,mqtt.zhihu.com
+  - DOMAIN,sugar.zhihu.com
+  - DOMAIN,appcloud2.in.zhihu.com
 # 腾讯
   - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,a.gdt.qq.com
@@ -39,20 +55,11 @@ payload:
   - DOMAIN,v2.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
   - DOMAIN,ios.bugly.qq.com
-# 头条
-  - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
-  - DOMAIN,api-access.pangolin-sdk-toutiao.com
-  - DOMAIN,api-access.pangolin-sdk-toutiao-b.com
-  - DOMAIN,log-api.pangolin-sdk-toutiao-b.com
-# 淘宝
-  - DOMAIN,adashxgc.ut.taobao.com
-# 知乎
-  - DOMAIN,pv.sohu.com
-  - DOMAIN,mqtt.zhihu.com
-  - DOMAIN,sugar.zhihu.com
-  - DOMAIN,appcloud2.in.zhihu.com
-# 小米
-  - DOMAIN-SUFFIX,ad.xiaomi.com
+# 爱奇艺
+  - DOMAIN,t7z.cupid.iqiyi.com
+  - DOMAIN,resource.cupid.iqiyi.com
+  - DOMAIN,msga.cupid.iqiyi.com
+  - DOMAIN,policy.video.iqiyi.com
 # 运营商
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-KEYWORD,ad.10010.com
