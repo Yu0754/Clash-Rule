@@ -45,20 +45,9 @@ payload:
   - DOMAIN,sugar.zhihu.com
   - DOMAIN,appcloud2.in.zhihu.com
 # 腾讯
-  - DOMAIN,p.l.qq.com
-  - DOMAIN,dp3.qq.com
-  - DOMAIN,a.gdt.qq.com
-  - DOMAIN,v.gdt.qq.com
-  - DOMAIN,vr.gdt.qq.com
-  - DOMAIN,xs.gdt.qq.com
-  - DOMAIN,mi.gdt.qq.com
-  - DOMAIN,v2.gdt.qq.com
-  - DOMAIN,v2mi.gdt.qq.com
-  - DOMAIN,ipv4.gdt.qq.com
-  - DOMAIN,isrpt-vn.gdt.qq.com
-  - DOMAIN,sdk.e.qq.com
-  - DOMAIN,tangram.e.qq.com
-  - DOMAIN,ios.bugly.qq.com
+  - DOMAIN-SUFFIX,e.qq.com
+  - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,l.qq.com
 # 优酷
   - DOMAIN,push.m.youku.com
 # 爱奇艺
