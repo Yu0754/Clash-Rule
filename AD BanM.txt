@@ -19,6 +19,8 @@ payload:
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
 # 百度
+  - DOMAIN,als.baidu.com
+  - DOMAIN,afd.baidu.com
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
 # AD Ban 补充
