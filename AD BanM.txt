@@ -31,8 +31,10 @@ payload:
   - DOMAIN,wbapp.uve.weibo.com
   - DOMAIN,sdkapp.uve.weibo.com
 # 腾讯
+  - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,a.gdt.qq.com
   - DOMAIN,sdk.e.qq.com
+  - DOMAIN,tangram.e.qq.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,v2.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
