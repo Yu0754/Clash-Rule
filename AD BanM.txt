@@ -32,6 +32,8 @@ payload:
   - DOMAIN,mobads-logs.baidu.com
 # 头条
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,gromore.pangolin-sdk-toutiao.com
+  - DOMAIN,log-api.pangolin-sdk-toutiao.com
   - DOMAIN,api-access.pangolin-sdk-toutiao.com
   - DOMAIN,api-access.pangolin-sdk-toutiao-b.com
   - DOMAIN,log-api.pangolin-sdk-toutiao-b.com
