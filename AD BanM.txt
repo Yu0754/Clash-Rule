@@ -49,11 +49,13 @@ payload:
   - DOMAIN,dp3.qq.com
   - DOMAIN,a.gdt.qq.com
   - DOMAIN,v.gdt.qq.com
+  - DOMAIN,vr.gdt.qq.com
   - DOMAIN,xs.gdt.qq.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,v2.gdt.qq.com
   - DOMAIN,v2mi.gdt.qq.com
   - DOMAIN,ipv4.gdt.qq.com
+  - DOMAIN,isrpt-vn.gdt.qq.com
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,tangram.e.qq.com
   - DOMAIN,ios.bugly.qq.com
@@ -77,6 +79,7 @@ payload:
   - DOMAIN,applog.uc.cn
   - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,huichuan.sm.cn
+  - DOMAIN,adsmind.gdtimg.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
 # TEST
   - DOMAIN,stat.pandora.xiaomi.com
