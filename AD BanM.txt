@@ -33,3 +33,5 @@ payload:
   - DOMAIN,ads.cup.com.cn
 # AD Ban 补充
   - DOMAIN,ulogs.umengcloud.com
+# TEST
+  - DOMAIN,stat.pandora.xiaomi.com
