@@ -2,8 +2,8 @@ payload:
   # > AD Man
 ####
 # Google
+  - DOMAIN,ad.doubleclick.net
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN-KEYWORD,ad.doubleclick
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # 央视影音
@@ -19,7 +19,7 @@ payload:
 # 腾讯
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
-  - DOMAIN,ios.bugly.qq.com
+  #- DOMAIN,ios.bugly.qq.com
 # 百度
   - DOMAIN,als.baidu.com
   - DOMAIN,afd.baidu.com
