@@ -3,7 +3,6 @@ payload:
 ####
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # 央视影音
@@ -23,17 +22,17 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
 # 微博
-  - DOMAIN,wbapp.uve.weibo.com
-  - DOMAIN,sdkapp.uve.weibo.com
+  #- DOMAIN,wbapp.uve.weibo.com
+  #- DOMAIN,sdkapp.uve.weibo.com
 # 知乎
-  - DOMAIN,pv.sohu.com
-  - DOMAIN,mqtt.zhihu.com
-  - DOMAIN,sugar.zhihu.com
-  - DOMAIN,appcloud2.in.zhihu.com
+  #- DOMAIN,pv.sohu.com
+  #- DOMAIN,mqtt.zhihu.com
+  #- DOMAIN,sugar.zhihu.com
+  #- DOMAIN,appcloud2.in.zhihu.com
 # 运营商
-  - DOMAIN,ad.mcloud.139.com
-  - DOMAIN-KEYWORD,ad.10010.com
+  #- DOMAIN,ad.mcloud.139.com
+  #- DOMAIN-KEYWORD,ad.10010.com
 # 云闪付
-  - DOMAIN,ads.cup.com.cn
+  #- DOMAIN,ads.cup.com.cn
 # AD Ban 补充
   - DOMAIN,ulogs.umengcloud.com
