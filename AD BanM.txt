@@ -2,8 +2,9 @@ payload:
   # > AD Man
 ####
 # Google
-  - DOMAIN,ad.doubleclick.net
   - DOMAIN-KEYWORD,g.doubleclick
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # 央视影音
