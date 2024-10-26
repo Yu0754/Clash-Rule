@@ -26,5 +26,6 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
 # AD Ban 补充
+  - DOMAIN,msg.umengcloud.com
   - DOMAIN,ulogs.umengcloud.com
   - DOMAIN,cnlogs.umengcloud.com
