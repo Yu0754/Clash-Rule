@@ -1,8 +1,6 @@
 payload:
   # > AD Man
 ####
-#m.exactag.com
-#ptf.flyertrip.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
@@ -30,6 +28,7 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
 # AD Ban 补充
+  #- DOMAIN,m.exactag.com
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,ulogs.umengcloud.com
   - DOMAIN,cnlogs.umengcloud.com
