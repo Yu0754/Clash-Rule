@@ -26,6 +26,7 @@ payload:
 # 淘宝
   - DOMAIN,adashxgc.ut.taobao.com
 # 百度
+  - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
   - DOMAIN,als.baidu.com
   - DOMAIN,afd.baidu.com
