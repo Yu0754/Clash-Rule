@@ -58,3 +58,5 @@ payload:
   - DOMAIN-KEYWORD,ad.10010.com
 # 云闪付
   - DOMAIN,ads.cup.com.cn
+# AD Ban 补充
+  - DOMAIN,ulogs.umengcloud.com
