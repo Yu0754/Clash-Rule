@@ -21,14 +21,14 @@ payload:
 # 腾讯
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
-   - DOMAIN,mazu.m.qq.com
+  #- DOMAIN,mazu.m.qq.com
 # 百度
   - DOMAIN,als.baidu.com
   - DOMAIN,afd.baidu.com
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
 # AD Ban 补充
-  #- DOMAIN,m.exactag.com
+  - DOMAIN,m.exactag.com
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,ulogs.umengcloud.com
   - DOMAIN,cnlogs.umengcloud.com
