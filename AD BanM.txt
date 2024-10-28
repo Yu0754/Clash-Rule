@@ -11,6 +11,8 @@ payload:
 # HK01
   - DOMAIN,oi-ow.pubmatic.com
   - DOMAIN,ads.pubmatic.com
+  - DOMAIN,ad.crwdcntrl.net
+  - DOMAIN,bcp.crwdcntrl.net
 # Viu
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
