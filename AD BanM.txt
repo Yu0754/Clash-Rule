@@ -8,6 +8,12 @@ payload:
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
+# HK01
+  - DOMAIN,oi-ow.pubmatic.com
+  - DOMAIN,ads.pubmatic.com
+# Viu
+  - DOMAIN,wd.adcolony.com
+  - DOMAIN,adc3-launch.adcolony.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 喜马拉雅
