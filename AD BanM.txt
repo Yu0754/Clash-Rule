@@ -48,4 +48,4 @@ payload:
   - DOMAIN,ad.mcloud.139.com
   - DOMAIN-KEYWORD,ad.10010.com
 # 其他广告
-  - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN,c.amazon-adsystem.com
