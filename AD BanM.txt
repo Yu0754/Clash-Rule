@@ -9,11 +9,11 @@ payload:
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # HK01
-  - DOMAIN,ad.crwdcntrl.net
-  - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,oi-ow.pubmatic.com
 # Viu
+  - DOMAIN,ad.crwdcntrl.net
+  - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
 # 央视影音
@@ -41,3 +41,4 @@ payload:
   - DOMAIN,sugar.zhihu.com
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,monitor.ads.8le8le.com
+  - DOMAIN,aaid.uyunad.com
