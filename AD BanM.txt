@@ -46,4 +46,4 @@ payload:
   - DOMAIN,aaid.uyunad.com
 # 运营商
   - DOMAIN,ad.mcloud.139.com
-  - DOMAIN,smartad.10010.com
+  - DOMAIN-KEYWORD,ad.10010.com
