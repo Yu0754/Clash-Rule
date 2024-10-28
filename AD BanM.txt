@@ -44,3 +44,6 @@ payload:
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,monitor.ads.8le8le.com
   - DOMAIN,aaid.uyunad.com
+# 运营商
+  - DOMAIN,ad.mcloud.139.com
+  - DOMAIN,smartad.10010.com
