@@ -39,7 +39,3 @@ payload:
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
   - DOMAIN,appcloud2.in.zhihu.com
-# AD Ban 补充
-  - DOMAIN,msg.umengcloud.com
-  - DOMAIN,ulogs.umengcloud.com
-  - DOMAIN,cnlogs.umengcloud.com
