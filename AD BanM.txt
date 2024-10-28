@@ -17,6 +17,7 @@ payload:
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,adbehaviorhera.ximalaya.com
 # 小米
+  - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 腾讯
   - DOMAIN,sdk.e.qq.com
