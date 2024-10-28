@@ -40,3 +40,4 @@ payload:
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
   - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,monitor.ads.8le8le.com
