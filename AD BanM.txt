@@ -35,6 +35,7 @@ payload:
   - DOMAIN,afd.baidu.com
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
+  - DOMAIN,mobads-pre-config.cdn.bcebos.com
 # 知乎
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
