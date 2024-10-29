@@ -49,3 +49,4 @@ payload:
   - DOMAIN-KEYWORD,ad.10010.com
 # 其他广告
   - DOMAIN,c.amazon-adsystem.com
+  - DOMAIN,ad.advst.cp33.ott.cibntv.net
