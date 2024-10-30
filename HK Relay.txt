@@ -3,6 +3,8 @@ payload:
 ####
 # Bing
   - DOMAIN,www.bing.com
+# Google
+  - DOMAIN,www.google.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
