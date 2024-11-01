@@ -1,6 +1,4 @@
 payload:
   # > OT Relay
 ####
-# Claude
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN,sample.sample
