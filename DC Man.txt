@@ -5,3 +5,5 @@ payload:
   - DOMAIN,dler.cloud
 # DNS
   - DOMAIN,dns.alidns.com
+  - DOMAIN,doh.pub
+  - DOMAIN,dot.pub
