@@ -1,4 +1,4 @@
 payload:
   # > DC Man
 ####
-  - DOMAIN,sample.sample
+  - DOMAIN,dns.alidns.com
