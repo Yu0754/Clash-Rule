@@ -3,3 +3,5 @@ payload:
 ####
 # DlerCloud
   - DOMAIN,dler.cloud
+# DNS
+  - DOMAIN,dns.alidns.com
