@@ -1,4 +1,3 @@
 payload:
   # > DC Man
 ####
-  - DOMAIN,dns.alidns.com
