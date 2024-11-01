@@ -3,7 +3,6 @@ payload:
 ####
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # HK01
