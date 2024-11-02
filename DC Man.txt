@@ -1,4 +1,5 @@
 payload:
   # > DC Man
 ####
-  - DOMAIN,sample.sample
+# Dler Cloud
+  - DOMAIN,dler.cloud
