@@ -1,5 +1,4 @@
 payload:
   # > DC Man
 ####
-# Apple IP
-  - IP-CIDR,17.0.0.0/8
+  - DOMAIN,sample.sample
