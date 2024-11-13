@@ -16,6 +16,7 @@ payload:
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
 # 小米电视
+  - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
