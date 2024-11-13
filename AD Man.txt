@@ -14,8 +14,8 @@ payload:
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
-# 南方+
-  - DOMAIN,advapi.nfnews.com
+# 小米电视
+  - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
 # 喜马拉雅
