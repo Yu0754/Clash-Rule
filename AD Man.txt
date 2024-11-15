@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
+  - DOMAIN,tracker.ads.cctv.com
   - DOMAIN,adstore-index-1252524079.file.myqcloud.com
 # 喜马拉雅
   - DOMAIN,adse.ximalaya.com
