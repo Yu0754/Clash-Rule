@@ -44,6 +44,8 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
+# 淘宝
+  - DOMAIN,h-adashx.ut.taobao.com
 # 建行
   - DOMAIN,adv.ccb.com
 # 银联
