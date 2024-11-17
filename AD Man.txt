@@ -19,7 +19,6 @@ payload:
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
 # 小米电视
-  - DOMAIN,tvmgr.pandora.xiaomi.com
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
@@ -50,8 +49,6 @@ payload:
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,adashxgc.ut.taobao.com
   - DOMAIN,adash-emas.cn-hangzhou.aliyuncs.com
-# 京东
-  - DOMAIN-SUFFIX,jddebug.com
 # 建行
   - DOMAIN,adv.ccb.com
 # 银联
