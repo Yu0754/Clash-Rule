@@ -46,10 +46,6 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
-# 美团
-  - DOMAIN,maplocatesdksnapshot.d.meituan.net
-# 京东
-  - DOMAIN-SUFFIX,jddebug.com
 # 阿里巴巴
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,adashxgc.ut.taobao.com
