@@ -4,7 +4,7 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
-  #- DOMAIN,ogads-pa.clients6.google.com
+  - DOMAIN,ogads-pa.clients6.google.com
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
@@ -50,6 +50,8 @@ payload:
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,adashxgc.ut.taobao.com
   - DOMAIN,adash-emas.cn-hangzhou.aliyuncs.com
+# 京东
+  - DOMAIN-SUFFIX,jddebug.com
 # 建行
   - DOMAIN,adv.ccb.com
 # 银联
