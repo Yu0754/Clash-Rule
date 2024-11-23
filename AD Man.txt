@@ -19,8 +19,6 @@ payload:
   - DOMAIN,prd.jwpltx.com
   - DOMAIN,entitlements.jwplayer.com
 # 小米电视
-  - IP-CIDR,180.76.76.76/32
-  - IP-CIDR6,240c::6666/128
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
