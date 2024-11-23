@@ -3,4 +3,5 @@ payload:
 ####
 # HBO MAX
   - DOMAIN,default.any-any.prd.api.discomax.com
+  - DOMAIN,telegraph.prd.api.discomax.com
   #- DOMAIN-SUFFIX,prd.api.discomax.com
