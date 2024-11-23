@@ -2,4 +2,5 @@ payload:
   # > OT Relay
 ####
 # HBO MAX
-  - DOMAIN-SUFFIX,prd.api.discomax.com
+  - DOMAIN,default.any-any.prd.api.discomax.com
+  #- DOMAIN-SUFFIX,prd.api.discomax.com
