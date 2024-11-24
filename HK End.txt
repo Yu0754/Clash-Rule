@@ -1,5 +1,4 @@
 payload:
   # > HK End
 ####
-# RTHK
-  - DOMAIN-KEYWORD,rthk
+- DOMAIN,sample,sample
