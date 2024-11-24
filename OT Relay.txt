@@ -2,9 +2,3 @@ payload:
   # > OT Relay
 ####
   - DOMAIN,sample,sample
-# HBO MAX
-  #- DOMAIN,busy.any-any.prd.api.discomax.com
-  #- DOMAIN,busy.any-latam.prd.api.discomax.com
-  #- DOMAIN,default.any-any.prd.api.discomax.com
-  #- DOMAIN,default.any-latam.prd.api.discomax.com
-  #- DOMAIN,default.beam-latam.prd.api.discomax.com
