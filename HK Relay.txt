@@ -1,8 +1,6 @@
 payload:
   # > HK Relay
 ####
-# Disney+
-  - DOMAIN,disney.api.edge.bamgrid.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
@@ -21,3 +19,5 @@ payload:
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
   - DOMAIN,sns.ap-southeast-1.amazonaws.com
   - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
+# Disney+
+  - DOMAIN,disney.api.edge.bamgrid.com
