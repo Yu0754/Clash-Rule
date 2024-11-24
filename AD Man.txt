@@ -4,8 +4,6 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
-  - DOMAIN,ogads-pa.clients6.google.com
-  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # HK01
@@ -16,16 +14,11 @@ payload:
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
 # 小米电视
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
 # 央视影音
   - DOMAIN,galaxy.bjcathay.com
-  - DOMAIN,tracker.ads.cctv.com
-  - DOMAIN,ad.advst.cp33.ott.cibntv.net
-  - DOMAIN,adstore-index-1252524079.file.myqcloud.com
 # 喜马拉雅
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
@@ -45,16 +38,3 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
-# 阿里巴巴
-  - DOMAIN,h-adashx.ut.taobao.com
-  - DOMAIN,adashxgc.ut.taobao.com
-  - DOMAIN,adash-emas.cn-hangzhou.aliyuncs.com
-# 建行
-  - DOMAIN,adv.ccb.com
-# 银联
-  - DOMAIN,ads.cup.com.cn
-# 携程
-  - DOMAIN,ma-adx.ctrip.com
-# 电信运营商
-  - DOMAIN,ad.mcloud.139.com
-  - DOMAIN-KEYWORD,ad.10010.com
