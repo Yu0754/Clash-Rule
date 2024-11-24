@@ -2,9 +2,9 @@ payload:
   # > OT Relay
 ####
 # Bing
-  - DOMAIN,www.bing.com
+  #- DOMAIN,www.bing.com
 # Google
-  - DOMAIN,www.google.com
+  #- DOMAIN,www.google.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
