@@ -7,13 +7,13 @@ payload:
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # HK01
-  #- DOMAIN,ads.pubmatic.com
-  #- DOMAIN,oi-ow.pubmatic.com
+  - DOMAIN,ads.pubmatic.com
+  - DOMAIN,oi-ow.pubmatic.com
 # Viu
   #- DOMAIN,ad.crwdcntrl.net
   #- DOMAIN,bcp.crwdcntrl.net
-  #- DOMAIN,wd.adcolony.com
-  #- DOMAIN,adc3-launch.adcolony.com
+  - DOMAIN,wd.adcolony.com
+  - DOMAIN,adc3-launch.adcolony.com
 # 小米电视
   - DOMAIN,adx.v.mitvos.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
