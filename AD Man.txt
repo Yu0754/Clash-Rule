@@ -4,14 +4,15 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
+  - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
 # HK01
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,oi-ow.pubmatic.com
 # Viu
-  #- DOMAIN,ad.crwdcntrl.net
-  #- DOMAIN,bcp.crwdcntrl.net
+  - DOMAIN,ad.crwdcntrl.net
+  - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
 # 小米电视
