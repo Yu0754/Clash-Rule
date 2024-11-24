@@ -7,6 +7,3 @@ payload:
   - DOMAIN,default.any-any.prd.api.discomax.com
   - DOMAIN,default.any-latam.prd.api.discomax.com
   - DOMAIN,default.beam-latam.prd.api.discomax.com
-# Disney+
-  - DOMAIN,disney.api.edge.bamgrid.com
-  - DOMAIN,disney.content.edge.bamgrid.com
