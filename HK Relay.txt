@@ -3,6 +3,8 @@ payload:
 ####
 # Bing
   - DOMAIN,www.bing.com
+# RTHK
+  - DOMAIN-KEYWORD,rthk
 # TVB
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
