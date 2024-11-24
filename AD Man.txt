@@ -38,6 +38,3 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
-# AD BanA 补充
-  - DOMAIN,msg.umengcloud.com
-  - DOMAIN,ulogs.umengcloud.com
