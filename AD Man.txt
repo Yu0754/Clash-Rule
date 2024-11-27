@@ -15,7 +15,7 @@ payload:
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
-# 南方+
+# 南方 Plus
   - DOMAIN,advapi.nfnews.com
 # 小米电视
   - DOMAIN,adx.v.mitvos.com
