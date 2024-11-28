@@ -2,11 +2,9 @@ payload:
   # > OT Relay
 ####
 # Claude
-  - DOMAIN,o1158394.ingest.us.sentry.io
-  - DOMAIN,api3.siftscience.com
-  - DOMAIN-SUFFIX, anthropic.com
-  - DOMAIN-SUFFIX, claude.ai
-  - DOMAIN-SUFFIX, claudeusercontent.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
