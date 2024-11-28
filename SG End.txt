@@ -6,6 +6,20 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claudeusercontent.com
+# Netflix
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,netflix.ca
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-SUFFIX,netflixinvestor.com
+  - DOMAIN-SUFFIX,netflixtechblog.com
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,nflximg.com
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflxsearch.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,netflix.com.edgesuite.net
 # HBO Max
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
@@ -25,3 +39,10 @@ payload:
   - DOMAIN,out053a3bejgh7t0phqa0csou.litix.io
   - DOMAIN,sdk.iad-01.braze.com
   - DOMAIN-SUFFIX,branch.io
+# Disney Plus
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
+  - DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
+  - DOMAIN-SUFFIX,prod-static.disney-plus.net
+  - DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
+  - DOMAIN-SUFFIX,prod-static.disney-plus.net
