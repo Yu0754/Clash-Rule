@@ -10,7 +10,7 @@ payload:
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,proactivebackend-pa.googleapis.com
 # RTHK
-  - DOMAIN-KEYWORD,rthk
+  #- DOMAIN-KEYWORD,rthk
 # TVB
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
