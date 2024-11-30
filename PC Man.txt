@@ -1,4 +1,4 @@
 payload:
-  # > Proxy Man
+  # > PC Man
 ####
   - DOMAIN,sample,sample
