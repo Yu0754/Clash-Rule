@@ -19,7 +19,7 @@ payload:
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
   - DOMAIN,sns.ap-southeast-1.amazonaws.com
   - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
- # > Gemini
+# Gemini
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,proactivebackend-pa.googleapis.com
