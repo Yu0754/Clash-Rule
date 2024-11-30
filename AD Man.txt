@@ -1,6 +1,7 @@
 payload:
   # > AD Man
 ####
+  - DOMAIN,sample.sample
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
