@@ -1,6 +1,14 @@
 payload:
   # > HK Relay
 ####
+# Bing
+  - DOMAIN,www.bing.com
+# Google
+  - DOMAIN,www.google.com
+# Gemini
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
@@ -19,7 +27,3 @@ payload:
   - DOMAIN,d3o7oi00quuwqu.cloudfront.net
   - DOMAIN,sns.ap-southeast-1.amazonaws.com
   - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
-# Gemini
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN,proactivebackend-pa.googleapis.com
