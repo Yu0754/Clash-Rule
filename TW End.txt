@@ -2,3 +2,7 @@ payload:
   # > TW End
 ####
   - DOMAIN,sample.sample
+# Claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
