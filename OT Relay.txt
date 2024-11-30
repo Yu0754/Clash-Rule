@@ -2,11 +2,3 @@ payload:
   # > OT Relay
 ####
   - DOMAIN,sample.sample
-# Bing
-  - DOMAIN,www.bing.com
-# Google
-  - DOMAIN,www.google.com
-# Gemini
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN,proactivebackend-pa.googleapis.com
