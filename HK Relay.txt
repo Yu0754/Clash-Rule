@@ -1,6 +1,7 @@
 payload:
   # > HK Relay
 ####
+  - DOMAIN,sample.sample
 # Bing
   - DOMAIN,www.bing.com
 # Google
