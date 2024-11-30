@@ -2,6 +2,10 @@ payload:
   # > SG End
 ####
   - DOMAIN,sample.sample
+# Claude
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
