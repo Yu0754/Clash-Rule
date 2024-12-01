@@ -4,10 +4,10 @@ payload:
   - DOMAIN,sample.sample
 # Claude
   - DOMAIN,maps.googleapis.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claudeusercontent.com
+  #- DOMAIN-SUFFIX,claude.ai
+  #- DOMAIN-SUFFIX,anthropic.com
+  #- DOMAIN-SUFFIX,claudeusercontent.com
 # Gemini
   - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN,proactivebackend-pa.googleapis.com
+  #- DOMAIN,generativelanguage.googleapis.com
+  #- DOMAIN,proactivebackend-pa.googleapis.com
