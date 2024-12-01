@@ -2,6 +2,8 @@ payload:
   # > HK Relay
 ####
   - DOMAIN,sample.sample
+# test
+  - DOMAIN-KEYWORD,maps
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
