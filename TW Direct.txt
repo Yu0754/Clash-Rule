@@ -1,4 +1,4 @@
 payload:
-  # > JP End
+  # > TW Direct
 ####
   - DOMAIN,sample.sample
