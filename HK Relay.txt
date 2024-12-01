@@ -2,14 +2,6 @@ payload:
   # > HK Relay
 ####
   - DOMAIN,sample.sample
-# Bing
-  - DOMAIN-SUFFIX,bing.com
-# Google
-  - DOMAIN-SUFFIX,google.com
-# Gemini
-  #- DOMAIN-SUFFIX,gemini.google.com
-  #- DOMAIN,generativelanguage.googleapis.com
-  #- DOMAIN,proactivebackend-pa.googleapis.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
