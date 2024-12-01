@@ -6,10 +6,6 @@ payload:
   - DOMAIN,www.bing.com
 # Google
   - DOMAIN,www.google.com
-# Claude
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claudeusercontent.com
 # Gemini
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
