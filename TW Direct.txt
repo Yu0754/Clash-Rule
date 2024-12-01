@@ -10,3 +10,11 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,proactivebackend-pa.googleapis.com
+# Disney+
+  - DOMAIN,disney.api.edge.bamgrid.com
+# HBO MAX
+  - DOMAIN,busy.any-any.prd.api.discomax.com
+  - DOMAIN,busy.any-latam.prd.api.discomax.com
+  - DOMAIN,default.any-any.prd.api.discomax.com
+  - DOMAIN,default.any-latam.prd.api.discomax.com
+  - DOMAIN,default.beam-latam.prd.api.discomax.com
