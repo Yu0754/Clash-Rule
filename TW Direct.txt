@@ -3,9 +3,9 @@ payload:
 ####
   - DOMAIN,sample.sample
 # Bing
-  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN,www.bing.com
 # Google
-  - DOMAIN-SUFFIX,google.com
+  - DOMAIN,www.google.com
 # Gemini
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
