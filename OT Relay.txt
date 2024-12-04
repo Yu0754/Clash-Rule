@@ -6,6 +6,7 @@ payload:
   - DOMAIN,www.bing.com
 # Google
   - DOMAIN,www.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
