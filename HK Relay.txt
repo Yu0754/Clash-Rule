@@ -1,7 +1,6 @@
 payload:
   # > HK Relay
 ####
-  - DOMAIN,sample,sample
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
