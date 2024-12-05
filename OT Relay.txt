@@ -1,6 +1,10 @@
 payload:
   # > OT Relay
 ####
+# Gemini
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
