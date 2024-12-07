@@ -1,6 +1,8 @@
 payload:
   # > OT Relay
 ####
+# Bing
+  - DOMAIN,www.bing.com
 # Gemini
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
