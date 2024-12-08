@@ -1,5 +1,5 @@
 payload:
-  # > TW Direct
+  # > TW Relay
 ####
 # Bing
   - DOMAIN,www.bing.com
