@@ -3,6 +3,8 @@ payload:
 ####
 # Bing
   - DOMAIN,www.bing.com
+# OpenAI
+  - DOMAIN-SUFFIX,chatgpt.com
 # Gemini
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
