@@ -7,6 +7,9 @@ payload:
   - DOMAIN,www.google.com
 # Gemini
   - DOMAIN,gemini.google.com
+  #- DOMAIN-SUFFIX,gemini.google.com
+  #- DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
 # ChatGPT
   - DOMAIN,ab.chatgpt.com
 # Disney+
