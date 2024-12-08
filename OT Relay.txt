@@ -3,6 +3,8 @@ payload:
 ####
 # Bing
   - DOMAIN,www.bing.com
+# Google
+  - DOMAIN,www.google.com
 # Gemini
   - DOMAIN,gemini.google.com
 # ChatGPT
