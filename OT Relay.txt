@@ -3,12 +3,10 @@ payload:
 ####
 # Bing
   - DOMAIN,www.bing.com
-# ChatGPT
-  - DOMAIN,ab.chatgpt.com
 # Gemini
   - DOMAIN,gemini.google.com
-  #- DOMAIN,generativelanguage.googleapis.com
-  #- DOMAIN,proactivebackend-pa.googleapis.com
+# ChatGPT
+  - DOMAIN,ab.chatgpt.com
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
