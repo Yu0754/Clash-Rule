@@ -1,5 +1,6 @@
 payload:
   # > PC Man
 ####
-# Tencent
+# DNS Block
+  - DOMAIN-SUFFIX,jddebug.com
   - DOMAIN-KEYWORD,trace.qq.com
