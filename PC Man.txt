@@ -1,7 +1,3 @@
 payload:
   # > PC Man
 ####
-# DNS Block
-  - DOMAIN-SUFFIX,jddebug.com
-  - DOMAIN-KEYWORD,trace.qq.com
-  - DOMAIN,maplocatesdksnapshot.d.meituan.net
