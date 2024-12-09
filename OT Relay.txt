@@ -10,6 +10,7 @@ payload:
   - DOMAIN,proactivebackend-pa.googleapis.com
 # ChatGPT
   - DOMAIN,ab.chatgpt.com
+  - DOMAIN,ios.chat.openai.com
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
