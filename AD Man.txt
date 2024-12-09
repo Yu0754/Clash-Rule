@@ -32,7 +32,6 @@ payload:
 # 腾讯
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
-  #- DOMAIN-KEYWORD,trace.qq.com
 # 知乎
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
