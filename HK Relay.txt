@@ -6,6 +6,8 @@ payload:
 # TVB
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
+  - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,youborafds01.com
 # ViuTV
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-KEYWORD,viu.tv
