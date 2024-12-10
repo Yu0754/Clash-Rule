@@ -6,6 +6,7 @@ payload:
   - DOMAIN,ad.doubleclick.net
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
+  - DOMAIN-KEYWORD,youbora
   - DOMAIN-KEYWORD,mai.tvb.com
 # HK01
   - DOMAIN,ads.pubmatic.com
