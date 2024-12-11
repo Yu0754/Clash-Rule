@@ -7,9 +7,6 @@ payload:
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
-  - DOMAIN-SUFFIX,youbora.tvb.com
-  - DOMAIN-SUFFIX,youboranqs01.com
-  - DOMAIN-SUFFIX,youborafds01.com
 # HK01
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,oi-ow.pubmatic.com
@@ -18,8 +15,6 @@ payload:
   - DOMAIN,bcp.crwdcntrl.net
   - DOMAIN,wd.adcolony.com
   - DOMAIN,adc3-launch.adcolony.com
-  - DOMAIN,prd.jwpltx.com
-  - DOMAIN,entitlements.jwplayer.com
 # 南方 Plus
   - DOMAIN,advapi.nfnews.com
 # 小米电视
