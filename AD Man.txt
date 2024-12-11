@@ -47,3 +47,9 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
+# Other
+  - DOMAIN,ads.ysepay.com
+  - DOMAIN,ads.cup.com.cn
+  - DOMAIN,ad.mcloud.139.com
+  - DOMAIN-KEYWORD,ad.10010.com
+  - DOMAIN-SUFFIX,toponad.com
