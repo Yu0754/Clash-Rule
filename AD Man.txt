@@ -2,11 +2,13 @@ payload:
   # > AD Man
 ####
 # Google
-  - DOMAIN-KEYWORD,g.doubleclick
-  - DOMAIN,ad.doubleclick.net
   - DOMAIN,pagead2.googlesyndication.com
+  - DOMAIN,ad.doubleclick.net
+  - DOMAIN-KEYWORD,g.doubleclick
 # TVB
-  - DOMAIN-KEYWORD,youbora
+  - DOMAIN,youbora.tvb.com
+  - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,youborafds01.com
   - DOMAIN-KEYWORD,mai.tvb.com
 # HK01
   - DOMAIN,ads.pubmatic.com
