@@ -1,13 +1,10 @@
 payload:
   # > OT Relay
 ####
+# Claude AI
+  - DOMAIN,api.claude.ai
 # Disney+
-  #- DOMAIN,appconfigs.disney-plus.net
   - DOMAIN,disney.api.edge.bamgrid.com
-  #- DOMAIN,events.prd.api.discomax.com
-  #- DOMAIN,telegraph.prd.api.discomax.com
-  #- DOMAIN,disney.content.edge.bamgrid.com
-  #- DOMAIN,disney.connections.edge.bamgrid.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
