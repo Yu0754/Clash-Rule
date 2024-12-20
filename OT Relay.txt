@@ -5,6 +5,9 @@ payload:
   - DOMAIN,api.claude.ai
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
+  - DOMAIN,pcs.bamgrid.com
+  - DOMAIN,disney.my.sentry.io
+  - DOMAIN,disney.connections.edge.bamgrid.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
