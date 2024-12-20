@@ -1,5 +1,3 @@
 payload:
   # > SG End
 ####
-# Disney+
-  - DOMAIN,disney.api.edge.bamgrid.com
