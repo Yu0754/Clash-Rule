@@ -7,6 +7,7 @@ payload:
   - DOMAIN,disney.api.edge.bamgrid.com
   - DOMAIN,pcs.bamgrid.com
   - DOMAIN,disney.my.sentry.io
+  - DOMAIN,bam-sdk-configs.bamgrid.com
   - DOMAIN,disney.connections.edge.bamgrid.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
