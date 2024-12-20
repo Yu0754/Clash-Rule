@@ -4,13 +4,13 @@ payload:
 # Bing
   - DOMAIN,www.bing.com
 # Google
-  - DOMAIN,www.google.com
+  #- DOMAIN,www.google.com
 # Gemini
-  - DOMAIN,gemini.google.com
-  - DOMAIN,proactivebackend-pa.googleapis.com
+  #- DOMAIN,gemini.google.com
+  #- DOMAIN,proactivebackend-pa.googleapis.com
 # ChatGPT
-  - DOMAIN,ab.chatgpt.com
-  - DOMAIN,ios.chat.openai.com
+  #- DOMAIN,ab.chatgpt.com
+  #- DOMAIN,ios.chat.openai.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
