@@ -4,16 +4,16 @@ payload:
 # Claude AI
   #- DOMAIN,api.claude.ai
 # Gemini
-  #- DOMAIN,gemini.google.com
-  #- DOMAIN,proactivebackend-pa.googleapis.com
+  - DOMAIN,gemini.google.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
 # ChatGPT
   #- DOMAIN,ab.chatgpt.com
   #- DOMAIN,ios.chat.openai.com
 # Disney+
-  #- DOMAIN,disney.api.edge.bamgrid.com
+  - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
-  #- DOMAIN,busy.any-any.prd.api.discomax.com
-  #- DOMAIN,busy.any-latam.prd.api.discomax.com
-  #- DOMAIN,default.any-any.prd.api.discomax.com
-  #- DOMAIN,default.any-latam.prd.api.discomax.com
-  #- DOMAIN,default.beam-latam.prd.api.discomax.com
+  - DOMAIN,busy.any-any.prd.api.discomax.com
+  - DOMAIN,busy.any-latam.prd.api.discomax.com
+  - DOMAIN,default.any-any.prd.api.discomax.com
+  - DOMAIN,default.any-latam.prd.api.discomax.com
+  - DOMAIN,default.beam-latam.prd.api.discomax.com
