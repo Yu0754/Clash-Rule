@@ -2,24 +2,24 @@ payload:
   # > HK Relay
 ####
 # Bing
-  - DOMAIN,www.bing.com
+  #- DOMAIN,www.bing.com
 # Google
-  - DOMAIN,www.google.com
+  #- DOMAIN,www.google.com
 # RTHK
-  - DOMAIN-KEYWORD,rthk
+  #- DOMAIN-KEYWORD,rthk
 # TVB
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-KEYWORD,mytvsuper
+  #- DOMAIN-SUFFIX,tvb.com
+  #- DOMAIN-KEYWORD,mytvsuper
 # ViuTV
-  - DOMAIN-KEYWORD,viutv
-  - DOMAIN-KEYWORD,viu.tv
-  - DOMAIN-SUFFIX,now.com
-  - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-SUFFIX,viu.com
-  - DOMAIN,licensing.bitmovin.com
-  - DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
-  - DOMAIN,d1k2us671qcoau.cloudfront.net
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
-  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
-  - DOMAIN,sns.ap-southeast-1.amazonaws.com
-  - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
+  #- DOMAIN-KEYWORD,viutv
+  #- DOMAIN-KEYWORD,viu.tv
+  #- DOMAIN-SUFFIX,now.com
+  #- DOMAIN-SUFFIX,nowe.com
+  #- DOMAIN-SUFFIX,viu.com
+  #- DOMAIN,licensing.bitmovin.com
+  #- DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
+  #- DOMAIN,d1k2us671qcoau.cloudfront.net
+  #- DOMAIN,d2anahhhmp1ffz.cloudfront.net
+  #- DOMAIN,d3o7oi00quuwqu.cloudfront.net
+  #- DOMAIN,sns.ap-southeast-1.amazonaws.com
+  #- DOMAIN,mobileanalytics.us-east-1.amazonaws.com
