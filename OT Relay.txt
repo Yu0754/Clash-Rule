@@ -11,7 +11,7 @@ payload:
   - DOMAIN,ios.chat.openai.com
 # Disney+
   #- DOMAIN,disney.my.sentry.io
-  #- DOMAIN,appconfigs.disney-plus.net
+  - DOMAIN,appconfigs.disney-plus.net
   - DOMAIN,disney.api.edge.bamgrid.com
   #- DOMAIN,disney.content.edge.bamgrid.com
   #- DOMAIN,disney.playback.edge.bamgrid.com
