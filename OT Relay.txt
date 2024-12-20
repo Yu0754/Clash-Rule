@@ -10,6 +10,7 @@ payload:
   - DOMAIN,ab.chatgpt.com
   - DOMAIN,ios.chat.openai.com
 # Disney+
+  - DOMAIN,disney.my.sentry.io
   - DOMAIN,appconfigs.disney-plus.net
   - DOMAIN,disney.api.edge.bamgrid.com
   - DOMAIN,disney.content.edge.bamgrid.com
