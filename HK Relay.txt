@@ -1,8 +1,6 @@
 payload:
   # > HK Relay
 ####
-  - DOMAIN,appconfigs.disney-plus.net
-  - DOMAIN,disney.connections.edge.bamgrid.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
