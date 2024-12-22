@@ -4,8 +4,8 @@ payload:
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
-  - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,mytvsuper
+  - DOMAIN-SUFFIX,tvb.com
 # ViuTV
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-KEYWORD,viu.tv
