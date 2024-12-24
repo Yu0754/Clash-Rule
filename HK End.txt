@@ -1,4 +1,3 @@
 payload:
   # > HK End
 ####
-  - DOMAIN,appconfigs.disney-plus.net
