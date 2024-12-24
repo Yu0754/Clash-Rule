@@ -1,6 +1,4 @@
 payload:
   # > HK End
 ####
-  - DOMAIN,disney.my.sentry.io
   - DOMAIN,appconfigs.disney-plus.net
-  - DOMAIN,disney.connections.edge.bamgrid.com
