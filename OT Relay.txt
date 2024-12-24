@@ -13,6 +13,10 @@ payload:
   - DOMAIN,ios.chat.openai.com
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
+  - DOMAIN,disney.connections.edge.bamgrid.com
+  - DOMAIN,disney.playback.edge.bamgrid.com
+  - DOMAIN,disney.images.edge.bamgrid.com
+  - DOMAIN,appconfigs.disney-plus.net
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
