@@ -12,6 +12,7 @@ payload:
   - DOMAIN,ab.chatgpt.com
   - DOMAIN,ios.chat.openai.com
 # Disney+
+  - DOMAIN,appconfigs.disney-plus.net
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
