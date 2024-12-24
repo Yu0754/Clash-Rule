@@ -17,6 +17,7 @@ payload:
   - DOMAIN,disney.playback.edge.bamgrid.com
   - DOMAIN,disney.images.edge.bamgrid.com
   - DOMAIN,appconfigs.disney-plus.net
+  - DOMAIN,disney.my.sentry.io
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
