@@ -1,7 +1,3 @@
 payload:
   # > HK End
 ####
-# DisneyPlus
-  - DOMAIN-SUFFIX,media.dssott.com
-# HBO Max
-  - DOMAIN-SUFFIX,media.max.com
