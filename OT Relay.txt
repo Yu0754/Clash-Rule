@@ -1,6 +1,8 @@
 payload:
   # > OT Relay
 ####
+# Claude
+  - DOMAIN,api.claude.ai
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
