@@ -1,10 +1,16 @@
 payload:
   # > OT Relay
 ####
+# Bing
+  - DOMAIN,www.bing.com
+# Google
+  - DOMAIN,www.google.com
+# Gemini
+  - DOMAIN,gemini.google.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
 # Claude
   - DOMAIN,api.claude.ai
 # ChatGPT
-  - DOMAIN,pay.openai.com
   - DOMAIN,ab.chatgpt.com
   - DOMAIN,ios.chat.openai.com
 # HBO MAX
