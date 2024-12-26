@@ -4,6 +4,7 @@ payload:
 # Claude
   - DOMAIN,api.claude.ai
 # ChatGPT
+  - DOMAIN,pay.openai.com
   - DOMAIN,ab.chatgpt.com
   - DOMAIN,ios.chat.openai.com
 # HBO MAX
