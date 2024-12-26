@@ -4,7 +4,7 @@ payload:
 # Bing
   - DOMAIN,www.bing.com
 # Copilot
-  - DOMAIN,gateway-copilot.bingviz.microsoftapp.net
+  - DOMAIN,copilot.microsoft.com
 # Google
   - DOMAIN,www.google.com
 # Gemini
