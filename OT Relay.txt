@@ -9,10 +9,10 @@ payload:
   - DOMAIN,gemini.google.com
   - DOMAIN,proactivebackend-pa.googleapis.com
 # Claude
-  - DOMAIN,api.claude.ai
+  #- DOMAIN,api.claude.ai
 # ChatGPT
-  - DOMAIN,ab.chatgpt.com
-  - DOMAIN,ios.chat.openai.com
+  #- DOMAIN,ab.chatgpt.com
+  #- DOMAIN,ios.chat.openai.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
