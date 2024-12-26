@@ -5,16 +5,14 @@ payload:
   - DOMAIN,www.bing.com
 # Copilot
   - DOMAIN,copilot.microsoft.com
+  - DOMAIN,gateway-copilot.bingviz.microsoftapp.net
 # Google
   - DOMAIN,www.google.com
 # Gemini
   - DOMAIN,gemini.google.com
   - DOMAIN,proactivebackend-pa.googleapis.com
-# Claude
-  #- DOMAIN,api.claude.ai
-# ChatGPT
-  #- DOMAIN,ab.chatgpt.com
-  #- DOMAIN,ios.chat.openai.com
+# DisneyPlus
+  - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
   - DOMAIN,busy.any-any.prd.api.discomax.com
   - DOMAIN,busy.any-latam.prd.api.discomax.com
