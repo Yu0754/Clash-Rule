@@ -3,6 +3,12 @@ payload:
 ####
 # Claude
   - DOMAIN,api.claude.ai
+# Gemini
+  - DOMAIN,gemini.google.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
+# ChatGPT
+  - DOMAIN,ab.chatgpt.com
+  - DOMAIN,ios.chat.openai.com
 # Disney+
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
