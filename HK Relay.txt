@@ -5,12 +5,6 @@ payload:
   - DOMAIN,www.bing.com
 # Google
   - DOMAIN,www.google.com
-# Gemini
-  - DOMAIN,gemini.google.com
-  - DOMAIN,proactivebackend-pa.googleapis.com
-# ChatGPT
-  - DOMAIN,ab.chatgpt.com
-  - DOMAIN,ios.chat.openai.com
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
