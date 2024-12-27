@@ -4,6 +4,8 @@ payload:
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
+  - DOMAIN,www.googleadservices.com
+  - DOMAIN,ogads-pa.clients6.google.com
   - DOMAIN,pagead2.googlesyndication.com
 # TVB
   - DOMAIN-KEYWORD,mai.tvb.com
