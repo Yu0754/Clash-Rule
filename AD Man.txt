@@ -33,6 +33,8 @@ payload:
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,ad.advst.cp33.ott.cibntv.net
 # 喜马拉雅
+  - DOMAIN,mobwsa.ximalaya.com
+  - DOMAIN,livewsa.ximalaya.com
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
   - DOMAIN,adbehavior.ximalaya.com
