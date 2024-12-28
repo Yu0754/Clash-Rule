@@ -36,6 +36,7 @@ payload:
   - DOMAIN,mwsa.ximalaya.com
   - DOMAIN,mobwsa.ximalaya.com
   - DOMAIN,livewsa.ximalaya.com
+  - DOMAIN,gslbtx.ximalaya.com
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
   - DOMAIN,adsehera.ximalaya.com
