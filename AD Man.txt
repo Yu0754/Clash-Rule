@@ -35,6 +35,8 @@ payload:
 # 喜马拉雅
   - DOMAIN,mwsa.ximalaya.com
   - DOMAIN,mobwsa.ximalaya.com
+  - DOMAIN,mobile.ximalaya.com
+  - DOMAIN,mobile.tx.ximalaya.com
   - DOMAIN,livewsa.ximalaya.com
   - DOMAIN,gslbtx.ximalaya.com
   - DOMAIN,adse.ximalaya.com
