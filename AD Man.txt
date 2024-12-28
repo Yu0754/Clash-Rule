@@ -40,6 +40,7 @@ payload:
   - DOMAIN,mwsa.ximalaya.com
   - DOMAIN,mobwsa.ximalaya.com
   - DOMAIN,livewsa.ximalaya.com
+  - DOMAIN,ad.ximalaya.com
   - DOMAIN,adwbs.ximalaya.com
   - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
