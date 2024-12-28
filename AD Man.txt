@@ -1,6 +1,9 @@
 payload:
   # > AD Man
 ####
+# Bing
+  - DOMAIN,shftr.adnxs.net
+  - DOMAIN,sin3-ib.adnxs.com
 # Google
   - DOMAIN-KEYWORD,g.doubleclick
   - DOMAIN,ad.doubleclick.net
