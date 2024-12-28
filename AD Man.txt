@@ -35,8 +35,6 @@ payload:
 # 喜马拉雅
   - DOMAIN,mwsa.ximalaya.com
   - DOMAIN,mobwsa.ximalaya.com
-  #- DOMAIN,mobile.ximalaya.com
-  #- DOMAIN,mobile.tx.ximalaya.com
   - DOMAIN,livewsa.ximalaya.com
   - DOMAIN,gslbtx.ximalaya.com
   - DOMAIN,adse.ximalaya.com
@@ -59,6 +57,3 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
-# 移动联通
-  - DOMAIN,ad.mcloud.139.com
-  - DOMAIN-KEYWORD,ad.10010.com
