@@ -37,13 +37,13 @@ payload:
   - DOMAIN,mobwsa.ximalaya.com
   - DOMAIN,livewsa.ximalaya.com
   - DOMAIN,gslbtx.ximalaya.com
-  #- DOMAIN,adse.ximalaya.com
+  - DOMAIN,adse.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
   - DOMAIN,adsehera.ximalaya.com
   - DOMAIN,adbehavior.ximalaya.com
   - DOMAIN,adbehavior.wsa.ximalaya.com
   - DOMAIN,adbehaviorhera.ximalaya.com
-  #- DOMAIN,xdcs-collector.ximalaya.com
+  - DOMAIN,xdcs-collector.ximalaya.com
 # 腾讯
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,mi.gdt.qq.com
