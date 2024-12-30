@@ -1,4 +1,6 @@
 payload:
   # > PC Man
 ####
-  - DOMAIN-SUFFIX,fanmingming.com
+# TV Live
+  - DOMAIN,live.fanmingming.cn
+  - DOMAIN,live.fanmingming.com
