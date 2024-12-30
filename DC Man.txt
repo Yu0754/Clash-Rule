@@ -1,5 +1,3 @@
 payload:
   # > DC Man
 ####
-  - DOMAIN,cdn.132.us.kg
-  - DOMAIN,cdn9.1689.us.kg
