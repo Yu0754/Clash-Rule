@@ -1,4 +1,3 @@
 payload:
   # > PC Man
 ####
-  - DOMAIN,ali.hlspull.yximgs.com
