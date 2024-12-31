@@ -2,5 +2,6 @@ payload:
   # > HK End
 ####
 # TV Live
+  - DOMAIN-KEYWORD,ok321
   - DOMAIN-KEYWORD,stream-link
   - DOMAIN-KEYWORD,fanmingming
