@@ -2,5 +2,6 @@ payload:
   # > HK End
 ####
 # TV Live
+  - DOMAIN-SUFFIX,aktv.top
   - DOMAIN-KEYWORD,stream-link
   - DOMAIN-KEYWORD,fanmingming
