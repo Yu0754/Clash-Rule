@@ -2,7 +2,5 @@ payload:
   # > HK End
 ####
 # TV Live
-  - DOMAIN-SUFFIX,aktv.top
-  - DOMAIN-SUFFIX,ghgo.xyz
   - DOMAIN-KEYWORD,stream-link
   - DOMAIN-KEYWORD,fanmingming
