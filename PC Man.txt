@@ -1,6 +1,3 @@
 payload:
   # > PC Man
 ####
-# TV Live
-  - DOMAIN,live.fanmingming.cn
-  - DOMAIN,live.fanmingming.com
