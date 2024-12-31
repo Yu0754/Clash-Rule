@@ -1,4 +1,3 @@
 payload:
   # > Japan End
 ####
-  - DOMAIN-KEYWORD,stream-link
