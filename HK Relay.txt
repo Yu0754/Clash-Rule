@@ -1,7 +1,6 @@
 payload:
   # > HK Relay
 ####
-  - DOMAIN-SUFFIX,stream-link.org
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
