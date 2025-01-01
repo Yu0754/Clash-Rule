@@ -1,3 +1,5 @@
 payload:
   # > HK End
 ####
+# StreamLink
+  - DOMAIN-KEYWORD,stream-link
