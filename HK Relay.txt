@@ -3,7 +3,6 @@ payload:
 ####
 # TV Live
   - DOMAIN-KEYWORD,stream-link
-  - DOMAIN-KEYWORD,fanmingming
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
