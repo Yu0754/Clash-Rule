@@ -4,6 +4,5 @@ payload:
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # IPTV
-  - DOMAIN-SUFFIX,aptv.app
   - DOMAIN-KEYWORD,stream-link
   - DOMAIN-KEYWORD,fanmingming
