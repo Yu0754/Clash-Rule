@@ -3,6 +3,3 @@ payload:
 ####
 # RTHK
   - DOMAIN-KEYWORD,rthk
-# IPTV
-  - DOMAIN-KEYWORD,fanmingming
-  - DOMAIN-KEYWORD,stream-link
