@@ -3,3 +3,5 @@ payload:
 ####
 # RTHK
   - DOMAIN-KEYWORD,rthk
+# FMM
+  - DOMAIN-KEYWORD,fanmingming
