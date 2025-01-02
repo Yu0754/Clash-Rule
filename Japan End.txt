@@ -1,6 +1,8 @@
 payload:
   # > Japan End
 ####
+# OK321
+  - DOMAIN-SUFFIX,ok321.top
 # FMM
   - DOMAIN-KEYWORD,fanmingming
 # Stream-Link
