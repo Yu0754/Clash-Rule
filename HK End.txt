@@ -5,3 +5,5 @@ payload:
   - DOMAIN-KEYWORD,rthk
 # FMM
   - DOMAIN-KEYWORD,fanmingming
+# Stream-Link
+  - DOMAIN-KEYWORD,stream-link
