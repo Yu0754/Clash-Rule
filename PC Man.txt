@@ -1,3 +1,5 @@
 payload:
   # > PC Man
 ####
+  - DOMAIN-KEYWORD,fanmingming
+  - DOMAIN-SUFFIX,ok321.top
