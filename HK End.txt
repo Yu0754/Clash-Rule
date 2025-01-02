@@ -4,7 +4,5 @@ payload:
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # IPTV
-  - DOMAIN-SUFFIX,ghgo.xyz
-  - DOMAIN-SUFFIX,ok321.top
   - DOMAIN-KEYWORD,fanmingming
   - DOMAIN-KEYWORD,stream-link
