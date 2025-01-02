@@ -2,5 +2,5 @@ payload:
   # > PC Man
 ####
 # IPTV
-  - DOMAIN-SUFFIX,ok321.top
-  - DOMAIN-KEYWORD,fanmingming
+  #- DOMAIN-SUFFIX,ok321.top
+  #- DOMAIN-KEYWORD,fanmingming
