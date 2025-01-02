@@ -1,3 +1,6 @@
 payload:
   # > Japan End
 ####
+# IPTV
+  - DOMAIN-KEYWORD,fanmingming
+  - DOMAIN-KEYWORD,stream-link
