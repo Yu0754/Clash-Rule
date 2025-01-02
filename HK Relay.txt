@@ -1,10 +1,6 @@
 payload:
   # > HK Relay
 ####
-# FMM
-  #- DOMAIN-KEYWORD,fanmingming
-# Stream-Link
-  - DOMAIN-KEYWORD,stream-link
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
