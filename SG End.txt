@@ -3,4 +3,3 @@ payload:
 ####
 # Stream-Link
   - DOMAIN-KEYWORD,stream-link
-  - DOMAIN,a-rsc.elemecdn.com
