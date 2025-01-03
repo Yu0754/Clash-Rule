@@ -2,4 +2,5 @@ payload:
   # > SG End
 ####
 # TV Live
+  - DOMAIN-KEYWORD,stream-link
   - DOMAIN-KEYWORD,fanmingming
