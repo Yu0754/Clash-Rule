@@ -1,4 +1,5 @@
 payload:
   # > PC Man
 ####
-  - DOMAIN,ali.hlspull.yximgs.com
+# FMM
+  - DOMAIN-KEYWORD,fanmingming
